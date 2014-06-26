@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779796</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hans P</GivenNames>
+      <FamilyNames>Hoier</FamilyNames>
+      <BirthDay>30</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1883</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/e2a74cbff738bf7baf63d34e9164d65a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e824f24cc03a355bd18e0216f570a77c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8bd44e01b31e720d3cb4a8a62f515e39.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/75adb618bee86f88f464ebfcc37043ca.jpg</string>
+  </Images>
+  <Latitude>45.520644</Latitude>
+  <Longitude>-123.004198</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

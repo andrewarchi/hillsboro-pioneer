@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835964</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Melville E</GivenNames>
+      <FamilyNames>Wheeler</FamilyNames>
+      <BirthYear>1891</BirthYear>
+      <DeathYear>1905</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Virgil R</GivenNames>
+      <FamilyNames>Wheeler</FamilyNames>
+      <BirthYear>1899</BirthYear>
+      <DeathYear>1905</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/801acfc81870e9da9a9abf535637a745.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/96f8ddee860d1944c4b7acbc3b3e7bbe.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/65ae13f10e262996b5c0b62d3c342793.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/322c40869d1bbe44a18996fac6a7e8d4.jpg</string>
+  </Images>
+  <Latitude>45.520123</Latitude>
+  <Longitude>-123.00428</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

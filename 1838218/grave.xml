@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838218</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>David Rudolph</GivenNames>
+      <FamilyNames>Armstrong</FamilyNames>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fe511c60a63bfdb359619963e1d51cc4.jpg</string>
+  </Images>
+  <Information>PVT 3 Oregon Ine N C</Information>
+  <Latitude>45.520141</Latitude>
+  <Longitude>-123.006697</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

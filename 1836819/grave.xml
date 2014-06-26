@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836819</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elbert D</GivenNames>
+      <FamilyNames>Custard</FamilyNames>
+      <BirthYear>1861</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <MarriageDay>14</MarriageDay>
+      <MarriageMonth>Nov</MarriageMonth>
+      <MarriageYear>1883</MarriageYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Anna L</GivenNames>
+      <FamilyNames>Custard</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1949</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/952e78d4261a8e4c9645afed0ca118b7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c0b455722641f40dbedcd144bb7591d3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cf5c466287257592e5f7549a146db259.jpg</string>
+  </Images>
+  <Latitude>45.520428</Latitude>
+  <Longitude>-123.006777</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

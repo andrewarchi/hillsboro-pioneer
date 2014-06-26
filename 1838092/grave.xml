@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838092</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alva Z</GivenNames>
+      <FamilyNames>Cragg</FamilyNames>
+      <BirthYear>1873</BirthYear>
+      <DeathYear>1911</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d1823c48621bd4334259dcf829051f3e.jpg</string>
+  </Images>
+  <Latitude>45.520606</Latitude>
+  <Longitude>-123.006391</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

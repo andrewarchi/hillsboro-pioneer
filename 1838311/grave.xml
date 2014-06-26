@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838311</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mahala Jane</GivenNames>
+      <FamilyNames>Chandler</FamilyNames>
+      <BirthYear>1835</BirthYear>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6c0df42a4265bc9ddad115b23a867ad1.jpg</string>
+  </Images>
+  <Latitude>45.520368</Latitude>
+  <Longitude>-123.004851</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

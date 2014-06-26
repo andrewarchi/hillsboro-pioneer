@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837405</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Virginia D</GivenNames>
+      <FamilyNames>Ramey</FamilyNames>
+      <BirthYear>1903</BirthYear>
+      <DeathYear>1992</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Andrew M</GivenNames>
+      <FamilyNames>Ramey</FamilyNames>
+      <BirthYear>1896</BirthYear>
+      <DeathYear>1994</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a2d2c5767cda16246aa07eda90850f4e.jpg</string>
+  </Images>
+  <Information>United Methodist Clergy</Information>
+  <Latitude>45.520336</Latitude>
+  <Longitude>-123.0076</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

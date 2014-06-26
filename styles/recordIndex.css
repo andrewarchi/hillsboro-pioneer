@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+}
+h1 {
+  display: block;
+  width: 100%;
+  padding: 7px 0;
+  margin: 0 0 15px 0;
+  background: #E6E6E6;
+  border-bottom: 1px solid #BDBDBD;
+  box-shadow: 0px 1px 5px #BDBDBD;
+  cursor: default;
+}
+a:link { 
+  color: rgb(72, 156, 256);
+  text-decoration: none; 
+}
+a.linkHome {
+  color: rgb(72, 156, 256) !important;
+}
+a.linkBG { 
+  color: #108B0A; 
+}
+a:visited { 
+  color: #BDBDBD; 
+}
+a:hover, a:active { 
+  text-decoration: underline; 
+}
+.content {
+  /*width: 100%;
+  width: calc(100% - 30px);
+  margin-left: 15px;*/
+  width: 90%;
+  margin-left: 5%;
+}
+tr:nth-child(even) { 
+  background-color: #F2F2F2; 
+}
+table { 
+  margin: 5px 0 20px;
+  border-collapse: collapse; 
+  border: 1px solid black; 
+  cursor: default;
+}
+th { 
+  text-align: center; 
+}
+th, td { 
+  padding: 3px 7px 2px 7px; 
+  border-left:  1px solid black; 
+  border-right: 1px solid black; 
+}
+.thumb {
+  height: 95px;
+  border: 0;
+}
+a .thumb {
+  outline: none;
+  padding: 2px;
+  margin: 15px 8px 5px 0;
+}
+a .thumb:hover {
+  outline: 1px solid black;
+}
+a .thumb:active {
+  outline: 1px solid dashed;
+}
+.fullImage {
+  width: 100%; 
+  box-shadow: 3px 3px 5px #BDBDBD;
+}
+footer {
+  border-top: 1px solid #BDBDBD;
+  border-bottom: 1px solid #BDBDBD;
+  background: #F2F2F2;
+  margin: 20px 0px;
+  padding: 10px 0;
+  text-align: center;
+}

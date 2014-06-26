@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837872</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Evangeline E</GivenNames>
+      <FamilyNames>Norton</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Baby Girl</GivenNames>
+      <FamilyNames>Norton</FamilyNames>
+      <BirthYear>1910</BirthYear>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0fd5e52c127143f7b6d038e6a4df3e7f.jpg</string>
+  </Images>
+  <Information>Wife and Infant Daughter of F.W. Norton</Information>
+  <Latitude>45.520746</Latitude>
+  <Longitude>-123.005117</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

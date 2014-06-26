@@ -1,0 +1,47 @@
+.linkRecord { 
+  color: #108B0A !important; 
+}
+.maiden { 
+  color: rgb(200,0,255) !important; 
+}
+a { 
+  text-decoration: none; 
+  font-weight: 100;
+}
+a:link { 
+  text-decoration: none; 
+}
+a:visited { 
+  color: #BDBDBD; 
+}
+a:hover { 
+  font-weight: bolder; 
+  text-decoration: underline; 
+}
+a:active { 
+  text-decoration: underline; 
+}
+table { 
+  border-collapse: collapse; 
+  border: solid 1px black; 
+  width: 100% 
+}
+th ,td { 
+  padding:3px 7px 2px 7px; 
+  border-width: 0px 1px; 
+  border-style: solid; 
+  border-color: black; 
+  width: 25%; 
+}
+th { 
+  text-align: center; 
+}
+/*tr:nth-child(even) { 
+  background-color: #F2F2F2; 
+}*/
+.empty { 
+  /*background-color: white !important; */
+  border-width: 2px 0px 0px 0px; 
+  border-style: solid; 
+  border-color: black; 
+}

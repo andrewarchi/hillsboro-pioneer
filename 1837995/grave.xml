@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837995</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Martha E</GivenNames>
+      <FamilyNames>Hamar</FamilyNames>
+      <BirthYear>1855</BirthYear>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John P</GivenNames>
+      <FamilyNames>Hamar</FamilyNames>
+      <BirthYear>1845</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Selma</GivenNames>
+      <FamilyNames>Lindahl</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1954</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Hogan</GivenNames>
+      <FamilyNames>Lindahl</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/63ae92f96f16018cbffa739e452def5c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c84ff5466952d90f46155f67da884bbc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fd8400edee441962a67887d8640d28fe.jpg</string>
+  </Images>
+  <Information>CO D 4TH RET. CAL. VOL.</Information>
+  <Latitude>45.520626</Latitude>
+  <Longitude>-123.0074</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837516</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>W J</GivenNames>
+      <FamilyNames>Stansell</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/51d3c86693aa82a02c9e203ae5fbdaed.jpg</string>
+  </Images>
+  <Information>Father</Information>
+  <Latitude>45.520273</Latitude>
+  <Longitude>-123.004882</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

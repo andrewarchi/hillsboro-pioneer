@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838113</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James C</GivenNames>
+      <FamilyNames>Smith</FamilyNames>
+      <DeathDay>13</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2ffb026f37460f543fd8fab5618e0ffb.jpg</string>
+  </Images>
+  <Information>Kansas PVT 4 Cav</Information>
+  <Latitude>45.520163</Latitude>
+  <Longitude>-123.006407</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

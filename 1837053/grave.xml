@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837053</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>David C</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathYear>1963</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5f141ac8df7b8a98208bfacbc0df6d3d.jpg</string>
+  </Images>
+  <Latitude>45.520397</Latitude>
+  <Longitude>-123.005163</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

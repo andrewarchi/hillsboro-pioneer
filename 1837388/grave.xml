@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837388</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frank</GivenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1890</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1890</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>G E</GivenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>J</GivenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a32250442bb9e77eb209a2d8afef0d50.jpg</string>
+  </Images>
+  <Latitude>45.520456</Latitude>
+  <Longitude>-123.004904</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

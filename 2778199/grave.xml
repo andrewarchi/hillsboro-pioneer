@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778199</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Louisa</GivenNames>
+      <FamilyNames>Dunzer</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/ac3709545678aed91b5a7b8e3042eaaa.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/58699a236476b967f29530ea8d080f95.jpg</string>
+  </Images>
+  <Latitude>45.520865</Latitude>
+  <Longitude>-123.004468</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

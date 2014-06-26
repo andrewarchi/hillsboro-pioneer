@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837585</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William A</GivenNames>
+      <FamilyNames>Marlin</FamilyNames>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fe237a3878cad61d6b72e2d2b3ca0ee4.jpg</string>
+  </Images>
+  <Epitaph>Entered into rest</Epitaph>
+  <Latitude>45.520463</Latitude>
+  <Longitude>-123.004726</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

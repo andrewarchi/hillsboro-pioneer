@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836852</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ira Ellis</GivenNames>
+      <FamilyNames>Barrett</FamilyNames>
+      <BirthYear>1885</BirthYear>
+      <DeathYear>1931</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f4af4acbe217d09a962a70b10051cc93.jpg</string>
+  </Images>
+  <Latitude>45.520413</Latitude>
+  <Longitude>-123.005304</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

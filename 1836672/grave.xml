@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836672</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Letitia Ann</GivenNames>
+      <FamilyNames>Bailey</FamilyNames>
+      <BirthYear>1849</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d84c16b2dd4502acee9f472628d7f091.jpg</string>
+  </Images>
+  <Latitude>45.52036</Latitude>
+  <Longitude>-123.005375</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

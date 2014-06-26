@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837456</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Oscar T</GivenNames>
+      <FamilyNames>McConnell</FamilyNames>
+      <BirthYear>1848</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Danie J</GivenNames>
+      <FamilyNames>McConnell</FamilyNames>
+      <BirthYear>1852</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6056b44dab3d66b160abbe0730c7bc0e.jpg</string>
+  </Images>
+  <Latitude>45.520826</Latitude>
+  <Longitude>-123.004747</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

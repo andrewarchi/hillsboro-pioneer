@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836970</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Mother</Prefix>
+      <GivenNames>Nettie</GivenNames>
+      <FamilyNames>Elya</FamilyNames>
+      <BirthYear>1855</BirthYear>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b3cd64d16496f3dcff1cdb628fb30d1d.jpg</string>
+  </Images>
+  <Latitude>45.520831</Latitude>
+  <Longitude>-123.005252</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

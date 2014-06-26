@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836498</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Cynthia A.</GivenNames>
+      <FamilyNames>McCourt</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1843</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1878</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/756b07f692e5389b6a24b2f211af8fa3.jpg</string>
+  </Images>
+  <Information>Wife of A. McCourt</Information>
+  <Latitude>45.52037</Latitude>
+  <Longitude>-123.00624</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

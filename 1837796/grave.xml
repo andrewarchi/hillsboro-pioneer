@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837796</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mamie</GivenNames>
+      <FamilyNames>Phelps</FamilyNames>
+      <BirthYear>1912</BirthYear>
+      <DeathYear>1977</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Bud</GivenNames>
+      <FamilyNames>Phelps</FamilyNames>
+      <BirthYear>1912</BirthYear>
+      <DeathYear>1966</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/559a8d40e1297024e1d0d45d59295fd6.jpg</string>
+  </Images>
+  <Latitude>45.52037</Latitude>
+  <Longitude>-123.007195</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

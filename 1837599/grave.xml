@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837599</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sadie H</GivenNames>
+      <FamilyNames>Newby</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/82e12f6de1fa10f4747173945f01813d.jpg</string>
+  </Images>
+  <Latitude>45.520245</Latitude>
+  <Longitude>-123.00752</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779868</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William R</GivenNames>
+      <FamilyNames>McLeod</FamilyNames>
+      <BirthYear>1903</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b1b2e79714ce123b843d687d9f37f60b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/604c0d692fa794f8d2dfcd20d6a0c297.jpg</string>
+  </Images>
+  <Latitude>45.520553</Latitude>
+  <Longitude>-123.004049</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842825</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Addie Patterson</GivenNames>
+      <FamilyNames>Jenkins</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cb1eec54745aebf8bb66eed2300bacbd.jpg</string>
+  </Images>
+  <Latitude>45.520386</Latitude>
+  <Longitude>-123.0059</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

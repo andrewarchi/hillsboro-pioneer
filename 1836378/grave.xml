@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836378</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary L</GivenNames>
+      <MaidenNames>Hesse</MaidenNames>
+      <FamilyNames>Meacham</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>C E</GivenNames>
+      <FamilyNames>Meacham</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/854f50052a0bb548948754f51a35ad8d.jpg</string>
+  </Images>
+  <Latitude>45.520662</Latitude>
+  <Longitude>-123.005419</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778292</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edith Leonora</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthYear />
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1895</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/f0e6808f9b7763c8df410fc5e0c1e13c.jpg</string>
+  </Images>
+  <Latitude>45.520431</Latitude>
+  <Longitude>-123.004416</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

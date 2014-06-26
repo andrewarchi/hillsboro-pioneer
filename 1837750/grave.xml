@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837750</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frank</GivenNames>
+      <FamilyNames>VanMeltebeke</FamilyNames>
+      <BirthDay>31</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1858</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/53998d0c5340f846a709d1bc07ca74e6.jpg</string>
+  </Images>
+  <Latitude>45.52036</Latitude>
+  <Longitude>-123.007324</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

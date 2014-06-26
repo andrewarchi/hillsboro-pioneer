@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838125</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>M M</GivenNames>
+      <FamilyNames>Brierly</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ff7f5ecdaa1af46846609a93c00c8c18.jpg</string>
+  </Images>
+  <Information>Co A 5 Mo Cav</Information>
+  <Latitude>45.520365</Latitude>
+  <Longitude>-123.006481</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

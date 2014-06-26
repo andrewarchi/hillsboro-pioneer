@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836383</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Earnest C</GivenNames>
+      <FamilyNames>Stewart</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1885</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/607d8d4c48d1a8f7e6215a0973cd6e5e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/0fe2c20641a7f2f49a53813cff4d44a3.jpg</string>
+  </Images>
+  <Latitude>45.520706</Latitude>
+  <Longitude>-123.00577</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

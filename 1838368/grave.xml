@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838368</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Matilda V</GivenNames>
+      <FamilyNames>Galloway</FamilyNames>
+      <BirthYear>1863</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b7aad1c479922647a8ac5033074168ec.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520668</Latitude>
+  <Longitude>-123.004786</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

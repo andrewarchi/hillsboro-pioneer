@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838185</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George</GivenNames>
+      <FamilyNames>Wann</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/534c49b2e5b098118f353fc3a026eb7b.jpg</string>
+  </Images>
+  <Information>Co. K 148 Ill. Inf</Information>
+  <Latitude>45.520677</Latitude>
+  <Longitude>-123.006556</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

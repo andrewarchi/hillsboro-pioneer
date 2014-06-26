@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836986</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Phillip</GivenNames>
+      <FamilyNames>Magstadt</FamilyNames>
+      <BirthDay>16</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1864</BirthYear>
+      <DeathDay>28</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/053522f8dad44577b8f769f330774d35.jpg</string>
+  </Images>
+  <Latitude>45.520895</Latitude>
+  <Longitude>-123.005249</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

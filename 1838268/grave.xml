@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838268</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Willis G</GivenNames>
+      <FamilyNames>Clark</FamilyNames>
+      <BirthYear>1850</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/89ca9be39a980aa392f0b0ad3d3c02e0.jpg</string>
+  </Images>
+  <Latitude>45.520642</Latitude>
+  <Longitude>-123.00672</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836804</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Stephan D</GivenNames>
+      <FamilyNames>Powell</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1833</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Margaret A</GivenNames>
+      <FamilyNames>Powell</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1840</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5643f1ffb59c4aa0231bc217739d5edc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/af4f050e6e4c69f6b42eced74899cc04.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/957ab24d4858eb52088bb28bfa3882f5.jpg</string>
+  </Images>
+  <Latitude>45.520708</Latitude>
+  <Longitude>-123.005937</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838251</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Russell</GivenNames>
+      <FamilyNames>Carter</FamilyNames>
+      <BirthYear>1899</BirthYear>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7ab57d7e773c078c16d2c7a4bb2d1e30.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a2355be3c974839b8db5cc6b191b2d44.jpg</string>
+  </Images>
+  <Epitaph>He Died For His Country</Epitaph>
+  <Latitude>45.520524</Latitude>
+  <Longitude>-123.006706</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

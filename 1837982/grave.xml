@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837982</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Betty Jane</GivenNames>
+      <FamilyNames>Powers</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1923</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/54dc1e3ed757400d69b62bf941278381.jpg</string>
+  </Images>
+  <Latitude>45.52038</Latitude>
+  <Longitude>-123.007387</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

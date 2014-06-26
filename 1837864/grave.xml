@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837864</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Henry W</GivenNames>
+      <FamilyNames>Leisy</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1856</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9b74b527f91bfd7cd20bf4d5c5b74f73.jpg</string>
+  </Images>
+  <Latitude>45.520607</Latitude>
+  <Longitude>-123.00665</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

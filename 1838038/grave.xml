@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838038</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nellie</GivenNames>
+      <FamilyNames>Winegardner</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/70d431bb5b0cef882640b445ec0b7ea6.jpg</string>
+  </Images>
+  <Latitude>45.520522</Latitude>
+  <Longitude>-123.007261</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

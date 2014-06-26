@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842878</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Celia</GivenNames>
+      <FamilyNames>Twombly</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1857</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2bb235698a4455351f428bff19e61075.jpg</string>
+  </Images>
+  <Epitaph>At Rest</Epitaph>
+  <Latitude>45.520714</Latitude>
+  <Longitude>-123.005875</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

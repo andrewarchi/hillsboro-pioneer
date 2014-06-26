@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837994</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nettie L</GivenNames>
+      <FamilyNames>Hamar</FamilyNames>
+      <BirthYear>1888</BirthYear>
+      <DeathYear>1965</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/74e1f4e50584a481ba2749553946f10d.jpg</string>
+  </Images>
+  <Latitude>45.520626</Latitude>
+  <Longitude>-123.0074</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837705</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Florence</GivenNames>
+      <FamilyNames>Woodward</FamilyNames>
+      <BirthDay>6</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1860</BirthYear>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>James H</GivenNames>
+      <FamilyNames>Mann</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7c4031135923f30a46688ef47eb48e02.jpg</string>
+  </Images>
+  <Information>Wife of</Information>
+  <Latitude>45.5204</Latitude>
+  <Longitude>-123.00749</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

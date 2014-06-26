@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836364</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Bertha C</GivenNames>
+      <FamilyNames>Keckley</FamilyNames>
+      <BirthDay>23</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1859</BirthYear>
+      <DeathDay>27</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1885</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/812db3affad872e73f2e6eaaaea370e2.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/154c1722b26d6f50354f677198d360bc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/443849ed0494956f93cbb40e45b13711.jpg</string>
+  </Images>
+  <Information>Wife of L A Keckley</Information>
+  <Latitude>45.52009</Latitude>
+  <Longitude>-123.00581</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

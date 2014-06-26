@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837268</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Mrs</Prefix>
+      <GivenNames>Catherine</GivenNames>
+      <FamilyNames>Larsen</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1848</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7f6a75fd01cdc14e57c16768fe9c6283.jpg</string>
+  </Images>
+  <Epitaph>Wife of C. Larsen</Epitaph>
+  <Information>Born in Sch_eisw_oHb_sten Germany </Information>
+  <Latitude>45.520683</Latitude>
+  <Longitude>-123.005036</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

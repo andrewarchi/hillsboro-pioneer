@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838054</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>C Douglas</GivenNames>
+      <FamilyNames>Napier</FamilyNames>
+      <BirthDay>25</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1926</BirthYear>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Audrey McFall</GivenNames>
+      <FamilyNames>Napier</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1908</BirthYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bef09f480f24989f37ee150233ffb38f.jpg</string>
+  </Images>
+  <Information>Come little pilgrim to your home, On yonder shore, How we miss you here, but soon we will come where you have gone before</Information>
+  <Latitude>45.520278</Latitude>
+  <Longitude>-123.007248</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

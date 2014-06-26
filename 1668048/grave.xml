@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668048</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas H</GivenNames>
+      <FamilyNames>Allman</FamilyNames>
+      <BirthYear>1850</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Elizabeth</GivenNames>
+      <FamilyNames>Allman</FamilyNames>
+      <BirthYear>1842</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/50a0db4bdf6d5372065133a82a8a0ccb.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/86f72fbc2af24aa62013c8219e66b202.jpg</string>
+  </Images>
+  <Latitude>45.520117</Latitude>
+  <Longitude>-123.005589</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

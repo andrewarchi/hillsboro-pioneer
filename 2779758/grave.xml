@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779758</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles M</GivenNames>
+      <FamilyNames>Scott</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1883</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1895</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/efa0cdca93864bdbc32af4de82224c14.jpg</string>
+  </Images>
+  <Latitude>45.520373</Latitude>
+  <Longitude>-123.004189</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

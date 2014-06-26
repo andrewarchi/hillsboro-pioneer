@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837234</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Antonia C</GivenNames>
+      <FamilyNames>Schilling</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1931</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c24103621d78e7ace76f53bf863deb0f.jpg</string>
+  </Images>
+  <Latitude>45.52063</Latitude>
+  <Longitude>-123.00766</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

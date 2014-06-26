@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838105</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Manerva E</GivenNames>
+      <FamilyNames>Hays</FamilyNames>
+      <BirthYear>1855</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John B</GivenNames>
+      <FamilyNames>Hays</FamilyNames>
+      <BirthYear>1857</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Father</GivenNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mother</GivenNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b659f9ce03bb30395464c1090de96d36.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a0a3c9bdd2cdbaab9446cee99aa30a67.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c386e82dadc01142266f1d3348e36abc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/54f22f90e8f6eeeaca1badc860342fdf.jpg</string>
+  </Images>
+  <Information>Mother Father</Information>
+  <Latitude>45.520741</Latitude>
+  <Longitude>-123.006401</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

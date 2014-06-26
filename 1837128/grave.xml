@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837128</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Loui</GivenNames>
+      <FamilyNames>Manning</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1836</BirthYear>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1911</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Elizabeth</GivenNames>
+      <FamilyNames>Manning</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1836</BirthYear>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9bbc3d2f5a30f3a428af205af7e0fe30.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/062f1c61e871c1e4944b222358a85df6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/be07b2f6bbd1d85cfb71df55d7b004a9.jpg</string>
+  </Images>
+  <Latitude>45.520577</Latitude>
+  <Longitude>-123.006135</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

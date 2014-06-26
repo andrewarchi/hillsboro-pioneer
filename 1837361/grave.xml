@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837361</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Willaim G</GivenNames>
+      <FamilyNames>Faust</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1971</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Lois H</GivenNames>
+      <FamilyNames>Faust</FamilyNames>
+      <BirthYear>1895</BirthYear>
+      <DeathYear>1991</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/96c6e1b21e281cc1f398533a69bdb66d.jpg</string>
+  </Images>
+  <Latitude>45.520184</Latitude>
+  <Longitude>-123.004873</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

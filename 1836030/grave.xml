@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836030</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Claus Henry</GivenNames>
+      <FamilyNames>Stoffers</FamilyNames>
+      <BirthDay>8</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1835</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Caroline Dorothea</GivenNames>
+      <FamilyNames>Stoffers</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1837</BirthYear>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/219cb1dfd8c37a4be766e80c1d897f04.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3b0f6815115bbbf71024624a855e985e.jpg</string>
+  </Images>
+  <Latitude>45.520203</Latitude>
+  <Longitude>-123.00439</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

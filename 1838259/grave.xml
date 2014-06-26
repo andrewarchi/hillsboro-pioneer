@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838259</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alta F</GivenNames>
+      <FamilyNames>Hardin</FamilyNames>
+      <BirthDay>6</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1888</BirthYear>
+      <DeathDay>23</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/93a1c898e400192203068b681978626b.jpg</string>
+  </Images>
+  <Latitude>45.520539</Latitude>
+  <Longitude>-123.006709</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

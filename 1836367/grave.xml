@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836367</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lillie Alice</GivenNames>
+      <FamilyNames>Hesse</FamilyNames>
+      <BirthYear>1889</BirthYear>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/eff1e125aa350c9fd44f3b23f47d6501.jpg</string>
+  </Images>
+  <Latitude>45.520662</Latitude>
+  <Longitude>-123.005419</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

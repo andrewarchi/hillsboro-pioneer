@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837091</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Polly C</GivenNames>
+      <FamilyNames>Butler</FamilyNames>
+      <BirthYear>1840</BirthYear>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/787c135d357a34c857e2ea4ae8132098.jpg</string>
+  </Images>
+  <Latitude>45.520361</Latitude>
+  <Longitude>-123.005173</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

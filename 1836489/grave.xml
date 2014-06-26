@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836489</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Herman F</GivenNames>
+      <FamilyNames>Krahmer</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1954</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mabel L</GivenNames>
+      <FamilyNames>Krahmer</FamilyNames>
+      <BirthYear>1885</BirthYear>
+      <DeathYear>1982</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Kenneth H</GivenNames>
+      <FamilyNames>Krahmer</FamilyNames>
+      <BirthYear>1910</BirthYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/735a4f7b0265aefcf671357b648cca4e.jpg</string>
+  </Images>
+  <Latitude>45.520217</Latitude>
+  <Longitude>-123.007715</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

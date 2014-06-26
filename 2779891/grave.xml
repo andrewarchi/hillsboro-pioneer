@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779891</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas H</GivenNames>
+      <FamilyNames>Elliott</FamilyNames>
+      <BirthYear>1854</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/d9327bea3172e485bd4cf77ea6d0f76d.jpg</string>
+  </Images>
+  <Latitude>45.520345</Latitude>
+  <Longitude>-123.00408</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

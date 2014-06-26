@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837821</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Leonty</GivenNames>
+      <FamilyNames>Krevanko</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8eedf9493b09e1f5b6fae439c0f6e43e.jpg</string>
+  </Images>
+  <Latitude>45.52017</Latitude>
+  <Longitude>-123.00716</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779768</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Fred </GivenNames>
+      <FamilyNames>Kahler</FamilyNames>
+      <BirthYear>1897</BirthYear>
+      <DeathYear>1962</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/2a958c0a99718df4af95c6edec939644.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/594089c948d0e5cbd8f3e2cebb1f88ae.jpg</string>
+  </Images>
+  <Latitude>45.520116</Latitude>
+  <Longitude>-123.004162</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

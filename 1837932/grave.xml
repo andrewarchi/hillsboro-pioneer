@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837932</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Bertha Quast</GivenNames>
+      <FamilyNames>Lepschat</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1864</BirthYear>
+      <DeathDay>14</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1962</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Hulda A.</GivenNames>
+      <FamilyNames>Lepschat</FamilyNames>
+      <BirthDay>4</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1893</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Friedrich W.</GivenNames>
+      <FamilyNames>Lepschat</FamilyNames>
+      <BirthDay>31</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1849</BirthYear>
+      <DeathDay>14</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1936</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f4e16d62d7adf4e1f84a8c438720a3b9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/35561540d495a63e01eafb8c5418bb4c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/044f6a06946378aa69d2ad7e7ae04acb.jpg</string>
+  </Images>
+  <Information>Wife of F.W. Lepschat Daughter of F.W. &amp; B.L.Q Lepshat</Information>
+  <Latitude>45.520123</Latitude>
+  <Longitude>-123.006966</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

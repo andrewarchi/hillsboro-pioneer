@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837992</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Pieter</GivenNames>
+      <FamilyNames>Pyl</FamilyNames>
+      <BirthDay>25</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1850</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Elizabeth</GivenNames>
+      <FamilyNames>Pyl</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1854</BirthYear>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9184ebd33afb91587b74ea1fe7d985fd.jpg</string>
+  </Images>
+  <Latitude>45.520485</Latitude>
+  <Longitude>-123.007409</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

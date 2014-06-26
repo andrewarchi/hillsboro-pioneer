@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836989</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frances J</GivenNames>
+      <FamilyNames>Archbold</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1844</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>A C</GivenNames>
+      <FamilyNames>Archbold</FamilyNames>
+      <BirthDay>23</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1835</BirthYear>
+      <DeathYear>1919</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John N</GivenNames>
+      <FamilyNames>Archbold</FamilyNames>
+      <BirthYear>1879</BirthYear>
+      <DeathYear>1954</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1836989.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1836992.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1836996.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837000.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837003.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837006.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837010.jpg</string>
+  </Images>
+  <Latitude>45.520101</Latitude>
+  <Longitude>-123.006137</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

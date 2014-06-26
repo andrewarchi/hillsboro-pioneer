@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838312</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John Riley</GivenNames>
+      <FamilyNames>Ennes</FamilyNames>
+      <BirthYear>1861</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5687ce0fc042c9e1a1672acfabddb8c5.jpg</string>
+  </Images>
+  <Latitude>45.520371</Latitude>
+  <Longitude>-123.004856</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

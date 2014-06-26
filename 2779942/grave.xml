@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779942</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frank Edward</GivenNames>
+      <FamilyNames>Fey</FamilyNames>
+      <BirthYear>1881</BirthYear>
+      <DeathYear>1946</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/eaaed2d92452a8269354a820884e4522.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/92c61293d2f08efa540ca0f0d547dd48.jpg</string>
+  </Images>
+  <Latitude>45.520178</Latitude>
+  <Longitude>-123.003795</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

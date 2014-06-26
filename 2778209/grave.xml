@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778209</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary E</GivenNames>
+      <FamilyNames>Birdsell</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1845</BirthYear>
+      <DeathDay>13</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/070f9ac66406b15d6f06393d832c61d9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/f121b4fa52f9b6fd399a406f5eb71329.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7b74952137109be7d8c51188e56f30a8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7643a36e99d73d60bab0e4b5d1f3e78a.jpg</string>
+  </Images>
+  <Latitude>45.520737</Latitude>
+  <Longitude>-123.004539</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837886</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nancy S</GivenNames>
+      <FamilyNames>Leely</FamilyNames>
+      <BirthYear>1839</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b42d439a89bb1d9bc14d448e4e6313be.jpg</string>
+  </Images>
+  <Latitude>45.520195</Latitude>
+  <Longitude>-123.0067</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

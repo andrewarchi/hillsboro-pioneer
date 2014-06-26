@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836226</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jane</GivenNames>
+      <FamilyNames>Morgan</FamilyNames>
+      <DeathDay>23</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1875</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/747a4c2651436ae81408a5e4cfae71e1.jpg</string>
+  </Images>
+  <Information>Aged 42 years. Wife of G.R. Morgan</Information>
+  <Latitude>45.520634</Latitude>
+  <Longitude>-123.005849</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

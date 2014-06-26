@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837289</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Silas Grant</GivenNames>
+      <FamilyNames>Powell</FamilyNames>
+      <BirthYear>1861</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a4bdbb97aa5ce446b0758d0c12a28c19.jpg</string>
+  </Images>
+  <Epitaph>Father</Epitaph>
+  <Latitude>45.520606</Latitude>
+  <Longitude>-123.004989</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

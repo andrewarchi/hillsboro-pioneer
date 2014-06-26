@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835995</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alice Louise</GivenNames>
+      <FamilyNames>Stanley</FamilyNames>
+      <BirthYear>1888</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a53256b66a10b594e1bb03338a27b941.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/6cd188b1e3173a914e91598d077b99c8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/956e5a350df2b4b63b229da21d2c89ec.jpg</string>
+  </Images>
+  <Latitude>45.52053</Latitude>
+  <Longitude>-123.00442</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

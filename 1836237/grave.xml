@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836237</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles</GivenNames>
+      <FamilyNames>Bowen</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/240136a4a4fb7d5ea5d541bef19a1b24.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/872f423f1dec63e515491f7b519c8fe5.jpg</string>
+  </Images>
+  <Latitude>45.520462</Latitude>
+  <Longitude>-123.005495</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

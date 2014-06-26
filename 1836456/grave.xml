@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836456</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George T</GivenNames>
+      <FamilyNames>Ledford</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ima I</GivenNames>
+      <FamilyNames>Ledford</FamilyNames>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/641a35e55f0f7b8e7634ed349ce6730f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1f6eca5c3382726e0d8fc2e24274fc77.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/68b703fe6d0656d31642452d7e207997.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/049bb161682ac3a31a3e1d2ff480a00e.jpg</string>
+  </Images>
+  <Information>Co D Ore Cav Corpl Oregon Nurse Base Hospital 116</Information>
+  <Latitude>45.520566</Latitude>
+  <Longitude>-123.005804</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

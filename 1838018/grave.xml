@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838018</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Amelia</GivenNames>
+      <MaidenNames>Lippert</MaidenNames>
+      <FamilyNames>Isaacson</FamilyNames>
+      <BirthYear>1898</BirthYear>
+      <DeathYear>1987</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Charles A</GivenNames>
+      <FamilyNames>Isaacson</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a680f59840798286d6bc3b3747d4a341.jpg</string>
+  </Images>
+  <Latitude>45.520892</Latitude>
+  <Longitude>-123.007251</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

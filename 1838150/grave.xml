@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838150</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Rosina</GivenNames>
+      <FamilyNames>Aeschbacher</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Jakob</GivenNames>
+      <FamilyNames>Aeschbacher</FamilyNames>
+      <BirthYear>1833</BirthYear>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ea12088077b9d64fda042708e6a495e7.jpg</string>
+  </Images>
+  <Information>Together Forever</Information>
+  <Latitude>45.52065</Latitude>
+  <Longitude>-123.006445</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

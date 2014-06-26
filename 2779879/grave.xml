@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779879</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Pauline S</GivenNames>
+      <MaidenNames>Jolly</MaidenNames>
+      <FamilyNames>Feker</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1840</BirthYear>
+      <DeathDay>23</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1881</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/2e70e49774e59a35fc21f0c900003802.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8caf04049fcdeebf1572fca04054b9a0.jpg</string>
+  </Images>
+  <Latitude>45.52048</Latitude>
+  <Longitude>-123.004051</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

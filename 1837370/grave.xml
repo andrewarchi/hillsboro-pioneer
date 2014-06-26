@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837370</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>E Nettie</GivenNames>
+      <FamilyNames>Hale</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1859</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Green N</GivenNames>
+      <FamilyNames>Hale</FamilyNames>
+      <BirthDay>15</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1848</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/39f2ff118f0764b544d376cc92f76b6c.jpg</string>
+  </Images>
+  <Latitude>45.520278</Latitude>
+  <Longitude>-123.004915</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

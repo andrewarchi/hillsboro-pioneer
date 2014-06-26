@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835990</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Wilmelmina A</GivenNames>
+      <FamilyNames>Robinson</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d53535e803283c65854e1d3295f8572b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/30265f38ebadbe7efc6f2b78503f1827.jpg</string>
+  </Images>
+  <Latitude>45.52057</Latitude>
+  <Longitude>-123.00442</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

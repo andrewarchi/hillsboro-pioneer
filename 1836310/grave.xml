@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836310</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Emma</GivenNames>
+      <FamilyNames>Cooper</FamilyNames>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1892</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Thomas</GivenNames>
+      <FamilyNames>Cooper</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7627cb4fbf437caddee2af84c7573f36.jpg</string>
+  </Images>
+  <Information>Aged 34 y's</Information>
+  <Latitude>45.520284</Latitude>
+  <Longitude>-123.005843</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

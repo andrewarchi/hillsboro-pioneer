@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836930</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lena Opal</GivenNames>
+      <FamilyNames>Hill</FamilyNames>
+      <BirthDay>25</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1894</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8baccbd216c81a680d81fcb571fa9495.jpg</string>
+  </Images>
+  <Latitude>45.520651</Latitude>
+  <Longitude>-123.005243</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

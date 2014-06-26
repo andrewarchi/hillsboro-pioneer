@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835946</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Susie</GivenNames>
+      <FamilyNames>Kish</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1896</BirthYear>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1914</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d6526ddaad21f0c16f74dd5b303463c3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8b3b0d01d583c4276251a7bdaa4e87a8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/8d16fe7c9a0ad15e95d3e441e77704cc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c30c7350f571af1f1f98ffbc1d13eccb.jpg</string>
+  </Images>
+  <Latitude>45.52047</Latitude>
+  <Longitude>-123.00434</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

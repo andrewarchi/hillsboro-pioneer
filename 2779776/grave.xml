@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779776</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah Natalie</GivenNames>
+      <FamilyNames>De Witta</FamilyNames>
+      <BirthDay>13</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1908</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1908</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/fba5769e1cb6c568fe46f89823866b01.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c8c0eeb2efe8fece8b20b89840cd9d18.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c400d909eac20133679604e06122d882.jpg</string>
+  </Images>
+  <Latitude>45.520101</Latitude>
+  <Longitude>-123.004168</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

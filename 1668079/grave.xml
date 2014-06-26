@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668079</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William</GivenNames>
+      <FamilyNames>Reeves</FamilyNames>
+      <BirthYear>1827</BirthYear>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5e7e462a5519975c4f37233271499ec9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/39d0cf3248fc57d5aa095c2f079dba08.jpg</string>
+  </Images>
+  <Information>Pioneer of 1852</Information>
+  <Latitude>45.520346</Latitude>
+  <Longitude>-123.005654</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

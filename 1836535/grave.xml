@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836535</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lynn </GivenNames>
+      <MaidenNames>West</MaidenNames>
+      <FamilyNames>Ballard</FamilyNames>
+      <BirthDay>5</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1894</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1983</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Zada Hope</GivenNames>
+      <MaidenNames>Hale</MaidenNames>
+      <FamilyNames>Ballard</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1896</BirthYear>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1998</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c461806b1c83d24eebd7ace0bd9b5930.jpg</string>
+  </Images>
+  <Latitude>45.520379</Latitude>
+  <Longitude>-123.006531</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

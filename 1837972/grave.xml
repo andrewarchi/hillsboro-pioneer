@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837972</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lizzie D</GivenNames>
+      <FamilyNames>Gilson</FamilyNames>
+      <BirthDay>20</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1855</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f1e24424eee0a9dedf39e0c0701a485d.jpg</string>
+  </Images>
+  <Latitude>45.520162</Latitude>
+  <Longitude>-123.007339</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

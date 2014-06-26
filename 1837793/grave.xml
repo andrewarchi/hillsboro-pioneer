@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837793</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dominga</GivenNames>
+      <FamilyNames>Sepeda</FamilyNames>
+      <BirthDay>15</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1896</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1985</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/12eaca9465322947c3b9c48133c74856.jpg</string>
+  </Images>
+  <Latitude>45.52075</Latitude>
+  <Longitude>-123.00722</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

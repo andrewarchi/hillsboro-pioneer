@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838035</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Bruce</GivenNames>
+      <FamilyNames>Wolverton</FamilyNames>
+      <BirthDay>29</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1853</BirthYear>
+      <DeathDay>14</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary Amanda</GivenNames>
+      <FamilyNames>Wolverton</FamilyNames>
+      <BirthDay>16</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1856</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b7f6762e2e2bfed56b22cc8b04e199d9.jpg</string>
+  </Images>
+  <Latitude>45.520609</Latitude>
+  <Longitude>-123.00727</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

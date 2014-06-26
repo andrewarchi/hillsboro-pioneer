@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836892</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George. H.</GivenNames>
+      <FamilyNames>Ireland</FamilyNames>
+      <BirthYear>1851</BirthYear>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c99504a5891bc8be7a7f206d50f47081.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b8768f5f4f835cc9a9f61d21660c15db.jpg</string>
+  </Images>
+  <Latitude>45.520658</Latitude>
+  <Longitude>-123.004273</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

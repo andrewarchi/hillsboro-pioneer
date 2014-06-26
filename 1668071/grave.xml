@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668071</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Florentine</GivenNames>
+      <FamilyNames>Cornelius</FamilyNames>
+      <BirthYear>1897</BirthYear>
+      <DeathYear>1901</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c14ae0c59f533e95cb1b46023d1427af.jpg</string>
+  </Images>
+  <Latitude>45.520304</Latitude>
+  <Longitude>-123.005672</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

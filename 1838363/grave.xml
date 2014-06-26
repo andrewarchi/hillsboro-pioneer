@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838363</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Vivian E</GivenNames>
+      <FamilyNames>Galloway</FamilyNames>
+      <BirthYear>1896</BirthYear>
+      <DeathYear>1909</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Willis K</GivenNames>
+      <FamilyNames>Galloway</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f78915dde95823d96c3c503385ae2f25.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e87d70e12e619969b15a53ba71595cde.jpg</string>
+  </Images>
+  <Information>Precious darlings though hast left us Left us yes for ever more. But we hope to meet our loved ones On that and happy shore.</Information>
+  <Latitude>45.520635</Latitude>
+  <Longitude>-123.004802</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

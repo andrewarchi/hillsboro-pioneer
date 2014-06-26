@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837863</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Carson A</GivenNames>
+      <FamilyNames>Jones</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3893e326794f81a2145be0394d38d694.jpg</string>
+  </Images>
+  <Latitude>45.520607</Latitude>
+  <Longitude>-123.00665</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

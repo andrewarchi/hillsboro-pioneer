@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837333</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jasper Newton</GivenNames>
+      <FamilyNames>McKinney</FamilyNames>
+      <BirthYear>1838</BirthYear>
+      <DeathYear>1919</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/287f868d314cd391c84a497557476626.jpg</string>
+  </Images>
+  <Latitude>45.520226</Latitude>
+  <Longitude>-123.00769</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

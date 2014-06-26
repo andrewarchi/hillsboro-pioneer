@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838077</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Corpl</Prefix>
+      <GivenNames>Job P</GivenNames>
+      <FamilyNames>Dodge</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/67943ce26a9f9f2818f5b83078b879ab.jpg</string>
+  </Images>
+  <Information>DO F 11 ILL INF</Information>
+  <Latitude>45.520209</Latitude>
+  <Longitude>-123.006356</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837639</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Tammra Lynn</GivenNames>
+      <FamilyNames>Moss</FamilyNames>
+      <BirthYear>1964</BirthYear>
+      <DeathYear>1968</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2707ce1a59c86ef01b1b02676ee32b3f.jpg</string>
+  </Images>
+  <Latitude>45.520085</Latitude>
+  <Longitude>-123.005254</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

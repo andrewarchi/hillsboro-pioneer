@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837846</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dorothy A</GivenNames>
+      <FamilyNames>Kiepke</FamilyNames>
+      <BirthYear>1915</BirthYear>
+      <DeathYear>1997</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fea9d2cff17e3f03e747633b184a0ef8.jpg</string>
+  </Images>
+  <Latitude>45.5204</Latitude>
+  <Longitude>-123.00717</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

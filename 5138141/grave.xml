@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>5138141</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John A</GivenNames>
+      <FamilyNames>McKinney</FamilyNames>
+      <BirthYear>1889</BirthYear>
+      <DeathYear>1977</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/78c5325ce0bf44ad2a1670a696ee1291.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/45f708bac59e522f6fa145a04a6fdd15.jpg</string>
+  </Images>
+  <Latitude>45.520992</Latitude>
+  <Longitude>-123.00484</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

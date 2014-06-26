@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837193</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Iva A</GivenNames>
+      <FamilyNames>Webb</FamilyNames>
+      <BirthDay>30</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1889</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>George W</GivenNames>
+      <FamilyNames>Phinney</FamilyNames>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837193.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837196.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837200.jpg</string>
+  </Images>
+  <Information>Daughter of G.W. &amp; S.[?]. Webb</Information>
+  <Latitude>45.520642</Latitude>
+  <Longitude>-123.006185</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779833</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George Hervey</GivenNames>
+      <FamilyNames>Humphreys</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1859</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1868</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/23c5d0fbfa6a58e4a871471f0288f032.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ae56820392f1f1c770c8da656cc78566.jpg</string>
+  </Images>
+  <Information>George Son of T.D. &amp; E.A. Humphreys</Information>
+  <Latitude>45.520193</Latitude>
+  <Longitude>-123.004043</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

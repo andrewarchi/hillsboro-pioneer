@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836305</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George H</GivenNames>
+      <FamilyNames>Wilcox</FamilyNames>
+      <BirthYear>1854</BirthYear>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/06520cabedd3a4f5485b08ee294f964c.jpg</string>
+  </Images>
+  <Latitude>45.52039</Latitude>
+  <Longitude>-123.005493</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

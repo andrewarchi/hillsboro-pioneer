@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838281</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas W</GivenNames>
+      <FamilyNames>Emerick</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Martha J</GivenNames>
+      <FamilyNames>Emerick</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/dc2e01090176403ff5492dcbb4ad8458.jpg</string>
+  </Images>
+  <Information>Father Mother</Information>
+  <Latitude>45.520143</Latitude>
+  <Longitude>-123.004829</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

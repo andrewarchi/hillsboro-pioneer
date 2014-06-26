@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779539</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Adolf</GivenNames>
+      <FamilyNames>Honzaik</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1846</BirthYear>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Anna</GivenNames>
+      <MaidenNames>Michalec</MaidenNames>
+      <FamilyNames>Honzaik</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1849</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1904</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/045a42a3a69aa78ff22147af584b07f9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/18c31ebbe14fab83e87899a7fed730dc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c47df51284c2eacbf5b05984d93779a9.jpg</string>
+  </Images>
+  <Latitude>45.520545</Latitude>
+  <Longitude>-123.004294</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

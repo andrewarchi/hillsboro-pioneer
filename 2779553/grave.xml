@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779553</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Paul H</GivenNames>
+      <FamilyNames>Hoier</FamilyNames>
+      <BirthDay>29</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1856</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1897</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5de45960fd83d00fde05686e0ad0c68a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7c68eb4279af90a7cc05c3d8f2639a93.jpg</string>
+  </Images>
+  <Latitude>45.520734</Latitude>
+  <Longitude>-123.004283</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

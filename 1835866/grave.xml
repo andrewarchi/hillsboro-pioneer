@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835866</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Maurice S</GivenNames>
+      <FamilyNames>Hoag</FamilyNames>
+      <BirthYear>1866</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c3313de278a954acb252df9b69cafd11.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/02a31074415acc8c88208d646c2a3e3b.jpg</string>
+  </Images>
+  <Information>Father</Information>
+  <Latitude>45.520557</Latitude>
+  <Longitude>-123.004</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

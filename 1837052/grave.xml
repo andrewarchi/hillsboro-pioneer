@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837052</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Agnes</GivenNames>
+      <FamilyNames>Savitz</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/258cd8355a7a98dd277834c5807a2f64.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b4c7292356acb89c39eb1dad3f5db574.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520637</Latitude>
+  <Longitude>-123.00456</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835906</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hugh B</GivenNames>
+      <FamilyNames>Purdin</FamilyNames>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2e11c92dc03a99f0e82282122ca1f4c8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b87914840a6ce102321b146bfb56fede.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/05f3dfab17bbed2839f7e491e81de70b.jpg</string>
+  </Images>
+  <Information>Aged 42 Ys 22 Ds</Information>
+  <Latitude>45.520348</Latitude>
+  <Longitude>-123.004105</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

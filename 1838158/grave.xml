@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838158</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dexter J</GivenNames>
+      <FamilyNames>Weisenbach</FamilyNames>
+      <BirthYear>1908</BirthYear>
+      <DeathYear>1970</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Julius M</GivenNames>
+      <FamilyNames>Weistenbach</FamilyNames>
+      <BirthYear>1888</BirthYear>
+      <DeathYear>1951</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b4ec79cdeb8837a11c66953741e6cc88.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3fd08442a116642a9ba4e9a05bff08fe.jpg</string>
+  </Images>
+  <Latitude>45.520721</Latitude>
+  <Longitude>-123.006433</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

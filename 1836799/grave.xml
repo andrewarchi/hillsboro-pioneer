@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836799</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Manley B</GivenNames>
+      <FamilyNames>Everitt</FamilyNames>
+      <BirthDay>13</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1874</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/84fa06ba4fac9a88755d73e08e4b2529.jpg</string>
+  </Images>
+  <Latitude>45.520512</Latitude>
+  <Longitude>-123.005325</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

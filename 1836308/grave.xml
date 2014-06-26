@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836308</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George Corwin</GivenNames>
+      <FamilyNames>Alexander</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1921</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>2002</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fb8ddc9de4878c256c9bb5141030405c.jpg</string>
+  </Images>
+  <Latitude>45.520268</Latitude>
+  <Longitude>-123.005485</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

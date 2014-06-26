@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838392</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Francis M</GivenNames>
+      <FamilyNames>Mercer</FamilyNames>
+      <BirthYear>1861</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Clinton B</GivenNames>
+      <FamilyNames>Mercer</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/64db38cf7bb3ae320d4bd89c88f807e7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e7b767bdcf906981c7416cf91c3d5042.jpg</string>
+  </Images>
+  <Information>Wife and Mother Husband and Father</Information>
+  <Latitude>45.520846</Latitude>
+  <Longitude>-123.004837</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837326</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lena E</GivenNames>
+      <FamilyNames>Boswell</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1947</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/69d1f7acb4f604b1c907df43c36b0ce8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3d38ae34c4d15ff713d549f5f990f475.jpg</string>
+  </Images>
+  <Latitude>45.520317</Latitude>
+  <Longitude>-123.00768</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

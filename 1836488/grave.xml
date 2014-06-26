@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836488</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mattie A</GivenNames>
+      <FamilyNames>Peterson</FamilyNames>
+      <BirthYear>1875</BirthYear>
+      <DeathYear>1965</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/34d154f0482838f7b5ad6af60d16d706.jpg</string>
+  </Images>
+  <Latitude>45.520126</Latitude>
+  <Longitude>-123.007741</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779952</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Rose C</GivenNames>
+      <FamilyNames>Schmeltzer</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1944</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3c6bf65d706b7f4fe67124bc22556171.jpg</string>
+  </Images>
+  <Latitude>45.52023</Latitude>
+  <Longitude>-123.003924</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

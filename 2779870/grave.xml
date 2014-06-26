@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779870</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George W</GivenNames>
+      <FamilyNames>McLeod</FamilyNames>
+      <Suffix>Jr</Suffix>
+      <DeathDay>3</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/d1b5bc8e07c9eee2618031537cc4314d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f1604e76dee5c8ff97e3e999ee54fec2.jpg</string>
+  </Images>
+  <Epitaph>BUDDED ON EARTH TO BLOOM IN HEAVEN</Epitaph>
+  <Latitude>45.520553</Latitude>
+  <Longitude>-123.004049</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

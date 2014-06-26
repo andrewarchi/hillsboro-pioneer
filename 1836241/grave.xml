@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836241</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas Edwin</GivenNames>
+      <FamilyNames>Morgan</FamilyNames>
+      <BirthDay>31</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1890</BirthYear>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/636ffb17903f4782dcf327485607e300.jpg</string>
+  </Images>
+  <Latitude>45.520506</Latitude>
+  <Longitude>-123.005843</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

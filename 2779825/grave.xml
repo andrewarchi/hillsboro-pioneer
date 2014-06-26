@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779825</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Albert P</GivenNames>
+      <FamilyNames>Luther</FamilyNames>
+      <BirthYear>1852</BirthYear>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/238392b7077ce79d772cbfbc02898243.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4d16cf6357ee88d24b28da82fd0d0b10.jpg</string>
+  </Images>
+  <Latitude>45.520094</Latitude>
+  <Longitude>-123.004088</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

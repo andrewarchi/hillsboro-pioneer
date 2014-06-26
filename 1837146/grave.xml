@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837146</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Margaret</GivenNames>
+      <FamilyNames>Pate</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>G W</GivenNames>
+      <FamilyNames>Pate</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Andy</GivenNames>
+      <FamilyNames>Pate</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1967</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cbac1381748c7922bed6cf5aa5ecd0d1.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/551aad406da426d8d9ca725d4565bd20.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/243111c1ed5884469141d23674ce77c8.jpg</string>
+  </Images>
+  <Latitude>45.520136</Latitude>
+  <Longitude>-123.005073</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

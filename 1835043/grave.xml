@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835043</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edwin T</GivenNames>
+      <FamilyNames>Tongue</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1870</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a6d431b1bc319fc7d7500a0134961421.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/36a127401aec8152cb01a18a9f60ed59.jpg</string>
+  </Images>
+  <Latitude>45.520146</Latitude>
+  <Longitude>-123.00384</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

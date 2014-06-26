@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837584</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah A</GivenNames>
+      <FamilyNames>Marlin</FamilyNames>
+      <DeathYear>1919</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0f25312f4914721e22b7b06788d445c7.jpg</string>
+  </Images>
+  <Latitude>45.520463</Latitude>
+  <Longitude>-123.004726</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

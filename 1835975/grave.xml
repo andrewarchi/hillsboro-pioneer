@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835975</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Augusta G</GivenNames>
+      <FamilyNames>Thompson</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1874</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/00c7979cae147d9dfdc76cba6705eaa7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/d533668498f0865528628a6e7224db51.jpg</string>
+  </Images>
+  <Latitude>45.520123</Latitude>
+  <Longitude>-123.00428</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

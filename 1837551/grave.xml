@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837551</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Francis S</GivenNames>
+      <FamilyNames>Estepp</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/792aac189d506bd85c511ced43b2da26.jpg</string>
+  </Images>
+  <Information>co.c 45 ky.inf.</Information>
+  <Latitude>45.520401</Latitude>
+  <Longitude>-123.004705</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

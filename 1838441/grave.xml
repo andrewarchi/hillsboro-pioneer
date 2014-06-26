@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838441</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Helen Melvina</GivenNames>
+      <FamilyNames>Gates</FamilyNames>
+      <BirthYear>1851</BirthYear>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>H V</GivenNames>
+      <FamilyNames>Gates</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fd57c4b4c6390baed7474be064301ab9.jpg</string>
+  </Images>
+  <Information>Wife of H V Gates</Information>
+  <Latitude>45.520813</Latitude>
+  <Longitude>-123.004664</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

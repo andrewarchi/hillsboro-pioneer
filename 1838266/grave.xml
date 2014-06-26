@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838266</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna R</GivenNames>
+      <FamilyNames>Hess</FamilyNames>
+      <BirthYear>1890</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/84216aac7176261c3ff08cd8ee6607cb.jpg</string>
+  </Images>
+  <Latitude>45.520169</Latitude>
+  <Longitude>-123.004952</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

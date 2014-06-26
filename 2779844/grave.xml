@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779844</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Sgt</Prefix>
+      <GivenNames>George T</GivenNames>
+      <FamilyNames>Rea</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/58a8a6693593a882cb7674c81c125e3a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/ed928ba3d936accdf60d17f754c7b76d.jpg</string>
+  </Images>
+  <Information>6 IA CAV</Information>
+  <Latitude>45.520276</Latitude>
+  <Longitude>-123.004055</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

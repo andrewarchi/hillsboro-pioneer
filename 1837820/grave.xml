@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837820</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Florence Elizabeth</GivenNames>
+      <FamilyNames>Kennedy</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1874</BirthYear>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/182e556951af073ac01407a273d6d530.jpg</string>
+  </Images>
+  <Latitude>45.520145</Latitude>
+  <Longitude>-123.007164</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

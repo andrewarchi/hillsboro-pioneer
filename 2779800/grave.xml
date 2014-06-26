@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779800</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles W</GivenNames>
+      <FamilyNames>Estes</FamilyNames>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1873</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/0133a0de3b58c3804a1912c6b343b1c9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/00fed494ab7f6e1d3a57582595e36ead.jpg</string>
+  </Images>
+  <Information>G E and U M Estes</Information>
+  <Latitude>45.520561</Latitude>
+  <Longitude>-123.004167</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

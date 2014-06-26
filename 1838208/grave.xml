@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838208</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas R</GivenNames>
+      <FamilyNames>Wann</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1966</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Frances M</GivenNames>
+      <FamilyNames>Wann</FamilyNames>
+      <BirthYear>1890</BirthYear>
+      <DeathYear>1974</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/906424fd95e5edb67eae10da7df2f70e.jpg</string>
+  </Images>
+  <Information>at peace</Information>
+  <Latitude>45.520328</Latitude>
+  <Longitude>-123.006601</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

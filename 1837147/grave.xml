@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837147</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Annie E</GivenNames>
+      <FamilyNames>Pointer</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1854</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1892</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/758ae242ef58801c4e923309c7221cdc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/636bbc58176059c54b33ffd560918056.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6ba889b16b647d869a86039fb7e9e427.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/47e4764aab2fa173659f8579d6086536.jpg</string>
+  </Images>
+  <Information>Wife of Wm Pointer</Information>
+  <Latitude>45.520588</Latitude>
+  <Longitude>-123.006097</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

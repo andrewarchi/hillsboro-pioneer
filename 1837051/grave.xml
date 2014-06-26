@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837051</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John Merick</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1946</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d780cda29cf7b8995df15dddba0abe6d.jpg</string>
+  </Images>
+  <Latitude>45.5203</Latitude>
+  <Longitude>-123.006219</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

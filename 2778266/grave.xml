@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778266</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Augusta</GivenNames>
+      <FamilyNames>Hagg</FamilyNames>
+      <BirthYear>1857</BirthYear>
+      <DeathYear>1944</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/022b2484e84fe8425587011bfe0d1e43.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/378d61276713f88069c176a699b82321.jpg</string>
+  </Images>
+  <Latitude>45.520267</Latitude>
+  <Longitude>-123.004443</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

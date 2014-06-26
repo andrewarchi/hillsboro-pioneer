@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835961</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Albert W</GivenNames>
+      <FamilyNames>Saxton</FamilyNames>
+      <BirthYear>1846</BirthYear>
+      <DeathYear>1904</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/caa3ab7d033f8d2e7c02c5d8f7b6d4c5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fd60cd19eca89352caa42406e86cafd7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d6708e73550befea33a06c182619f364.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3ee96dffd8b91eac84a978f6e2558e81.jpg</string>
+  </Images>
+  <Information>Pioneer Mother Father Born in Savannah Co. Ill Gone but not forgotten</Information>
+  <Latitude>45.520218</Latitude>
+  <Longitude>-123.00427</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

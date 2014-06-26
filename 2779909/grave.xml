@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779909</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Samuel E</GivenNames>
+      <FamilyNames>Hoover</FamilyNames>
+      <BirthDay>15</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1871</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b7295f0483965e03fc1be3967695061d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b469f089fe15fb8a6d10a36a580d01a7.jpg</string>
+  </Images>
+  <Latitude>45.520089</Latitude>
+  <Longitude>-123.004033</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

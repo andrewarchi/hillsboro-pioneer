@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836558</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lavenia E</GivenNames>
+      <FamilyNames>Freeland</FamilyNames>
+      <BirthYear>1849</BirthYear>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/23178a59ad2217b6a3142a3770d676c2.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520583</Latitude>
+  <Longitude>-123.007769</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

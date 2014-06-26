@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837735</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary Jane</GivenNames>
+      <FamilyNames>Bliss</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1844</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a018ff108a73db9e6a4622fec2cb76e9.jpg</string>
+  </Images>
+  <Latitude>45.52009</Latitude>
+  <Longitude>-123.007355</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

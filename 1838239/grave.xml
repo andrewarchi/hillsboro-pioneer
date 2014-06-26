@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838239</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Fred G</GivenNames>
+      <FamilyNames>Hess</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1964</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b6823c47df54efe1528ad80e1d5f51c8.jpg</string>
+  </Images>
+  <Latitude>45.520169</Latitude>
+  <Longitude>-123.004952</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

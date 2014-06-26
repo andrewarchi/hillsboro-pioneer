@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837136</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Dr.</Prefix>
+      <GivenNames>Joseph</GivenNames>
+      <FamilyNames>Boyce</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1803</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1824</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4a37675a8b05538eedf57537c289948d.jpg</string>
+  </Images>
+  <Latitude>45.52011</Latitude>
+  <Longitude>-123.005155</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838343</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas J</GivenNames>
+      <FamilyNames>Adams</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1890</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1981</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e91c0d7a60d21e47e73108208943a0a5.jpg</string>
+  </Images>
+  <Latitude>45.520472</Latitude>
+  <Longitude>-123.004806</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

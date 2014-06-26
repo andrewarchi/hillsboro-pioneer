@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837942</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Michael R</GivenNames>
+      <FamilyNames>Adams</FamilyNames>
+      <BirthYear>1948</BirthYear>
+      <DeathYear>2003</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9ff313f62930eb2c6c79bc4c47c3dcd7.jpg</string>
+  </Images>
+  <Information>Beloved Husband, Father, &amp; Grandfather In God's Care</Information>
+  <Latitude>45.520176</Latitude>
+  <Longitude>-123.00701</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

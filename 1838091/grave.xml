@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838091</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Arthur S</GivenNames>
+      <FamilyNames>Lyon</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1879</BirthYear>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1911</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/09294e8ad4949319b9a67a925b2a35e7.jpg</string>
+  </Images>
+  <Latitude>45.520554</Latitude>
+  <Longitude>-123.006402</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

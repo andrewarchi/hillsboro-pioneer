@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838243</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Leona</GivenNames>
+      <FamilyNames>Carter</FamilyNames>
+      <BirthYear>1894</BirthYear>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fbdbaa6d47d1c73a28f0bfde1365a9ee.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/708121149e07db155a1033ce5ca15c3c.jpg</string>
+  </Images>
+  <Latitude>45.520457</Latitude>
+  <Longitude>-123.006717</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

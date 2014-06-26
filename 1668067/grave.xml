@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668067</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah V.</GivenNames>
+      <FamilyNames>Schofield</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/92b64c45db51aaeb98b84e2795cf1520.jpg</string>
+  </Images>
+  <Latitude>45.520289</Latitude>
+  <Longitude>-123.00569</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

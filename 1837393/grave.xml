@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837393</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edna Imbrie</GivenNames>
+      <MaidenNames>Zilly</MaidenNames>
+      <FamilyNames>Amos</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1987</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Roy Stanley</GivenNames>
+      <FamilyNames>Amos</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1970</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5ac97a1d6a86af339611987127483920.jpg</string>
+  </Images>
+  <Latitude>45.520596</Latitude>
+  <Longitude>-123.004899</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

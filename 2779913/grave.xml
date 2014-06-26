@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779913</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary Ann</GivenNames>
+      <FamilyNames>Lane</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/9b2016e9c5cf18b2179ef0f8bc223279.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a8ef3f987fbf7ac63f9f7a41b31f2349.jpg</string>
+  </Images>
+  <Latitude>45.520077</Latitude>
+  <Longitude>-123.004035</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

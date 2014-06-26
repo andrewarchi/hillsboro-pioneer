@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837598</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Agnes E</GivenNames>
+      <FamilyNames>Reamy</FamilyNames>
+      <BirthYear>1899</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/02cfbb1a049fb5418915582ac5c8b770.jpg</string>
+  </Images>
+  <Information>Wife</Information>
+  <Latitude>45.520775</Latitude>
+  <Longitude>-123.004729</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

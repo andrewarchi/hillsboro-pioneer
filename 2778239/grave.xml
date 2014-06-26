@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778239</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robbie</GivenNames>
+      <FamilyNames>Tupper</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/a0f064eb97f0c1834f14223fad73671c.jpg</string>
+  </Images>
+  <Information>Robbie Son of Wm. &amp; Mattie Tupper Aged 7 Yrs. 1M. 9D.</Information>
+  <Latitude>45.520428</Latitude>
+  <Longitude>-123.004469</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

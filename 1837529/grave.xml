@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837529</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Eena G</GivenNames>
+      <FamilyNames>Sorensen</FamilyNames>
+      <BirthYear>1879</BirthYear>
+      <DeathYear>1960</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/508944fd37e0ff67f308d7b09ed63d61.jpg</string>
+  </Images>
+  <Latitude>45.520069</Latitude>
+  <Longitude>-123.004711</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

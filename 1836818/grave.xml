@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836818</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Toby Ann</GivenNames>
+      <FamilyNames>Levy</FamilyNames>
+      <BirthDay>23</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1947</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>2007</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/400528d8d9affb8740517ae84a8d9b65.jpg</string>
+  </Images>
+  <Latitude>45.520186</Latitude>
+  <Longitude>-123.005178</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

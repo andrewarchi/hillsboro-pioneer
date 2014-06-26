@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837135</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary E</GivenNames>
+      <FamilyNames>Pauli</FamilyNames>
+      <BirthDay>16</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1885</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1894</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/214184d6022254bfc8269605f1031178.jpg</string>
+  </Images>
+  <Information>Daughter of F.C. and A.M. Pauli</Information>
+  <Latitude>45.520223</Latitude>
+  <Longitude>-123.003941</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837319</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Henry S</GivenNames>
+      <FamilyNames>Emrick</FamilyNames>
+      <BirthYear>1891</BirthYear>
+      <DeathYear>1919</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/92a5aba8bed76c715ad9db845f5a4029.jpg</string>
+  </Images>
+  <Information>Beloved son of G.W. &amp; H.M. Emrick</Information>
+  <Latitude>45.52031</Latitude>
+  <Longitude>-123.00768</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

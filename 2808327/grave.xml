@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2808327</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nancy A.</GivenNames>
+      <FamilyNames>Bramel</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1888</BirthYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/8119a3280f1f823a2950991ba859502e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b9f540ca685e6a937342389351c064ca.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/d554757ff6c3338d036791780bc64633.jpg</string>
+  </Images>
+  <Information>AGED 53 YRS 15 DS</Information>
+  <Latitude>45.5207</Latitude>
+  <Longitude>-123.005662</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

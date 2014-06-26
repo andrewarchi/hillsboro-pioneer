@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837412</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Theadore</GivenNames>
+      <FamilyNames>Kramer</FamilyNames>
+      <BirthYear>1893</BirthYear>
+      <DeathYear>1962</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/acf200dc4adb39191d027db60a6febea.jpg</string>
+  </Images>
+  <Latitude>45.520889</Latitude>
+  <Longitude>-123.004875</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

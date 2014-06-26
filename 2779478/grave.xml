@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779478</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Unknown</GivenNames>
+      <FamilyNames />
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/1c17c4fe3afb110f631ed4ae57557c1e.jpg</string>
+  </Images>
+  <Latitude>45.520248</Latitude>
+  <Longitude>-123.004325</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

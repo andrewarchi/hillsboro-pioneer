@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836502</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>A</GivenNames>
+      <FamilyNames>McCourt</FamilyNames>
+      <BirthYear>1830</BirthYear>
+      <DeathYear>1890</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0fc858f293da18739b199cbad9a29892.jpg</string>
+  </Images>
+  <Latitude>45.520334</Latitude>
+  <Longitude>-123.006227</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

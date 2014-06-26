@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778323</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Peter</GivenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <DeathDay>13</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/15b6e77a0c0dcd5c3104f629835a41b3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cc539348d5e134616a8cf0be21ceb2cd.jpg</string>
+  </Images>
+  <Information>AGED 80 YRS</Information>
+  <Latitude>45.520785</Latitude>
+  <Longitude>-123.004429</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

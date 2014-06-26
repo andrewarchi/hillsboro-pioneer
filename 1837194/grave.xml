@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837194</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robert M.</GivenNames>
+      <FamilyNames>Imbrie</FamilyNames>
+      <BirthYear>1894</BirthYear>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/961f361e420d8608be23c7f6771ab188.jpg</string>
+  </Images>
+  <Latitude>45.520473</Latitude>
+  <Longitude>-123.00779</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

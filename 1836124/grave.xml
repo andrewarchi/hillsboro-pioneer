@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836124</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Violet A</GivenNames>
+      <FamilyNames>Odgen</FamilyNames>
+      <DeathDay>28</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ella F</GivenNames>
+      <FamilyNames>Odgen</FamilyNames>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1896</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0424d448cbe1cafdfa52e828d92dda81.jpg</string>
+  </Images>
+  <Information>Aged 4 ys 11 ms Children of </Information>
+  <Latitude>45.5202</Latitude>
+  <Longitude>-123.004456</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

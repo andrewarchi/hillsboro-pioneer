@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668018</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <FamilyNames>G A R Unknown Soldier Memorial</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8c95650ff556931de3b742da881b51e7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/38039ba275dcc79eaa3bedd2d7b8307c.jpg</string>
+  </Images>
+  <Latitude>45.520514</Latitude>
+  <Longitude>-123.005568</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

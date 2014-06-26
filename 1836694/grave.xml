@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836694</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Fred </GivenNames>
+      <FamilyNames>Harris</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6d157db178bde75ea8f5fd13cdcfdc0f.jpg</string>
+  </Images>
+  <Information>Brother</Information>
+  <Latitude>45.520623</Latitude>
+  <Longitude>-123.006745</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

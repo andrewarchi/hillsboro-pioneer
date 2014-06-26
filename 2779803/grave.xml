@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779803</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary Etta</GivenNames>
+      <FamilyNames>Estes</FamilyNames>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1877</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/136bf5ffef66bc2c679e7fd856be5e80.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/54e6f7e03287c0e5c787702d0963619f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/d51c49ea65c99a737ea33857f55bcdae.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/60252edc4a1f1bc1064563196841ca83.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3b4b08087632cd1a0eeca3815f1e0d64.jpg</string>
+  </Images>
+  <Information>DAUGHTER OF G E 7 u m estes</Information>
+  <Latitude>45.520484</Latitude>
+  <Longitude>-123.00406</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

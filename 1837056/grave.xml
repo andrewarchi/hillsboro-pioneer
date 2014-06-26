@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837056</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frank</GivenNames>
+      <FamilyNames>Savitz</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c39a78a0df03d725cebd552e35c324c6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/ab5dda1d272163636c6af70d6de336b6.jpg</string>
+  </Images>
+  <Information>Father</Information>
+  <Latitude>45.520622</Latitude>
+  <Longitude>-123.004582</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

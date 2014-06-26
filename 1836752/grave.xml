@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836752</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Susan E</GivenNames>
+      <FamilyNames>Castle</FamilyNames>
+      <BirthDay>31</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1829</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1888</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/77627485cbf1749a5e21b9fe1cc199d0.jpg</string>
+  </Images>
+  <Latitude>45.520198</Latitude>
+  <Longitude>-123.005235</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836573</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>F C</GivenNames>
+      <FamilyNames>Pauli</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7b5f7e66135935879de6a6349b7ca795.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b848a0c1c65b1045937bd16f7d4a2320.jpg</string>
+  </Images>
+  <Latitude>45.520197</Latitude>
+  <Longitude>-123.003958</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

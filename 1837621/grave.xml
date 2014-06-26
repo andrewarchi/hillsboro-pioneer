@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837621</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Isaac</GivenNames>
+      <FamilyNames>Hobson</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cc71122bf1eab1778ee46e346fe64714.jpg</string>
+  </Images>
+  <Latitude>45.52012</Latitude>
+  <Longitude>-123.00752</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836392</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>M Ellen</GivenNames>
+      <FamilyNames>Wilson</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1867</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1877</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>James </GivenNames>
+      <FamilyNames>Wilson</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1872</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1877</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d97c60dc06e7fd96e4b54f9db4f74bdf.jpg</string>
+  </Images>
+  <Latitude>45.520029</Latitude>
+  <Longitude>-123.005339</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

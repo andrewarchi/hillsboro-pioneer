@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778211</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ervin H</GivenNames>
+      <FamilyNames>Birdsell</FamilyNames>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1894</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/d75b9bf78c5540d68d497a6ff47167fd.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/684d9b4484ee40787e7fe0287f795c6a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/180075ba16baa061f89f658a1af0af3c.jpg</string>
+  </Images>
+  <Information>Son of B. &amp; M. Birdsell Aged 32 Ys. 1 Ms. 15 Ds.</Information>
+  <Latitude>45.520735</Latitude>
+  <Longitude>-123.004506</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

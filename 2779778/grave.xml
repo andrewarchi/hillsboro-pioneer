@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779778</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>J N</GivenNames>
+      <FamilyNames>Ferris</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/1fc7992fd5f07c5994c550479e54501d.jpg</string>
+  </Images>
+  <Information>Co. A 28th CONN. INF.</Information>
+  <Latitude>45.520247</Latitude>
+  <Longitude>-123.004234</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

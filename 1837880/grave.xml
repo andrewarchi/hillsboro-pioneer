@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837880</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John G</GivenNames>
+      <FamilyNames>Plank</FamilyNames>
+      <BirthYear>1857</BirthYear>
+      <DeathYear>1950</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <FamilyNames>Plank</FamilyNames>
+      <BirthYear>1860</BirthYear>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary Jane</GivenNames>
+      <FamilyNames>Plank</FamilyNames>
+      <BirthYear>1860</BirthYear>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John C</GivenNames>
+      <FamilyNames>Plank</FamilyNames>
+      <BirthYear>1857</BirthYear>
+      <DeathYear>1950</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/88dc15283b20c5dfd0e31b42cc6b20b9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/76886bf1bbe85716da33a70a0efc3c6c.jpg</string>
+  </Images>
+  <Latitude>45.52036</Latitude>
+  <Longitude>-123.006676</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

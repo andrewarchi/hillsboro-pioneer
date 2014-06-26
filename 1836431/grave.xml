@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836431</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Arthur P</GivenNames>
+      <FamilyNames>Huntington</FamilyNames>
+      <BirthYear>1898</BirthYear>
+      <DeathYear>1908</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Samuel J</GivenNames>
+      <FamilyNames>Huntington</FamilyNames>
+      <BirthYear>1841</BirthYear>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Maria B</GivenNames>
+      <FamilyNames>Huntington</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1901</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3da955faf6a20bad3315e5789cd75ee6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5e82d1652eca7a0129b9f4eed14eaa50.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/dd36ccc863fad79041dcd1c45d6fb7ad.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a9a47db1388da20d5c9b7af283071a02.jpg</string>
+  </Images>
+  <Latitude>45.520506</Latitude>
+  <Longitude>-123.00621</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

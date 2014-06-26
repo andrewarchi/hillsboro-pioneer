@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668010</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alvin M</GivenNames>
+      <FamilyNames>Collins</FamilyNames>
+      <BirthDay>8</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1832</BirthYear>
+      <DeathDay>2</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c30c69448d01a7de9a16c08f5768ba02.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b91927ac5db7d7d8340cab0e57967b01.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ee9289f088cf0962caba6a47bca850ce.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5551f3dba842be8eb0c493032d17c654.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1cd9a73ca4fa27644fc0b5085af5fbd9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/aa8449fe1aae888c4b740fe2ec3ea034.jpg</string>
+  </Images>
+  <Latitude>45.520544</Latitude>
+  <Longitude>-123.005659</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

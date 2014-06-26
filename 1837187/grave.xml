@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837187</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alonzo</GivenNames>
+      <FamilyNames>Sigler</FamilyNames>
+      <BirthYear>1845</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ann Elizabeth</GivenNames>
+      <FamilyNames>Sigler</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9d4fd1dabb44ddc35d4306a46b31f54b.jpg</string>
+  </Images>
+  <Latitude>45.520329</Latitude>
+  <Longitude>-123.005024</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

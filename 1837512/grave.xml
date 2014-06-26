@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837512</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mellie J</GivenNames>
+      <FamilyNames>Olsen</FamilyNames>
+      <BirthDay>13</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1867</BirthYear>
+      <DeathDay>13</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/21e6ec17f58b9481be8fcef79edf27fe.jpg</string>
+  </Images>
+  <Latitude>45.520234</Latitude>
+  <Longitude>-123.004764</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

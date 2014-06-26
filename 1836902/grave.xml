@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836902</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Francis W</GivenNames>
+      <FamilyNames>Rollins</FamilyNames>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/700bb5101b9deca6dc4235ee350ac00c.jpg</string>
+  </Images>
+  <Latitude>45.52059</Latitude>
+  <Longitude>-123.00788</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836439</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edith Tozier</GivenNames>
+      <FamilyNames>Weatherred</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/984c99a5a7f2faee5fa98981f9ffcced.jpg</string>
+  </Images>
+  <Epitaph>A cherished pioneer.</Epitaph>
+  <Latitude>45.520394</Latitude>
+  <Longitude>-123.005363</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

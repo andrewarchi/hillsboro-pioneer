@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837922</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Melvin Arthur</GivenNames>
+      <FamilyNames>Bigsby</FamilyNames>
+      <DeathYear>1936</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b232362150819648a26cb975e804e8b0.jpg</string>
+  </Images>
+  <Information>Baby</Information>
+  <Latitude>45.520214</Latitude>
+  <Longitude>-123.00692</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

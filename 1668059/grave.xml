@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668059</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <FamilyNames>Wiley</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0f263f2793eacd570065b744f0b2037e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6e71604235d37fcaa3294332e738610e.jpg</string>
+  </Images>
+  <Latitude>45.520135</Latitude>
+  <Longitude>-123.005661</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

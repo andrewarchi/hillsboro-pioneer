@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837154</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Leonard F</GivenNames>
+      <FamilyNames>Beichley</FamilyNames>
+      <BirthYear>1913</BirthYear>
+      <DeathYear>1977</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/73c16281ecbd6caa627bcfdec5834cb9.jpg</string>
+  </Images>
+  <Latitude>45.520184</Latitude>
+  <Longitude>-123.00787</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

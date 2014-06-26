@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836232</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James W</GivenNames>
+      <FamilyNames>Morgan</FamilyNames>
+      <BirthDay>4</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1858</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1904</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b44267fb13bcb021adfb3357e8f9af9c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/94b2922ada200f5cd5912e6aca6c4263.jpg</string>
+  </Images>
+  <Latitude>45.520569</Latitude>
+  <Longitude>-123.005818</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

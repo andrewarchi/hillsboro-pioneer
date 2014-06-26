@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837282</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dennis B</GivenNames>
+      <FamilyNames>Weik</FamilyNames>
+      <BirthYear>1900</BirthYear>
+      <DeathYear>1931</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fab7ef12ee20b64546360acc18eb8eab.jpg</string>
+  </Images>
+  <Latitude>45.520557</Latitude>
+  <Longitude>-123.00768</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

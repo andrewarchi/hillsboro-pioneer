@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837684</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anton</GivenNames>
+      <FamilyNames>Lunow</FamilyNames>
+      <BirthYear>1848</BirthYear>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Augusta</GivenNames>
+      <FamilyNames>Lunow</FamilyNames>
+      <BirthYear>1851</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Henry</GivenNames>
+      <FamilyNames>Lunow</FamilyNames>
+      <BirthYear>1890</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6f9194ebbe5a58643db50cffa6f73729.jpg</string>
+  </Images>
+  <Latitude>45.520737</Latitude>
+  <Longitude>-123.00747</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

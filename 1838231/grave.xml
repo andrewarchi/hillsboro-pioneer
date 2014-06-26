@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838231</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Abraham</GivenNames>
+      <FamilyNames>Holcomb</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1861</BirthYear>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Emma E</GivenNames>
+      <FamilyNames>Holcomb</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1871</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3eaa2bc81057236211d37fba9feeef4d.jpg</string>
+  </Images>
+  <Latitude>45.520187</Latitude>
+  <Longitude>-123.004965</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

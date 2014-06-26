@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842861</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Adolph</GivenNames>
+      <FamilyNames>Siegrist</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1848</BirthYear>
+      <DeathDay>2</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1886</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Verena</GivenNames>
+      <FamilyNames>Siegrist</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1853</BirthYear>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1908</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a09346bffa89f8694cf6ca9cbea7437c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/01ac5fb1f941e93bd85769b901f67c3d.jpg</string>
+  </Images>
+  <Latitude>45.520336</Latitude>
+  <Longitude>-123.0059</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

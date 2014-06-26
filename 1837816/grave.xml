@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837816</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Linda Lee</GivenNames>
+      <FamilyNames>Deming</FamilyNames>
+      <BirthYear>1942</BirthYear>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a03b014e13e8d5735be444613b1fe478.jpg</string>
+  </Images>
+  <Latitude>45.520145</Latitude>
+  <Longitude>-123.00716</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

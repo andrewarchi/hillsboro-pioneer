@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836126</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sylvester D</GivenNames>
+      <FamilyNames>Ogden</FamilyNames>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1880</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/de7e8ccf5d2a19c2541965b20f9ef767.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5b53de07e2ce72b49bf00ebe0b35403a.jpg</string>
+  </Images>
+  <Latitude>45.520153</Latitude>
+  <Longitude>-123.00451</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838152</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Julius J</GivenNames>
+      <FamilyNames>Weisenbach</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bebee5d5540938f0bb4c090d908f4114.jpg</string>
+  </Images>
+  <Latitude>45.520699</Latitude>
+  <Longitude>-123.006439</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

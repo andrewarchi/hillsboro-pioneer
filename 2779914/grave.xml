@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779914</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Richard</GivenNames>
+      <FamilyNames>Lane</FamilyNames>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1900</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Chester</GivenNames>
+      <FamilyNames>Lane</FamilyNames>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/fd01074ace582b1f35525303f8703f2f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a1ce40924b9f3c0c7a620162e9b1ed08.jpg</string>
+  </Images>
+  <Information>Richard - Aged 10 years. Chester - Aged 6 years.</Information>
+  <Latitude>45.520077</Latitude>
+  <Longitude>-123.004035</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

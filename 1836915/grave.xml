@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836915</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <FamilyNames>Austin</FamilyNames>
+      <BirthYear>1828</BirthYear>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Dora</GivenNames>
+      <FamilyNames>Hewitt</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1889</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Olive</GivenNames>
+      <FamilyNames>Hewitt</FamilyNames>
+      <BirthYear>1880</BirthYear>
+      <DeathYear>1898</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1bd8c912fbdaf17a0db52420479fb31b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a8113ac281b696186576b8e61987b5e3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e4a00d41ee55369d002993335b3c61c1.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ba14cf4f4c92ec09d6b939cd59448766.jpg</string>
+  </Images>
+  <Latitude>45.52048</Latitude>
+  <Longitude>-123.006068</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

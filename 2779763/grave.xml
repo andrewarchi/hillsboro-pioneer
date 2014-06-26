@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779763</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Corpl</Prefix>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Berrie</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/4741f8d203224b0517e9a2a3fc250c9f.jpg</string>
+  </Images>
+  <Information>CI J 6 CAV</Information>
+  <Latitude>45.520205</Latitude>
+  <Longitude>-123.004157</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

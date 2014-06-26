@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838102</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Baby Daughter of</GivenNames>
+      <FamilyNames>Lottie Weik</FamilyNames>
+      <BirthYear>1913</BirthYear>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0f70eec3d0d858fbadbdb0d16739aa19.jpg</string>
+  </Images>
+  <Latitude>45.520744</Latitude>
+  <Longitude>-123.006418</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

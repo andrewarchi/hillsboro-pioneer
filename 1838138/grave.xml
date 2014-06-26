@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838138</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas</GivenNames>
+      <FamilyNames>Guyton</FamilyNames>
+      <BirthYear>1844</BirthYear>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/885331f1c2a723e6fd41e3b51dd1e647.jpg</string>
+  </Images>
+  <Latitude>45.520501</Latitude>
+  <Longitude>-123.006443</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836258</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lulu Grace</GivenNames>
+      <FamilyNames>Stewart</FamilyNames>
+      <BirthYear>1880</BirthYear>
+      <DeathYear>1892</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Lulu Grace</GivenNames>
+      <FamilyNames>Stewart</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1880</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1892</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/52ea18f651c200b04d92ac0f60c1b101.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/93ec18d5df5fb1f70552d1aef5777a22.jpg</string>
+  </Images>
+  <Latitude>45.520457</Latitude>
+  <Longitude>-123.005534</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

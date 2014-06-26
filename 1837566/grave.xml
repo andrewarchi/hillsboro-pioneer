@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837566</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles Edward</GivenNames>
+      <FamilyNames>Deichman</FamilyNames>
+      <BirthYear>1863</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3158ae4a8562ffb45d903a8743aca2d9.jpg</string>
+  </Images>
+  <Latitude>45.520463</Latitude>
+  <Longitude>-123.004726</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

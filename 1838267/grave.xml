@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838267</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Minnie </GivenNames>
+      <MaidenNames>Clark</MaidenNames>
+      <FamilyNames>Mason</FamilyNames>
+      <BirthYear>1890</BirthYear>
+      <DeathYear>1964</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1ecde4b9d68464ada4433614b1c8cb41.jpg</string>
+  </Images>
+  <Latitude>45.520603</Latitude>
+  <Longitude>-123.006638</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

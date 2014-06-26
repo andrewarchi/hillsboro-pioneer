@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836335</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas B</GivenNames>
+      <FamilyNames>Perkins</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1852</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7fcf2c6642bacb46eb1cf139f9e1d9dd.jpg</string>
+  </Images>
+  <Latitude>45.520662</Latitude>
+  <Longitude>-123.005419</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836524</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Warren Van</GivenNames>
+      <FamilyNames>Hyning</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1848</BirthYear>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f0f13bb8ff46ff6205fa9e2ff7b78648.jpg</string>
+  </Images>
+  <Latitude>45.520178</Latitude>
+  <Longitude>-123.006549</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

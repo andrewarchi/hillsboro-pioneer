@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668063</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Benemma W</GivenNames>
+      <FamilyNames>Pool</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1963</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c3cb7174cc128a6a7aea13053523fb45.jpg</string>
+  </Images>
+  <Latitude>45.520199</Latitude>
+  <Longitude>-123.005682</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

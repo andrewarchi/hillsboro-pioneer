@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836896</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John C</GivenNames>
+      <FamilyNames>Weatherred</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1846</BirthYear>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4241f634fdc74a72fa6ab2b3ee16f77e.jpg</string>
+  </Images>
+  <Latitude>45.52065</Latitude>
+  <Longitude>-123.007835</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

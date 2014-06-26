@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838255</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Addie</GivenNames>
+      <FamilyNames>Carter</FamilyNames>
+      <BirthYear>1896</BirthYear>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/06f24ef1e9281212a26af8c763abb46a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/299fa92574a82b969aef86756ccea398.jpg</string>
+  </Images>
+  <Epitaph>Beloved Daughter</Epitaph>
+  <Latitude>45.520533</Latitude>
+  <Longitude>-123.006705</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

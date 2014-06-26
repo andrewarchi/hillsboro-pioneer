@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838021</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elmer V</GivenNames>
+      <FamilyNames>Handley</FamilyNames>
+      <BirthYear>1895</BirthYear>
+      <DeathYear>1975</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0014aa4a8dc90eb19dbdc20091f4be52.jpg</string>
+  </Images>
+  <Latitude>45.520821</Latitude>
+  <Longitude>-123.007257</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

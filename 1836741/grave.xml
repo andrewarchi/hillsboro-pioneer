@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836741</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Laurette A</GivenNames>
+      <FamilyNames>Moore</FamilyNames>
+      <BirthDay>2</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1859</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1862</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>M</GivenNames>
+      <FamilyNames>Moore</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>M H</GivenNames>
+      <FamilyNames>Moore</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2137dd09ed63a6816aaee1627d05b7fc.jpg</string>
+  </Images>
+  <Latitude>45.520109</Latitude>
+  <Longitude>-123.005946</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

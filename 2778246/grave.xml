@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778246</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Andrew J</GivenNames>
+      <FamilyNames>Masters</FamilyNames>
+      <BirthDay>20</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1816</BirthYear>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1856</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/065bc2c7cc6242114953b23d4e9dd17d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/4c71f7ed03ba23535e3cf9059c30add0.jpg</string>
+  </Images>
+  <Latitude>45.52023</Latitude>
+  <Longitude>-123.004526</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

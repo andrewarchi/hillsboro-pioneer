@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836482</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sallie</GivenNames>
+      <FamilyNames>Pickens</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>William C</GivenNames>
+      <FamilyNames>Pickens</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c0bbb055c2123b3873c7fb6862becaa3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/261acd566d18b50cc86cb3267227605e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c37bf9d73f5e44869aa985e0a68c2768.jpg</string>
+  </Images>
+  <Latitude>45.520156</Latitude>
+  <Longitude>-123.007911</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

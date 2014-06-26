@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836324</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas</GivenNames>
+      <FamilyNames>Scholfield</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1805</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1883</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/02d65d30260b6b259fb1427e220359c4.jpg</string>
+  </Images>
+  <Information>In Memory of</Information>
+  <Latitude>45.520128</Latitude>
+  <Longitude>-123.005915</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

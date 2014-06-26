@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837534</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Bascom R</GivenNames>
+      <FamilyNames>Shimp</FamilyNames>
+      <BirthYear>1846</BirthYear>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a702d3d72de62484160a2fbc25c475de.jpg</string>
+  </Images>
+  <Latitude>45.520477</Latitude>
+  <Longitude>-123.00752</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

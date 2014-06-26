@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778361</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jacob</GivenNames>
+      <FamilyNames>Anderson</FamilyNames>
+      <BirthDay>6</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1840</BirthYear>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1899</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/810562e186431a17d29f4afb4e598f40.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fea7363d7d5453fba8cd3551907ab9b8.jpg</string>
+  </Images>
+  <Information>Aged 59 years</Information>
+  <Latitude>45.520335</Latitude>
+  <Longitude>-123.004324</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

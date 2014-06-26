@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779837</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Samuel T</GivenNames>
+      <FamilyNames>Humphreys</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1868</BirthYear>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1931</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5fa4198241bd48bc2dad5de52d331198.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a7f98eaa95560267c49b899c627d6fa6.jpg</string>
+  </Images>
+  <Latitude>45.520193</Latitude>
+  <Longitude>-123.004043</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836678</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ernest G</GivenNames>
+      <FamilyNames>White</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5a30666ff1f811675e9f9b5bf5847be3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/50f1f3984ba7425e585656cf50c87e35.jpg</string>
+  </Images>
+  <Latitude>45.520314</Latitude>
+  <Longitude>-123.004083</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

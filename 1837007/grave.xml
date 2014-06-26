@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837007</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Sadie I</GivenNames>
+      <FamilyNames>Brisbine</FamilyNames>
+      <BirthYear>1885</BirthYear>
+      <DeathYear>1949</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Lyman H</GivenNames>
+      <FamilyNames>Brisbine</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a25dee53291478a903659bf0ed41107a.jpg</string>
+  </Images>
+  <Latitude>45.520613</Latitude>
+  <Longitude>-123.00525</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

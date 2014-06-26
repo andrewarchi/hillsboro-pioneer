@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837710</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Maude E</GivenNames>
+      <FamilyNames>Zumwalt</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1892</BirthYear>
+      <DeathDay>2</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1980</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/af2eca626d5a151da24bf357ab566b6a.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520216</Latitude>
+  <Longitude>-123.005129</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779799</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>W S Bill</GivenNames>
+      <FamilyNames>Holt</FamilyNames>
+      <BirthYear>1868</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/ffe22d61891a2e9088ea3949c1616558.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e05e6d7c1aa04b93a893b011ee0c9994.jpg</string>
+  </Images>
+  <Latitude>45.520726</Latitude>
+  <Longitude>-123.004146</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

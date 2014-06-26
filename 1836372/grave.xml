@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836372</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lucille E</GivenNames>
+      <FamilyNames>McArthur</FamilyNames>
+      <BirthYear>1911</BirthYear>
+      <DeathYear>1994</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a31685cc7876376583d5a698aa0ccb23.jpg</string>
+  </Images>
+  <Information>Loving Mother</Information>
+  <Latitude>45.52013</Latitude>
+  <Longitude>-123.008</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

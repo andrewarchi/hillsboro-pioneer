@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837737</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Turner</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Belva</GivenNames>
+      <FamilyNames>Turner</FamilyNames>
+      <BirthYear>1900</BirthYear>
+      <DeathYear>1990</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/90466f2c74cdb064a2e3e592b440a4d7.jpg</string>
+  </Images>
+  <Latitude>45.52017</Latitude>
+  <Longitude>-123.007355</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837774</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frost</GivenNames>
+      <FamilyNames>George O</FamilyNames>
+      <BirthYear>1846</BirthYear>
+      <DeathYear>1936</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ann E</GivenNames>
+      <FamilyNames>Frost</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b5404d23338340a671ed3b2285a496c6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e0eac9e1f32a657d1bea863a2bc8a65c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2928c49d59a0f72e490641f9fdde2b6a.jpg</string>
+  </Images>
+  <Latitude>45.52084</Latitude>
+  <Longitude>-123.007195</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

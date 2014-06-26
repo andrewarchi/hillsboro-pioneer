@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837553</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary L</GivenNames>
+      <FamilyNames>Estep</FamilyNames>
+      <BirthDay>31</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1850</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7247d40c328eee0dad7747500c8994e3.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520407</Latitude>
+  <Longitude>-123.004698</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

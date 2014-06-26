@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779457</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lewis</GivenNames>
+      <FamilyNames>Cornell</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/8e7bd84bc9cdb2614c66d7a2101cd16c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/aef3d7f00df462290d7bb7b880d847f9.jpg</string>
+  </Images>
+  <Information>CO A 3 WIS INF</Information>
+  <Latitude>45.520142</Latitude>
+  <Longitude>-123.004326</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

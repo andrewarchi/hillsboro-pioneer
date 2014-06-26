@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837795</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John Harry</GivenNames>
+      <FamilyNames>Masterson</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/55b62c24643d9e884a5f64a53fa7df12.jpg</string>
+  </Images>
+  <Latitude>45.520485</Latitude>
+  <Longitude>-123.00719</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

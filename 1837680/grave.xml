@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837680</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William O</GivenNames>
+      <FamilyNames>Gowin</FamilyNames>
+      <BirthDay>13</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1856</BirthYear>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a1b09bf3c4764e8cc4ed42489c09608d.jpg</string>
+  </Images>
+  <Epitaph>At Rest</Epitaph>
+  <Latitude>45.520767</Latitude>
+  <Longitude>-123.00747</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

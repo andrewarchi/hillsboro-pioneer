@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837683</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Martha</GivenNames>
+      <FamilyNames>Phillips</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1828</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>D T</GivenNames>
+      <FamilyNames>Phillips</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1823</BirthYear>
+      <DeathDay>14</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1906</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Martha</GivenNames>
+      <FamilyNames>Phillips</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1828</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ad30d75bba568691159ca149a7d36cc1.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3da35427f75d5c269cf39b9e510ec1b4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7183c7adf58e9e59d905d0155274ce4e.jpg</string>
+  </Images>
+  <Information>Wife of D.J. Phillips</Information>
+  <Latitude>45.520223</Latitude>
+  <Longitude>-123.005042</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

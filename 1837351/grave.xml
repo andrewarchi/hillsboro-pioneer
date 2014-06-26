@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837351</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lyman E</GivenNames>
+      <FamilyNames>Merrell</FamilyNames>
+      <BirthYear>1899</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Charles P</GivenNames>
+      <FamilyNames>Merrell</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Fannie</GivenNames>
+      <FamilyNames>Merrell</FamilyNames>
+      <BirthYear>1868</BirthYear>
+      <DeathYear>1958</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7c3566a9020b5b5ef2a677ccbbb218bc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2078d45de9a98e6c38f912b11aa54300.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a638d0ac3362a55c28d6e5def81155c1.jpg</string>
+  </Images>
+  <Information>Son Father Mother</Information>
+  <Latitude>45.520123</Latitude>
+  <Longitude>-123.004922</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

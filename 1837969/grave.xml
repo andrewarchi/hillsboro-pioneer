@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837969</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Phillip D</GivenNames>
+      <FamilyNames>Stover</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/87a7dacfeba82cf9c0037794ee35af19.jpg</string>
+  </Images>
+  <Information>1st SGT Co. 8 Il. PA. INF&gt;</Information>
+  <Latitude>45.520142</Latitude>
+  <Longitude>-123.007349</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

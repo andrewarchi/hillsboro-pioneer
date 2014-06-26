@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778350</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William</GivenNames>
+      <FamilyNames>Swalley</FamilyNames>
+      <BirthDay>20</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1848</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1902</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5105e803d90ce2c951c892c2455348eb.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/58193b72d0bccd4fb51c8158f3485d4c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/306bdd433c896d0f4cb01a068a753f92.jpg</string>
+  </Images>
+  <Latitude>45.520457</Latitude>
+  <Longitude>-123.004309</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

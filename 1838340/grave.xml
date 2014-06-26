@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838340</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Martha Jane Adams</GivenNames>
+      <FamilyNames>Martin</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1863</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1954</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d384f4fc6bc0638219ad6d3e02eb597c.jpg</string>
+  </Images>
+  <Latitude>45.520449</Latitude>
+  <Longitude>-123.004835</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

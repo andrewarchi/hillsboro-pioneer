@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837652</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Rebecca A</GivenNames>
+      <FamilyNames>Naught</FamilyNames>
+      <BirthYear>1852</BirthYear>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/236152dd94d7f0bb7ca03ee74234017b.jpg</string>
+  </Images>
+  <Latitude>45.520447</Latitude>
+  <Longitude>-123.00751</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

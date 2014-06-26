@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842865</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mollie C</GivenNames>
+      <FamilyNames>Archbold</FamilyNames>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1892</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/31b22731d4a4fac5845d1d2172d28566.jpg</string>
+  </Images>
+  <Information>In Memory of... Beloved Wife of J R Beegle, Aged 21 Years, 9 days</Information>
+  <Latitude>45.520325</Latitude>
+  <Longitude>-123.00595</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

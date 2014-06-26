@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836991</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Minnie Belle</GivenNames>
+      <MaidenNames>Willis</MaidenNames>
+      <FamilyNames>Smith</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1871</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1901</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/769a4524221838252f09f271181e3586.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/6bd958050dd1656b6a495101c4d1bef3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/058def02670d4607f8b8ab85b09d4653.jpg</string>
+  </Images>
+  <Information>Wife of W.O. Smith</Information>
+  <Latitude>45.520545</Latitude>
+  <Longitude>-123.004404</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

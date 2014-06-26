@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837814</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>G Harlen</GivenNames>
+      <FamilyNames>Kelly</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1880</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/94c613daf5129fb8f2db072f86f34738.jpg</string>
+  </Images>
+  <Latitude>45.520115</Latitude>
+  <Longitude>-123.00718</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837860</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ruth W</GivenNames>
+      <FamilyNames>Jones</FamilyNames>
+      <BirthYear>1886</BirthYear>
+      <DeathYear>1979</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9a80483393e2abb8c41363d2a8c29ba6.jpg</string>
+  </Images>
+  <Latitude>45.520615</Latitude>
+  <Longitude>-123.006645</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

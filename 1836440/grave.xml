@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836440</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary B</GivenNames>
+      <FamilyNames>Hammer</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1882</BirthYear>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1895</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/92be73dd608a66158890aaa6c89a8450.jpg</string>
+  </Images>
+  <Latitude>45.520276</Latitude>
+  <Longitude>-123.005469</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

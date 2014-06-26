@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837577</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mollie</GivenNames>
+      <FamilyNames>Davis</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1e8b5e0da4e363e244f01a18b5f8d942.jpg</string>
+  </Images>
+  <Latitude>45.52027</Latitude>
+  <Longitude>-123.007545</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

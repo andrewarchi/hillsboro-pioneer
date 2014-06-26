@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837646</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George B</GivenNames>
+      <FamilyNames>Benton</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1842</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a694f71e03004aa6b5fd37de01179468.jpg</string>
+  </Images>
+  <Latitude>45.520412</Latitude>
+  <Longitude>-123.00752</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

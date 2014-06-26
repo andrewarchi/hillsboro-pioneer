@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836211</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <FamilyNames>Elliott</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1931</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/197815a39f967ae1f696d5be1f680f0b.jpg</string>
+  </Images>
+  <Information>Sister</Information>
+  <Latitude>45.520564</Latitude>
+  <Longitude>-123.005817</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

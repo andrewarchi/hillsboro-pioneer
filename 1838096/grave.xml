@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838096</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lena May</GivenNames>
+      <FamilyNames>McGray</FamilyNames>
+      <BirthYear>1875</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d92155cc7b222a5454f055509b9b1ab2.jpg</string>
+  </Images>
+  <Latitude>45.52069</Latitude>
+  <Longitude>-123.006361</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

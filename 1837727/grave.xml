@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837727</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lella Lee</GivenNames>
+      <FamilyNames>Westfall</FamilyNames>
+      <BirthYear>1889</BirthYear>
+      <DeathYear>1956</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0d42cc04eea10d1ccf3d3860198ec2d9.jpg</string>
+  </Images>
+  <Latitude>45.520096</Latitude>
+  <Longitude>-123.00748</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

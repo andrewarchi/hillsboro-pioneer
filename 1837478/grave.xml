@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837478</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ulrich</GivenNames>
+      <FamilyNames>Haas</FamilyNames>
+      <BirthYear>1843</BirthYear>
+      <DeathYear>1914</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Magdalena</GivenNames>
+      <FamilyNames>Haas</FamilyNames>
+      <BirthYear>1845</BirthYear>
+      <DeathYear>1909</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/25359f48235109c616e46bb4afb7c1a5.jpg</string>
+  </Images>
+  <Epitaph>In German: Ruhe ???</Epitaph>
+  <Latitude>45.520702</Latitude>
+  <Longitude>-123.004718</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

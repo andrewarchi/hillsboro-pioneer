@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779851</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas</GivenNames>
+      <FamilyNames>Howe</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1842</BirthYear>
+      <DeathDay>3</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c9383782091d9420b8c1a1343eb8ea0c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/746522e9713d3153fddb86151db31766.jpg</string>
+  </Images>
+  <Latitude>45.520325</Latitude>
+  <Longitude>-123.004052</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

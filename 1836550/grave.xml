@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836550</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Wendell S</GivenNames>
+      <FamilyNames>Guyton</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f109d95c682201ffca356e296a703b2d.jpg</string>
+  </Images>
+  <Latitude>45.520585</Latitude>
+  <Longitude>-123.006523</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

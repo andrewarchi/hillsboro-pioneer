@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838128</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Eva</GivenNames>
+      <FamilyNames>Swalley</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Swalley</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1890</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2f0ff5988c60b8b0f3db6224ab97963e.jpg</string>
+  </Images>
+  <Information>wife of John Swalley</Information>
+  <Latitude>45.520386</Latitude>
+  <Longitude>-123.006446</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

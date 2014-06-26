@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668064</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Augustus C</GivenNames>
+      <FamilyNames>Pool</FamilyNames>
+      <BirthYear>1876</BirthYear>
+      <DeathYear>1967</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e2ba8534c5ee71fec7556bde0e4af67d.jpg</string>
+  </Images>
+  <Latitude>45.520199</Latitude>
+  <Longitude>-123.005682</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

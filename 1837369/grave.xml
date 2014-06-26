@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837369</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Amanda Jane</GivenNames>
+      <FamilyNames>Maib</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e0f85e23f8b980ed67138660784f994a.jpg</string>
+  </Images>
+  <Latitude>45.52018</Latitude>
+  <Longitude>-123.007614</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

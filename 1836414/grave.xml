@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836414</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Benton</GivenNames>
+      <FamilyNames>Bowman</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/aa17e004814ae0f10acd95a3abd902e5.jpg</string>
+  </Images>
+  <Latitude>45.520151</Latitude>
+  <Longitude>-123.008011</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

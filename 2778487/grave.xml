@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778487</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles H</GivenNames>
+      <FamilyNames>Mitchell</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1911</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/af768590c360b2077c9a9b0661d992c6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/551a89b93bb967418b158b68818eb6ea.jpg</string>
+  </Images>
+  <Latitude>45.520223</Latitude>
+  <Longitude>-123.00426</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

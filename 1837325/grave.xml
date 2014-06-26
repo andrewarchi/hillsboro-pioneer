@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837325</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Wellington Wesley</GivenNames>
+      <FamilyNames>Clark</FamilyNames>
+      <BirthYear>1892</BirthYear>
+      <DeathYear>1966</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Evlyn Enola</GivenNames>
+      <FamilyNames>Clark</FamilyNames>
+      <BirthYear>1906</BirthYear>
+      <DeathYear>1984</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/080623eb6e7e7a45a6c9e365669b4542.jpg</string>
+  </Images>
+  <Latitude>45.520177</Latitude>
+  <Longitude>-123.004981</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

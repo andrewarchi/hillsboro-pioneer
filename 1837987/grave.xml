@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837987</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>L D</GivenNames>
+      <FamilyNames>Curtis</FamilyNames>
+      <BirthYear>1850</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e6ef9056b15126b90abe787adab8ffe3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c8e4ca8c11c777c99cebd3122053c4b8.jpg</string>
+  </Images>
+  <Latitude>45.520484</Latitude>
+  <Longitude>-123.00737</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

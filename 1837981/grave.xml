@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837981</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles T</GivenNames>
+      <FamilyNames>Bigelow</FamilyNames>
+      <BirthYear>1876</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/048a5578442ae8873e29bdaf5e4d577e.jpg</string>
+  </Images>
+  <Latitude>45.520773</Latitude>
+  <Longitude>-123.004925</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

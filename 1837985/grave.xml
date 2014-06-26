@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837985</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Watson S</GivenNames>
+      <FamilyNames>Tilton</FamilyNames>
+      <BirthYear>1845</BirthYear>
+      <DeathYear>1931</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/24bdb079c12f4ab95dca3118e57f0987.jpg</string>
+  </Images>
+  <Latitude>45.520482</Latitude>
+  <Longitude>-123.007357</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

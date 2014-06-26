@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837889</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Knodel</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1890</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1947</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2302305d0caf5b9a4b5d9fede95c3872.jpg</string>
+  </Images>
+  <Information>Dad</Information>
+  <Latitude>45.52096</Latitude>
+  <Longitude>-123.004982</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838193</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John E.</GivenNames>
+      <FamilyNames>Bennett</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1849</BirthYear>
+      <DeathDay>14</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/86db30ba8280e0cb29f621e5adc54e8d.jpg</string>
+  </Images>
+  <Latitude>45.520656</Latitude>
+  <Longitude>-123.006584</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

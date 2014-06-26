@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1667913</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dora B</GivenNames>
+      <FamilyNames>Carstensen</FamilyNames>
+      <BirthYear>1866</BirthYear>
+      <DeathYear>1919</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>J</GivenNames>
+      <FamilyNames>Carstensen</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/334afddde35afb88f78e5922edcad2dc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/dd8bc152712cbc70f02cf6bb6c597bb7.jpg</string>
+  </Images>
+  <Latitude>45.520766</Latitude>
+  <Longitude>-123.005593</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

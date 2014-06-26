@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838428</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Oliver B</GivenNames>
+      <FamilyNames>Gates</FamilyNames>
+      <BirthYear>1874</BirthYear>
+      <DeathYear>1962</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1e6e8ff24a0a82b3b640c0e432a5d922.jpg</string>
+  </Images>
+  <Latitude>45.520813</Latitude>
+  <Longitude>-123.004664</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

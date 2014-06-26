@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837813</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Irvin E</GivenNames>
+      <FamilyNames>Kelly</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1883</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e952d64010b86f7b16705a2c71836308.jpg</string>
+  </Images>
+  <Latitude>45.52011</Latitude>
+  <Longitude>-123.00719</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

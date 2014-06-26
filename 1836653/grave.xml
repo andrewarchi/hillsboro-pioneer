@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836653</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Unknown</GivenNames>
+      <FamilyNames>Burkhalter</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5de0b241087d8cfc90ae4aa566b7c2f7.jpg</string>
+  </Images>
+  <Latitude>45.520129</Latitude>
+  <Longitude>-123.00529</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

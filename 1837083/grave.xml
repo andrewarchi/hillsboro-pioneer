@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837083</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William Morton</GivenNames>
+      <FamilyNames>Hughes</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>May Aurora</GivenNames>
+      <FamilyNames>Hughes</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1959</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/071ae7fbc5f747f89587a5c0ffb026cd.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9402322faf6d5a317f1c31d65c32cb57.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9ca721ee8930981fdfcc8480709133dd.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8c140d964af149dfe9ff94ea89aaea4f.jpg</string>
+  </Images>
+  <Latitude>45.52018</Latitude>
+  <Longitude>-123.00787</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

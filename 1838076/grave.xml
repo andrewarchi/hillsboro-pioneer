@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838076</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Carroll E</GivenNames>
+      <FamilyNames>Hunt</FamilyNames>
+      <BirthDay>5</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1874</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>H F</GivenNames>
+      <FamilyNames>Hunt</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>E A</GivenNames>
+      <FamilyNames>Hunt</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/24ebfa15aebb0a701ee5b87b93da4374.jpg</string>
+  </Images>
+  <Information>Born in Worcester, Vermont</Information>
+  <Latitude>45.520202</Latitude>
+  <Longitude>-123.006359</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

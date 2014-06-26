@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668095</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lily J</GivenNames>
+      <FamilyNames>Shade</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathYear>1886</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/120c01af5f6fd9c5050eda87438c4057.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/4e291f54169a8d10c64b4ef54070e625.jpg</string>
+  </Images>
+  <Information>Daughter of C.H. &amp; L. Shade</Information>
+  <Latitude>45.520522</Latitude>
+  <Longitude>-123.005642</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

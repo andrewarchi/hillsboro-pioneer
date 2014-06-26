@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837850</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Caroline</GivenNames>
+      <FamilyNames>Lund</FamilyNames>
+      <BirthYear>1854</BirthYear>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Henry</GivenNames>
+      <FamilyNames>Lund</FamilyNames>
+      <BirthYear>1880</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837850.jpg</string>
+  </Images>
+  <Information>Caroline: Mother </Information>
+  <Latitude>45.520752</Latitude>
+  <Longitude>-123.00664</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

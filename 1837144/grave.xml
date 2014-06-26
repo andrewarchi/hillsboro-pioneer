@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837144</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jacob R </GivenNames>
+      <FamilyNames>Patterson</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/46c149fa3573f53978f48af097ceaa17.jpg</string>
+  </Images>
+  <Information>Co K Iss Ill. inf</Information>
+  <Latitude>45.52018</Latitude>
+  <Longitude>-123.00787</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

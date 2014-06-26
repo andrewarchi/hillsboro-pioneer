@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837914</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Andrew</GivenNames>
+      <FamilyNames>Westberg</FamilyNames>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/45645336c6fc06468d86f68559e5310a.jpg</string>
+  </Images>
+  <Information>Aged 77 yrs</Information>
+  <Latitude>45.52047</Latitude>
+  <Longitude>-123.00691</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

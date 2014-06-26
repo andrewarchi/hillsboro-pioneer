@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836817</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <FamilyNames>Soott</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/87b665b7f3f9c6dae8094fd7fa415cd4.jpg</string>
+  </Images>
+  <Information>Sons of W A &amp; J.</Information>
+  <Latitude>45.520331</Latitude>
+  <Longitude>-123.004336</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

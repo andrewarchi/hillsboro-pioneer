@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836571</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Fred H</GivenNames>
+      <FamilyNames>Bowlby</FamilyNames>
+      <Suffix>Sr</Suffix>
+      <BirthYear>1876</BirthYear>
+      <DeathYear>1967</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/74aa2c449903e7a1c4caf8ef9beda9cb.jpg</string>
+  </Images>
+  <Latitude>45.520694</Latitude>
+  <Longitude>-123.007564</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

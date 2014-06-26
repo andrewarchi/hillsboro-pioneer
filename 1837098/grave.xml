@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837098</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary I</GivenNames>
+      <FamilyNames>Anderson</FamilyNames>
+      <BirthYear>1854</BirthYear>
+      <DeathYear>1890</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>W G</GivenNames>
+      <FamilyNames>Scoggin</FamilyNames>
+      <BirthYear>1832</BirthYear>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Woodson Vail</GivenNames>
+      <FamilyNames>Scoggin</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1859</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1864</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c8db914c4711ded378e8cbe8813b1ee6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0b3ee9571c6615c8dd76d96d41f27596.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/16e7709fe32c2478b434a0ee83893cf4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/47e634d36eb54c12dd1d7d61e41fd898.jpg</string>
+  </Images>
+  <Information>Woodson: Son of W.G. &amp; ___ Scoggin</Information>
+  <Latitude>45.520466</Latitude>
+  <Longitude>-123.006131</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

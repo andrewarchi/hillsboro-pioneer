@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835997</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Susie</GivenNames>
+      <MaidenNames>Lucas</MaidenNames>
+      <FamilyNames>Stanley</FamilyNames>
+      <BirthDay>4</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1862</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1897</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0db0ce4c99b89b8d12eb3b20f11264a4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/345cf9f78c2ec8a63c96e0425aaae325.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/0c7be78a503fc8926b19e95026eacb98.jpg</string>
+  </Images>
+  <Information>Wife of J.H. Stanley</Information>
+  <Latitude>45.52053</Latitude>
+  <Longitude>-123.00442</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

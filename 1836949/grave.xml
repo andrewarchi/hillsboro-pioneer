@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836949</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Antonia R. </GivenNames>
+      <FamilyNames>Stephens</FamilyNames>
+      <BirthYear>1857</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7ef2d740ac0b68cde713f82751d98c89.jpg</string>
+  </Images>
+  <Latitude>45.520792</Latitude>
+  <Longitude>-123.005324</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

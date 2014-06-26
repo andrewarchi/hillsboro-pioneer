@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837082</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Aaron</GivenNames>
+      <FamilyNames>Malone</FamilyNames>
+      <BirthDay>9</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1858</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1897</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0f943f2517f6608ddb79d7f5fc4bd948.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/e13952a44b03aed8506a4995944f1ca5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/9b0490a06dd048f0fae85c097f62fc25.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/25e67b1e45511df2bf05b3e1567e7a27.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/2dfaa33d5af2364217dac8d1d1f68248.jpg</string>
+  </Images>
+  <Latitude>45.520474</Latitude>
+  <Longitude>-123.004538</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

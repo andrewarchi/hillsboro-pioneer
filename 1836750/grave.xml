@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836750</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Joseph Warren</GivenNames>
+      <FamilyNames>Jolly</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1837</BirthYear>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1862</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2f87083cb57705ce708331404d88fa71.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c1421788fa62ffcd9df275ed96403253.jpg</string>
+  </Images>
+  <Information>Aged 24 yrs 9 mo 23 d</Information>
+  <Latitude>45.520469</Latitude>
+  <Longitude>-123.004139</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

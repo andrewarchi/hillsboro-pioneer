@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837287</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edna Viola</GivenNames>
+      <FamilyNames>Russell</FamilyNames>
+      <BirthYear>1876</BirthYear>
+      <DeathYear>1964</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Martha</GivenNames>
+      <FamilyNames>Edson</FamilyNames>
+      <BirthYear>1852</BirthYear>
+      <DeathYear>1944</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Obed E</GivenNames>
+      <FamilyNames>Edson</FamilyNames>
+      <BirthYear>1842</BirthYear>
+      <DeathYear>1914</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/28e5fdf5251a4ed6a00f1abd38cc8071.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/82363aee69d5dd5d9c973b5151a53748.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c54abb8a0cfecdad9f6571978cb00dcd.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/07b70d5ff8776f8a80acad736a153563.jpg</string>
+  </Images>
+  <Information>Daughter Mother Father</Information>
+  <Latitude>45.520211</Latitude>
+  <Longitude>-123.006388</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

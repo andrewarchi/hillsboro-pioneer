@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1667920</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>J R</GivenNames>
+      <FamilyNames>Spencer</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1825</BirthYear>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1884</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5996c7199cf38166b4a76e97550a9dcc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2cccf4511d0f0621e152d2b27abd6520.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/133d60350e628e1d6d43b22f5f191340.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2b6611313cf96828f0604140ffe2e829.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/31f012805d6879ce0249696403ffdd49.jpg</string>
+  </Images>
+  <Latitude>45.520636</Latitude>
+  <Longitude>-123.005588</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

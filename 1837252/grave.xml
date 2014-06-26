@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837252</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Gusta A</GivenNames>
+      <FamilyNames>Nelson</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ole C</GivenNames>
+      <FamilyNames>Nelson</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/61668d14a793b3ecd3adc0bd15800950.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c7c39bf26273ce29a4d97bb21009201f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/15dabcc313fafcd79ad5ca9d2d0bcef1.jpg</string>
+  </Images>
+  <Latitude>45.520144</Latitude>
+  <Longitude>-123.006237</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

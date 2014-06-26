@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837229</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lawrence</GivenNames>
+      <FamilyNames>Londergan</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1950</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/16489ca4390de4db21a97bead363a394.jpg</string>
+  </Images>
+  <Latitude>45.52083</Latitude>
+  <Longitude>-123.005068</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

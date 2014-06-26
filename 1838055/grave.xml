@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838055</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>M S</GivenNames>
+      <FamilyNames>Hadduo</FamilyNames>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e75d78b6795fecc5f26c137a81ef9e6b.jpg</string>
+  </Images>
+  <Information>Aged 92 yrs Col 9111 Infantry</Information>
+  <Latitude>45.520277</Latitude>
+  <Longitude>-123.007246</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

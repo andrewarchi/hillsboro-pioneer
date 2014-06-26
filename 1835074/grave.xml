@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835074</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Johanna</GivenNames>
+      <FamilyNames>Olson</FamilyNames>
+      <BirthDay>8</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1855</BirthYear>
+      <DeathDay>28</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1904</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/238ca507253f237d9fef9440d6d7cafb.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/4d150661840af6aac7f065d65cf434bb.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/1f9c4f3f23ccc942e733cc324b3a9a48.jpg</string>
+  </Images>
+  <Latitude>45.520236</Latitude>
+  <Longitude>-123.004097</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837789</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Joyce L</GivenNames>
+      <FamilyNames>Handley</FamilyNames>
+      <BirthYear>1899</BirthYear>
+      <DeathYear>1965</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a9734a8607f8f4d0a694e86f9fb0c5c5.jpg</string>
+  </Images>
+  <Latitude>45.520782</Latitude>
+  <Longitude>-123.0072</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

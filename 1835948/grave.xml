@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835948</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna</GivenNames>
+      <FamilyNames>McEntire</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Henry D</GivenNames>
+      <FamilyNames>McEntire</FamilyNames>
+      <BirthYear>1879</BirthYear>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/391ac94a362acab8801661b062233ce5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/be91f402b673cf00c0b0e609339eae24.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ac870cc0483fb90242edc94cf1c15a1e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5860b4fb748eb7482496a65ce83086f4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/86a43bc6f4c8674040dc42856cb46109.jpg</string>
+  </Images>
+  <Latitude>45.520424</Latitude>
+  <Longitude>-123.00425</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

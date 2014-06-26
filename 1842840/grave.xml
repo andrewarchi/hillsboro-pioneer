@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842840</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah E</GivenNames>
+      <FamilyNames>Emrick</FamilyNames>
+      <BirthYear>1848</BirthYear>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Estrella</GivenNames>
+      <FamilyNames>Bonner</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1870</BirthYear>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e813900ac3194bab86617a34a29b2265.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0465f26752cc638f93b0e942172e8aca.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9604db2d0d969fa5f705b1b944670d5c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/406ba75fad11859da9528ee8cfbfcc15.jpg</string>
+  </Images>
+  <Latitude>45.520115</Latitude>
+  <Longitude>-123.00585</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

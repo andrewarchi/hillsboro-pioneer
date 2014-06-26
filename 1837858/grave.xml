@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837858</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Calip</GivenNames>
+      <FamilyNames>Hall</FamilyNames>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1d1806de49b841f03c9194c1ebc18e54.jpg</string>
+  </Images>
+  <Information>Aged 71 yrs</Information>
+  <Latitude>45.520653</Latitude>
+  <Longitude>-123.00663</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837022</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Walter F</GivenNames>
+      <FamilyNames>Tews</FamilyNames>
+      <BirthDay>16</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1891</BirthYear>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1981</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Martha M</GivenNames>
+      <FamilyNames>Tews</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1894</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5a0a793fae83f998d52d1a18cd7a052c.jpg</string>
+  </Images>
+  <Latitude>45.520287</Latitude>
+  <Longitude>-123.00788</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

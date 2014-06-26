@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837008</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Florence R</GivenNames>
+      <FamilyNames>Nielson</FamilyNames>
+      <BirthYear>1907</BirthYear>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/35ed3d55756fb1613168eb6ae0c179e7.jpg</string>
+  </Images>
+  <Latitude>45.52039</Latitude>
+  <Longitude>-123.007866</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

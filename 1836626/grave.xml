@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836626</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary Smith</GivenNames>
+      <FamilyNames>Duncan</FamilyNames>
+      <BirthDay>16</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1821</BirthYear>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1904</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7494f44243787d6c07b481f5e1944acd.jpg</string>
+  </Images>
+  <Latitude>45.520331</Latitude>
+  <Longitude>-123.005373</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

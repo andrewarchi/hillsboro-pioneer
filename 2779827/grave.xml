@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779827</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Fanny E</GivenNames>
+      <FamilyNames>Kerr</FamilyNames>
+      <BirthYear>1841</BirthYear>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John F</GivenNames>
+      <FamilyNames>Kerr</FamilyNames>
+      <BirthYear>1838</BirthYear>
+      <DeathYear>1902</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/f3c55ac94b5806198b7a93a6d8291909.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f19119324b5800eccd0170f10a425cf9.jpg</string>
+  </Images>
+  <Latitude>45.520094</Latitude>
+  <Longitude>-123.004088</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

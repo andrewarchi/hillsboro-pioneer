@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836419</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Burton P.</GivenNames>
+      <FamilyNames>McCamish</FamilyNames>
+      <BirthDay>14</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1879</BirthYear>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1880</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>David</GivenNames>
+      <FamilyNames>McCamish</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1829</BirthYear>
+      <DeathDay>3</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1914</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0f2de50097a0d66b1776d427dff02e55.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4e79a598cacfcd25ce8ede8335a28632.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/716c92ec565d29d1f32f9ad685eff53b.jpg</string>
+  </Images>
+  <Latitude>45.520609</Latitude>
+  <Longitude>-123.005778</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

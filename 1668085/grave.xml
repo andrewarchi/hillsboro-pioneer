@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668085</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <FamilyNames>Reeves</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1886</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1a3b210b8d5476a7763d2a0e9d28c0ba.jpg</string>
+  </Images>
+  <Latitude>45.520397</Latitude>
+  <Longitude>-123.005667</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

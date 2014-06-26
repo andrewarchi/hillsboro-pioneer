@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836590</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ima</GivenNames>
+      <FamilyNames>Ledford</FamilyNames>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Vesta J</GivenNames>
+      <MaidenNames>Otis</MaidenNames>
+      <FamilyNames>Ledford</FamilyNames>
+      <BirthYear>1888</BirthYear>
+      <DeathYear>1911</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8508a26381d027ff2bb48d8dabd9176b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d2b8881d2b20bb383c4774c2581bd9f2.jpg</string>
+  </Images>
+  <Latitude>45.520562</Latitude>
+  <Longitude>-123.005803</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

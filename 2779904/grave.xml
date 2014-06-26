@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779904</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Agnes </GivenNames>
+      <FamilyNames>Brisbine</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5bdfc743ddd9a794a5639f7af5f2af2f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a1c26effaf60349a03e55256ae23b550.jpg</string>
+  </Images>
+  <Latitude>45.520265</Latitude>
+  <Longitude>-123.00405</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

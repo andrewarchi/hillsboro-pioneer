@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838001</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Carl H</GivenNames>
+      <FamilyNames>Lindahl</FamilyNames>
+      <BirthYear>1818</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b6393a7e585009d04247fd9110295ebf.jpg</string>
+  </Images>
+  <Latitude>45.520664</Latitude>
+  <Longitude>-123.007405</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

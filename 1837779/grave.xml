@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837779</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Gratton H</GivenNames>
+      <FamilyNames>Frost</FamilyNames>
+      <BirthYear>1873</BirthYear>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ede52e43c8e73df9c103b9a72db40f6d.jpg</string>
+  </Images>
+  <Latitude>45.52084</Latitude>
+  <Longitude>-123.007195</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

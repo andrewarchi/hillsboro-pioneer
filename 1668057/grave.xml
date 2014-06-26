@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668057</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jane</GivenNames>
+      <FamilyNames>Baldra Wiley</FamilyNames>
+      <BirthYear>1840</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/aee4cffd3c9167351bd1d528f3e43af5.jpg</string>
+  </Images>
+  <Information>Mother Native Daughter</Information>
+  <Latitude>45.52011</Latitude>
+  <Longitude>-123.005707</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

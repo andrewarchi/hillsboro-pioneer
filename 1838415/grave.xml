@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838415</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nick</GivenNames>
+      <FamilyNames>Harte</FamilyNames>
+      <BirthYear>1898</BirthYear>
+      <DeathYear>1976</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b5cc367f92014510cc86e75d2b3638e5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b254655062b37606e93895ef81818f45.jpg</string>
+  </Images>
+  <Epitaph>At Rest With God</Epitaph>
+  <Latitude>45.520868</Latitude>
+  <Longitude>-123.004682</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837839</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Joseph T</GivenNames>
+      <FamilyNames>Faile</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1936</BirthYear>
+      <DeathDay>14</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1985</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f03d1f0d5c9e45f5be303af76053d1ab.jpg</string>
+  </Images>
+  <Latitude>45.52029</Latitude>
+  <Longitude>-123.00717</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

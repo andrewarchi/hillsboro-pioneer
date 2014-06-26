@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836508</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Arthur</GivenNames>
+      <FamilyNames>Jenkinson</FamilyNames>
+      <BirthYear>1891</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/abf304b1ca914435078acd652f23fdbc.jpg</string>
+  </Images>
+  <Latitude>45.520188</Latitude>
+  <Longitude>-123.006178</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

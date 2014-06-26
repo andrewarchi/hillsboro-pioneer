@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838141</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Purves</FamilyNames>
+      <BirthYear>1836</BirthYear>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Eliza Caroline</GivenNames>
+      <FamilyNames>Purves</FamilyNames>
+      <BirthYear>1845</BirthYear>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3edb64f0d4e14aa051d606f5de765eff.jpg</string>
+  </Images>
+  <Latitude>45.52058</Latitude>
+  <Longitude>-123.006493</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

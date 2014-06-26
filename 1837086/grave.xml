@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837086</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William</GivenNames>
+      <FamilyNames>Tupper</FamilyNames>
+      <BirthYear>1855</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Martha Ann</GivenNames>
+      <FamilyNames>Tupper</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3f4809f464a486f6abd00a8e00a07e92.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7877ae7733a0c42261a0a94a2223fd89.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/fba823bc247ec7a9bbd783216963745e.jpg</string>
+  </Images>
+  <Information>Father Mother </Information>
+  <Latitude>45.520442</Latitude>
+  <Longitude>-123.004523</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

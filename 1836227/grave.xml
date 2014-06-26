@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836227</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Masons Memorial</GivenNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3e4336be826f121d381f076402e01e07.jpg</string>
+  </Images>
+  <Latitude>45.520649</Latitude>
+  <Longitude>-123.005597</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

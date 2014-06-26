@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842837</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Louisa A</GivenNames>
+      <FamilyNames>Kelsey</FamilyNames>
+      <BirthDay>30</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1846</BirthYear>
+      <DeathDay>25</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1882</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>F M</GivenNames>
+      <FamilyNames>Kelsey</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/179307ef95bb157eabae7c674136dd5a.jpg</string>
+  </Images>
+  <Latitude>45.52016</Latitude>
+  <Longitude>-123.005806</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837943</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Melvin S</GivenNames>
+      <FamilyNames>Shattuck</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1959</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/21b6d555fcddde8c6809ec7bb08e5526.jpg</string>
+  </Images>
+  <Information>Husband &amp; Father</Information>
+  <Latitude>45.520904</Latitude>
+  <Longitude>-123.004911</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

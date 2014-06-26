@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838253</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Haskell</GivenNames>
+      <FamilyNames>Carter</FamilyNames>
+      <BirthYear>1898</BirthYear>
+      <DeathYear>1989</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Sarah E</GivenNames>
+      <FamilyNames>Carter</FamilyNames>
+      <BirthYear>1900</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1987</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c3ebe42839eadec95b8cee85c34c37e4.jpg</string>
+  </Images>
+  <Latitude>45.520529</Latitude>
+  <Longitude>-123.006707</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

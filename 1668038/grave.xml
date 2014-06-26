@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668038</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Henry</GivenNames>
+      <FamilyNames>Wehrung</FamilyNames>
+      <BirthYear>1828</BirthYear>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8c11e56400d9a0bc9628d87fe8f6b1d3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f4d4d466c5d1c79c5ef95148a15f2111.jpg</string>
+  </Images>
+  <Latitude>45.520272</Latitude>
+  <Longitude>-123.005582</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

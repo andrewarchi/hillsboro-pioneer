@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837028</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John M.</GivenNames>
+      <FamilyNames>Goar</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3bccce89558b1c9681334ea069bae940.jpg</string>
+  </Images>
+  <Latitude>45.520542</Latitude>
+  <Longitude>-123.005153</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

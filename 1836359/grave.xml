@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836359</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>J H</GivenNames>
+      <FamilyNames>Collier</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/165a83ad2cf6b3a7d4a660525a412c71.jpg</string>
+  </Images>
+  <Latitude>45.520145</Latitude>
+  <Longitude>-123.005458</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

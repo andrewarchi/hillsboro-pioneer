@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668109</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lincoln Ellsworth</GivenNames>
+      <FamilyNames>Wilkes</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1944</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Elizabeth Soehren</GivenNames>
+      <FamilyNames>Wilkes</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d8d68527782d0c69f537024cd800b239.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/317d3d8bc59e1d0dd76bd8f0ab9f5e55.jpg</string>
+  </Images>
+  <Latitude>45.52084</Latitude>
+  <Longitude>-123.005702</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

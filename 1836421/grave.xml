@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836421</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mordecia</GivenNames>
+      <FamilyNames>Fowler</FamilyNames>
+      <BirthYear>1838</BirthYear>
+      <DeathYear>1890</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/53d408804fed08a85ec017f542ed5207.jpg</string>
+  </Images>
+  <Latitude>45.520662</Latitude>
+  <Longitude>-123.005419</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

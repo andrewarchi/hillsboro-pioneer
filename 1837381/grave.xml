@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837381</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Harland Ray</GivenNames>
+      <FamilyNames>Sigler</FamilyNames>
+      <BirthYear>1893</BirthYear>
+      <DeathYear>1971</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0d6b983e6f8dccc7d84a9a5be3f4a275.jpg</string>
+  </Images>
+  <Latitude>45.520609</Latitude>
+  <Longitude>-123.005244</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

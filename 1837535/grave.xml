@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837535</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lester H</GivenNames>
+      <FamilyNames>Sorensen</FamilyNames>
+      <Suffix>Jr.</Suffix>
+      <BirthYear>1927</BirthYear>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b6a55be767670a445a80299f048b6f5d.jpg</string>
+  </Images>
+  <Latitude>45.520081</Latitude>
+  <Longitude>-123.004693</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

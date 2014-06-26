@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778360</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lydia L</GivenNames>
+      <FamilyNames>Davis</FamilyNames>
+      <BirthYear>1839</BirthYear>
+      <DeathYear>1914</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c0f66aafc44fb610ae57baef086a3e82.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/131c913077ca0c8483c1eced437257eb.jpg</string>
+  </Images>
+  <Latitude>45.520396</Latitude>
+  <Longitude>-123.004311</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836877</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Claude A</GivenNames>
+      <FamilyNames>Sabin</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ezra S</GivenNames>
+      <FamilyNames>Sabin</FamilyNames>
+      <BirthYear>1880</BirthYear>
+      <DeathYear>1937</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/53d27b6ea2e712caebb5cc0de99030fc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fac895e9f32aef8bb10d7b70e7f02e97.jpg</string>
+  </Images>
+  <Latitude>45.520712</Latitude>
+  <Longitude>-123.006003</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

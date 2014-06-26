@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668020</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Memorial</GivenNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/399e4ba7f89cd15c7946955685e5bfaa.jpg</string>
+  </Images>
+  <Information>In honored memory of all who served .. .. country in the wars of the United States. Dedicated by </Information>
+  <Latitude>45.520461</Latitude>
+  <Longitude>-123.005559</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

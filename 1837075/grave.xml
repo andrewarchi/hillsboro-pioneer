@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837075</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elias</GivenNames>
+      <FamilyNames>Newton</FamilyNames>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1894</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/524282751c9d0522299212e41ce6b531.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/67e74067542a016ffe968b52dbc26396.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/e34de1bfdba90eaf81ef6e2f950f62af.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5febe71ce64a98a81c8529ba43bf9cc8.jpg</string>
+  </Images>
+  <Latitude>45.520526</Latitude>
+  <Longitude>-123.004521</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

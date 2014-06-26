@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837233</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Minnie Mae</GivenNames>
+      <FamilyNames>Bennett</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1958</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d78c140fd62955f77369c65e91d1cafa.jpg</string>
+  </Images>
+  <Latitude>45.520904</Latitude>
+  <Longitude>-123.00505</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

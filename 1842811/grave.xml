@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842811</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William O</GivenNames>
+      <FamilyNames>Gibson</FamilyNames>
+      <BirthDay>15</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1810</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1890</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b3bbc4f49bd39e8b4340908cc9561a9e.jpg</string>
+  </Images>
+  <Latitude>45.520847</Latitude>
+  <Longitude>-123.005806</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

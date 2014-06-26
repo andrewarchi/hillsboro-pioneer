@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835132</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Urmanda M</GivenNames>
+      <FamilyNames>Thein</FamilyNames>
+      <BirthDay>14</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1846</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/050199e1555784a96fca0e59eec4cb4d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8fb535bdb37bff86d87efb0089bebd14.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/a58c980f54c606a72e0b8581411d14a5.jpg</string>
+  </Images>
+  <Latitude>45.520542</Latitude>
+  <Longitude>-123.004152</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

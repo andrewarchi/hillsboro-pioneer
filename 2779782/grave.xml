@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779782</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John F</GivenNames>
+      <FamilyNames>Carstens</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/aa0085282152dfa2ace9f88cc7487d33.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/ad4bf9e4444fb52524d9a568b0d6a2da.jpg</string>
+  </Images>
+  <Latitude>45.520329</Latitude>
+  <Longitude>-123.004231</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837195</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Bettie</GivenNames>
+      <FamilyNames>Bridgess</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/45e941cc62184cbfdbfcf85a2daaf9d9.jpg</string>
+  </Images>
+  <Latitude>45.520471</Latitude>
+  <Longitude>-123.005006</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

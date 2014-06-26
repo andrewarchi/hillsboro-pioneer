@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836600</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George</GivenNames>
+      <FamilyNames>Ledford</FamilyNames>
+      <BirthYear>1880</BirthYear>
+      <DeathYear>1950</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Grover</GivenNames>
+      <FamilyNames>Ledford</FamilyNames>
+      <BirthYear>1890</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0df4fdbdff2c03006166f8a7cc90cc60.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/681ac97e2d8079fd6362934a91459fd9.jpg</string>
+  </Images>
+  <Latitude>45.520541</Latitude>
+  <Longitude>-123.005763</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

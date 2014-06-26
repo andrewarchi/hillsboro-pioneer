@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836067</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles</GivenNames>
+      <FamilyNames>Stewart</FamilyNames>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1898</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Martha A</GivenNames>
+      <FamilyNames>Stewart</FamilyNames>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1902</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <FamilyNames>Stewart</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>false</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/71dbc06f13fdc7df024505af7800149d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/14daf546adb23e9811c7541378b3072a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1012262b57735a7f4364b709f9eaf3f7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7c4a1c027cb86c9c12331949e3582e0d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/eec7e3d6f5e0f79f06797d09516d2fff.jpg</string>
+  </Images>
+  <Information>Charles: Aged: 80 Y. 5 M. 21 D. 18 Pioneer 46 Martha: Aged 70 Y. 3 M. 13 D. Pion. 1846</Information>
+  <Latitude>45.520527</Latitude>
+  <Longitude>-123.0046</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

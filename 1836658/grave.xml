@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836658</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary C</GivenNames>
+      <FamilyNames>Clark</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d8c966ee9dcc77e9f8f92b71989d04ae.jpg</string>
+  </Images>
+  <Latitude>45.520129</Latitude>
+  <Longitude>-123.00529</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

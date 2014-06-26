@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836520</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Kent Orville</GivenNames>
+      <FamilyNames>Riggin</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1885</BirthYear>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/911871df82cf50f48557f45718c67298.jpg</string>
+  </Images>
+  <Latitude>45.520118</Latitude>
+  <Longitude>-123.006539</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

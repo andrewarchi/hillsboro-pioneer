@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842815</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Phillips</FamilyNames>
+      <BirthYear>1837</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1882</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ed5a72c334615152ba9b2b39fc69ed16.jpg</string>
+  </Images>
+  <Information>Of Company F 2nd Reg U.S. In. Was Born New York City ? Charity and Loylty The Crowing Features of Life</Information>
+  <Latitude>45.52062</Latitude>
+  <Longitude>-123.00577</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

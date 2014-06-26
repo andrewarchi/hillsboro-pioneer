@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837199</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Annie M</GivenNames>
+      <FamilyNames>Imbrie</FamilyNames>
+      <BirthYear>1854</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4993ac3f6a8fb3b4c0cff89a2d155694.jpg</string>
+  </Images>
+  <Latitude>45.520466</Latitude>
+  <Longitude>-123.00782</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

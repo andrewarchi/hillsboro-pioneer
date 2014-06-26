@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779880</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Oneita Berniece</GivenNames>
+      <MaidenNames>Wirtz</MaidenNames>
+      <FamilyNames>Michaels</FamilyNames>
+      <BirthYear>1899</BirthYear>
+      <DeathYear>1973</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/549da4c18bfe9a876467c29d213cf838.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9f1a331175b74651d8d2daf25b8d9336.jpg</string>
+  </Images>
+  <Latitude>45.52048</Latitude>
+  <Longitude>-123.004051</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

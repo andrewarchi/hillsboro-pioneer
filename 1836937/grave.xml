@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836937</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Herman W</GivenNames>
+      <FamilyNames>Herod</FamilyNames>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ef07eebde22e06b1df7b898c67b4c6cf.jpg</string>
+  </Images>
+  <Information>Texas PVT CL 144 Inf 36 Div</Information>
+  <Latitude>45.520664</Latitude>
+  <Longitude>-123.00525</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

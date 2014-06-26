@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836964</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Fred Mck.</GivenNames>
+      <FamilyNames>Zilly</FamilyNames>
+      <Suffix>Jr.</Suffix>
+      <BirthYear>1911</BirthYear>
+      <DeathYear>1946</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9a94c521bd11590aec4757040c598e82.jpg</string>
+  </Images>
+  <Latitude>45.520485</Latitude>
+  <Longitude>-123.00789</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

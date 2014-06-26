@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837708</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mathias</GivenNames>
+      <FamilyNames>Cooley</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/99bb7130612feb8b5f1e534e49b008bd.jpg</string>
+  </Images>
+  <Latitude>45.520386</Latitude>
+  <Longitude>-123.00746</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

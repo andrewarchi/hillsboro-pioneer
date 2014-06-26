@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842824</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Eva Jenkins</GivenNames>
+      <FamilyNames>Jones</FamilyNames>
+      <BirthYear>1886</BirthYear>
+      <DeathYear>1961</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c0f390c30e9ff994ab84e5a7d000bed8.jpg</string>
+  </Images>
+  <Latitude>45.520386</Latitude>
+  <Longitude>-123.0059</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

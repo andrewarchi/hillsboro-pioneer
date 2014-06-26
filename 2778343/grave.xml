@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778343</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>David A</GivenNames>
+      <FamilyNames>Miller</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1856</BirthYear>
+      <DeathDay>28</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/a27cd7124dc5eaefe2d159d58a9c6738.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/60daa475632ffe6084bdcb87c87de115.jpg</string>
+  </Images>
+  <Latitude>45.520588</Latitude>
+  <Longitude>-123.004324</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

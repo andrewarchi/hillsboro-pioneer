@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838064</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lucinda Berry</GivenNames>
+      <FamilyNames>Rue</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1830</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/df6983684d1765f4a65e0ab2f5ee7933.jpg</string>
+  </Images>
+  <Latitude>45.520132</Latitude>
+  <Longitude>-123.007255</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

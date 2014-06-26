@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836000</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Walter</GivenNames>
+      <FamilyNames>Taylor</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Tera May</GivenNames>
+      <FamilyNames>Taylor</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1901</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/64d831ad4398916f6a9222bea6c5d6de.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/717094cec43f4def22791cfc9aff2015.jpg</string>
+  </Images>
+  <Latitude>45.520348</Latitude>
+  <Longitude>-123.0044</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

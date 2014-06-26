@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837120</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hazel R</GivenNames>
+      <MaidenNames>Ogden</MaidenNames>
+      <FamilyNames>Masters</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1889</BirthYear>
+      <DeathDay>31</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1949</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cbebab3d60d8ea4f227fe01f5c0135fc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/8719841892678331f95caaa310a9cfd5.jpg</string>
+  </Images>
+  <Epitaph>Masters</Epitaph>
+  <Latitude>45.520165</Latitude>
+  <Longitude>-123.004535</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

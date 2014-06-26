@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668072</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <FamilyNames>Goodin</FamilyNames>
+      <DeathYear>1894</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5fcfeb69934f32fc0519318828118f91.jpg</string>
+  </Images>
+  <Information>W. A. &amp; R. E. Infant Son</Information>
+  <Latitude>45.520304</Latitude>
+  <Longitude>-123.005672</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

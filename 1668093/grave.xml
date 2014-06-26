@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668093</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Orie</GivenNames>
+      <FamilyNames>Shade</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1963</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/21d494348b0ffa934346b2cd26cbe9bb.jpg</string>
+  </Images>
+  <Information>"Son of C.H. &amp; L. Shade"</Information>
+  <Latitude>45.52053</Latitude>
+  <Longitude>-123.005665</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

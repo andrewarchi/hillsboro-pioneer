@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778483</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Kate </GivenNames>
+      <FamilyNames>Anderson</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1847</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1899</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/e2ede4b480a002241bb2efca73a081d7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/867c6bd06ca2cd7278ced3ad36747992.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b7ed3d6faaa8f71c0f1758d6d1aa081c.jpg</string>
+  </Images>
+  <Information>Wife of B. Anderson</Information>
+  <Latitude>45.5203</Latitude>
+  <Longitude>-123.004299</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778220</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Myrtle H</GivenNames>
+      <FamilyNames>Boughman</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1861</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1902</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Glenwood E</GivenNames>
+      <FamilyNames>Boughman</FamilyNames>
+      <BirthDay>5</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1887</BirthYear>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1894</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/1024ea40686edc4e54c08444f24bb62a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/99def89a00029bdbfff2d4d81c4b8314.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7cb5d65e07872cef5d4368a34e277566.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cb9328219a8798253a80439bc1a272de.jpg</string>
+  </Images>
+  <Latitude>45.52069</Latitude>
+  <Longitude>-123.00451</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

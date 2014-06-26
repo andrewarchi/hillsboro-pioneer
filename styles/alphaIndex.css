@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  padding: 0 10%;
+  background: #E6E6E6;
+}
+.content {
+  background: white;
+  padding-bottom: 0;
+  box-shadow: 0px 0px 25px #BDBDBD;
+  min-width: 475px;
+  overflow: hidden;
+}
+#banner {
+  /*height: 160px;*/
+  max-width: 775px;
+  width: 100%;
+  height: auto;
+}
+a:link { 
+  color: rgb(72, 156, 256);
+  text-decoration: none;
+  cursor: pointer;
+}
+.nav {
+  margin-left: 25px;
+  /*width: 100%;
+  text-align: center;*/
+  cursor: default;
+}
+.nav:before {
+  content: "Navigation: ";
+  color: #A4A4A4;
+}
+/*a[href="#A"] {
+  margin-left: 15px;
+}*/
+a.linkBG { 
+  color: #108B0A; 
+}
+a:visited { 
+  color: #BDBDBD; 
+}
+a:link:hover, a:link:active { 
+  text-decoration: underline; 
+}
+.completed {
+  color: black;
+}
+h2 a {
+  display: block;
+  width: 100%;
+  width: calc(100% - 18px);
+  padding: 3px 0 1px 18px;
+  color: black !important;
+  background: #E6E6E6;
+  text-decoration: none !important;
+  font-size: 1.5em;
+  border-bottom: 1px solid #BDBDBD;
+  box-shadow: 0px 1px 5px #BDBDBD;
+  cursor: pointer;
+}
+.toTop {
+  padding-left: 7%;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin-left: 7%;
+}
+footer {
+  border-top: 1px solid #BDBDBD;
+  border-bottom: 1px solid #BDBDBD;
+  background: #F2F2F2;
+  margin: 20px 0px;
+  padding: 10px 0;
+  text-align: center;
+}

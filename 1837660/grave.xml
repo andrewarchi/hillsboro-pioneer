@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837660</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mildred Swartz</GivenNames>
+      <FamilyNames>Trover</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1896</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Baby William</GivenNames>
+      <FamilyNames>Trover</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837660.jpg</string>
+  </Images>
+  <Latitude>45.52069</Latitude>
+  <Longitude>-123.00753</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

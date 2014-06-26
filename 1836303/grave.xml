@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836303</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Faye</GivenNames>
+      <MaidenNames>Corwin</MaidenNames>
+      <FamilyNames>Alexander</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1889</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1968</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>George Cassie</GivenNames>
+      <FamilyNames>Alexander</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1885</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1972</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>George Corwin</GivenNames>
+      <FamilyNames>Alexander</FamilyNames>
+      <BirthMonth>Oct</BirthMonth>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>2002</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/48d07a54f9a364d7daf4c7553108f980.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4bb360661c3e2b611775384c963a530d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/50b796f0eec4aa28f4f47b4753fed78d.jpg</string>
+  </Images>
+  <Latitude>45.520289</Latitude>
+  <Longitude>-123.005516</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

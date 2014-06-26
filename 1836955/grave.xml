@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836955</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dewey Archie</GivenNames>
+      <FamilyNames>Long</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1898</BirthYear>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9b4d216a813c93b57236786cc7f9cc3e.jpg</string>
+  </Images>
+  <Latitude>45.520786</Latitude>
+  <Longitude>-123.005443</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

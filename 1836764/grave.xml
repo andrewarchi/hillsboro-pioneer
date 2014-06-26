@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836764</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Isabel J</GivenNames>
+      <FamilyNames>Hilts</FamilyNames>
+      <BirthYear>1880</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/26718c18d262cffbe04125221f7e0c3c.jpg</string>
+  </Images>
+  <Latitude>45.520249</Latitude>
+  <Longitude>-123.005241</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

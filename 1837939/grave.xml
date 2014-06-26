@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837939</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Joseph M</GivenNames>
+      <FamilyNames>Shattuck</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathYear>1966</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Joseph M. </GivenNames>
+      <FamilyNames>Shattuck</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathYear>1966</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6752c7af724c11830083517352714533.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a4df5005b6d6fd2ba0075ca92faeac4f.jpg</string>
+  </Images>
+  <Information>Brother &amp; Uncle</Information>
+  <Latitude>45.520904</Latitude>
+  <Longitude>-123.004911</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

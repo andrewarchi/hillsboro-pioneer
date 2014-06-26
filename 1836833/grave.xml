@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836833</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Willie B</GivenNames>
+      <FamilyNames>Robe</FamilyNames>
+      <BirthDay>29</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1859</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1875</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/924bef40fb402de2e012ba6221b00a6c.jpg</string>
+  </Images>
+  <Latitude>45.520315</Latitude>
+  <Longitude>-123.005282</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

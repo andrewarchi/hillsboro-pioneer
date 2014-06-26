@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778290</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Clarance A</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/573cdd74b720df4ae38db6d2744e9ce8.jpg</string>
+  </Images>
+  <Latitude>45.520431</Latitude>
+  <Longitude>-123.004416</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

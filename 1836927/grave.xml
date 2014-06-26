@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836927</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Tennessee</GivenNames>
+      <FamilyNames>Weatherred</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1971</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/58a147fce0efe2f390455e252d545d7e.jpg</string>
+  </Images>
+  <Information>"Tenny"</Information>
+  <Latitude>45.52059</Latitude>
+  <Longitude>-123.00788</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

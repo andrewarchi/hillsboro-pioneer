@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837530</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Raymond</GivenNames>
+      <FamilyNames>Ottinger</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1877</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mandy D</GivenNames>
+      <FamilyNames>Ottinger</FamilyNames>
+      <BirthDay>2</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1880</BirthYear>
+      <DeathDay>27</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1953</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7a4ea112dc14bcbb1783702ee02381b3.jpg</string>
+  </Images>
+  <Latitude>45.520515</Latitude>
+  <Longitude>-123.0075</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

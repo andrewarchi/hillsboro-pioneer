@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779750</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Arthur</GivenNames>
+      <FamilyNames>Gritzmacher</FamilyNames>
+      <BirthYear>1894</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Hattie</GivenNames>
+      <FamilyNames>Gritzmacher</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathYear>1904</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/1b8695dc191147b53aa64b4138f8b3d8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ca75a3da6228c4b196af77ef4dca5ece.jpg</string>
+  </Images>
+  <Information>HIS SISTER</Information>
+  <Latitude>45.520439</Latitude>
+  <Longitude>-123.004148</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

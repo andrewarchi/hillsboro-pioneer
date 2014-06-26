@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836283</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Grace S</GivenNames>
+      <FamilyNames>Bailey</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1970</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1836283.jpg</string>
+  </Images>
+  <Latitude>45.52039</Latitude>
+  <Longitude>-123.005493</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

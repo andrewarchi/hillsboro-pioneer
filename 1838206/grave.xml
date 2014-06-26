@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838206</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>G. H.</GivenNames>
+      <FamilyNames>Busby</FamilyNames>
+      <BirthYear>1848</BirthYear>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ed714015d69662ddeb9091f556348ffc.jpg</string>
+  </Images>
+  <Latitude>45.520328</Latitude>
+  <Longitude>-123.006601</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

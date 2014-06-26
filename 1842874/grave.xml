@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842874</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mildred</GivenNames>
+      <FamilyNames>James</FamilyNames>
+      <BirthYear>1903</BirthYear>
+      <DeathYear>1976</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Bessie Rose</GivenNames>
+      <FamilyNames>James</FamilyNames>
+      <BirthYear>1872</BirthYear>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Edward L</GivenNames>
+      <FamilyNames>James</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/15e04244bcb0d5a34563249e2217956d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8b8caee462e067e3ed0c88aed2a783df.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b06eda8d00601ce0d20fd0ebd7de881a.jpg</string>
+  </Images>
+  <Latitude>45.52065</Latitude>
+  <Longitude>-123.006</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

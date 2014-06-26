@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837218</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Claud M</GivenNames>
+      <FamilyNames>Gray</FamilyNames>
+      <BirthYear>1897</BirthYear>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d268c3a5558a87981415a6d7869a3ba0.jpg</string>
+  </Images>
+  <Information>C O B 28th Inf. Killed In Acton In France</Information>
+  <Latitude>45.520629</Latitude>
+  <Longitude>-123.005062</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

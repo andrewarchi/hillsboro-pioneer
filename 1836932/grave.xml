@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836932</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Minnie Bell</GivenNames>
+      <FamilyNames>Pio</FamilyNames>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1881</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Flora A.</GivenNames>
+      <FamilyNames>Pio</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1951</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Charles H</GivenNames>
+      <FamilyNames>Pio</FamilyNames>
+      <BirthYear>1849</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7c2830d9ed7dd313a02264c6ffb28df9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e0f34edcdc480118f39c9d1380761c71.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bec536e9e1489adc4e1fd1a110f72ce7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9234e789a24cf69dccebd937a68e8fe2.jpg</string>
+  </Images>
+  <Information>Aged 2 mos.</Information>
+  <Latitude>45.520357</Latitude>
+  <Longitude>-123.006107</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

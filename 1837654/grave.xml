@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837654</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Clement H</GivenNames>
+      <FamilyNames>Whalley</FamilyNames>
+      <BirthYear>1897</BirthYear>
+      <DeathYear>1978</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Jessie M Nee Selfridge</GivenNames>
+      <FamilyNames>Whalley</FamilyNames>
+      <BirthYear>1892</BirthYear>
+      <DeathYear>1973</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9603072ffa4c16215316438e4f079bea.jpg</string>
+  </Images>
+  <Latitude>45.520554</Latitude>
+  <Longitude>-123.007515</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

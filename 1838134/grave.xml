@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838134</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Matie</GivenNames>
+      <FamilyNames>Wilkins</FamilyNames>
+      <BirthDay>4</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1879</BirthYear>
+      <DeathDay>25</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1956</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/887b2162e009b0bb7056f4751ee76595.jpg</string>
+  </Images>
+  <Latitude>45.520398</Latitude>
+  <Longitude>-123.006447</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

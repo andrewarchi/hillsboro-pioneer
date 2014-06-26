@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779828</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nancy</GivenNames>
+      <MaidenNames>Tabor</MaidenNames>
+      <FamilyNames>Jones</FamilyNames>
+      <BirthYear>1840</BirthYear>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5115c3b781d25304eb21417d3cd1592d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d61ae23d20648eb5c19cfce310b4fe32.jpg</string>
+  </Images>
+  <Information>Born Glens Falls NY Died Portland Ore. </Information>
+  <Latitude>45.520086</Latitude>
+  <Longitude>-123.004086</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837094</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lottie H</GivenNames>
+      <FamilyNames>Butler</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1974</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/56f822bad5978f76798df3553da361e6.jpg</string>
+  </Images>
+  <Latitude>45.520361</Latitude>
+  <Longitude>-123.005173</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

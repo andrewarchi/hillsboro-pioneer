@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836959</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Susan</GivenNames>
+      <MaidenNames>Fulton</MaidenNames>
+      <FamilyNames>Miller</FamilyNames>
+      <BirthYear>1828</BirthYear>
+      <DeathYear>1978</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <BirthYear>1830</BirthYear>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5752a67e92619888f933e35f8542371a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/70a5d48edf3fc578496470b2958bcb6c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2973a59e3a956168fb8fda74aabab810.jpg</string>
+  </Images>
+  <Latitude>45.520151</Latitude>
+  <Longitude>-123.006017</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

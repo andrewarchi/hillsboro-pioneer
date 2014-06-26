@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838411</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ralph M</GivenNames>
+      <FamilyNames>Sherwood</FamilyNames>
+      <BirthYear>1898</BirthYear>
+      <DeathYear>1965</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7818c01a867ed4bb7bb9b2b414a5f9a0.jpg</string>
+  </Images>
+  <Latitude>45.520929</Latitude>
+  <Longitude>-123.004685</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

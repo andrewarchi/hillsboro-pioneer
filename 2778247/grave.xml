@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778247</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Captain</Prefix>
+      <GivenNames>H O</GivenNames>
+      <FamilyNames>Christianson</FamilyNames>
+      <BirthYear>1830</BirthYear>
+      <DeathYear>1870</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/0ff11d55545a00a6382e0325436abc4a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/336c1b043f8f758d6d7a78fb79f5440b.jpg</string>
+  </Images>
+  <Latitude>45.520231</Latitude>
+  <Longitude>-123.004528</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

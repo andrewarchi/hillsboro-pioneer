@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837840</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George W</GivenNames>
+      <FamilyNames>Krueger</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1974</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/96d179a1e6c38671836c8538849cae54.jpg</string>
+  </Images>
+  <Epitaph>OUR DAD</Epitaph>
+  <Latitude>45.52029</Latitude>
+  <Longitude>-123.00717</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

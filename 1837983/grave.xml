@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837983</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ethel Fern</GivenNames>
+      <FamilyNames>Powers</FamilyNames>
+      <BirthDay>8</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1901</BirthYear>
+      <DeathDay>23</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1996</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/748f110762fa7c97bbf3e1382c1b7149.jpg</string>
+  </Images>
+  <Latitude>45.52041</Latitude>
+  <Longitude>-123.007386</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

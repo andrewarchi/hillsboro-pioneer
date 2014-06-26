@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779907</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>David</GivenNames>
+      <FamilyNames>Campbell</FamilyNames>
+      <BirthDay>9</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1844</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1905</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/1dfda4925076100328af58793b483282.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0b5c577d6d80dfca351953e33875b630.jpg</string>
+  </Images>
+  <Latitude>45.520151</Latitude>
+  <Longitude>-123.004032</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

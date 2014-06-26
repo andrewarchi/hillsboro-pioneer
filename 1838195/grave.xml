@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838195</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Christine</GivenNames>
+      <FamilyNames>Lemm Marugg</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Salomon</GivenNames>
+      <FamilyNames>Lemm Marugg</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/87e888ed64ec39303267bebd99325a4c.jpg</string>
+  </Images>
+  <Information>Mother and Son</Information>
+  <Latitude>45.520481</Latitude>
+  <Longitude>-123.006597</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

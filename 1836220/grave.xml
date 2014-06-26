@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836220</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George R</GivenNames>
+      <FamilyNames>Morgan</FamilyNames>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1886</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/80555b7c1b830ccad18d667a7b781b71.jpg</string>
+  </Images>
+  <Information>Aged 62 ys 4 ms 12 ds</Information>
+  <Latitude>45.520601</Latitude>
+  <Longitude>-123.005828</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

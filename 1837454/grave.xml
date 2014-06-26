@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837454</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Marget</GivenNames>
+      <FamilyNames>Shultz</FamilyNames>
+      <BirthYear>1852</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/34d940d3c2b03c9c17a3a68dace8b916.jpg</string>
+  </Images>
+  <Latitude>45.52086</Latitude>
+  <Longitude>-123.004781</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

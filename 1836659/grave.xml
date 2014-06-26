@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836659</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Levi</GivenNames>
+      <FamilyNames>Luelling</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1843</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1877</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a71127e4d2b59d4c2e117cb8f4b3f95f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ac3fc2a36369457943e9bed6ec4fdd66.jpg</string>
+  </Images>
+  <Information />
+  <Latitude>45.520337</Latitude>
+  <Longitude>-123.005788</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

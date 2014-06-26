@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837784</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Francis E</GivenNames>
+      <FamilyNames>Kinner</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1879</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3c0d662757c6b0e2958f47855ea434f3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/008274da1d907e3c316d8b2ca6162a76.jpg</string>
+  </Images>
+  <Latitude>45.520798</Latitude>
+  <Longitude>-123.007195</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836374</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Paul</GivenNames>
+      <FamilyNames>Linari</FamilyNames>
+      <BirthYear>1861</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Augusta</GivenNames>
+      <FamilyNames>Linari</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1946</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6d4b63d2f85fcf5b5581c08c742b7ce5.jpg</string>
+  </Images>
+  <IsVerified>true</IsVerified>
+</Grave>

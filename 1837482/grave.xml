@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837482</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Damon E</GivenNames>
+      <FamilyNames>Greer</FamilyNames>
+      <BirthYear>1892</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/07c34b593d609f2e2b9a3b6f7b5a4ae1.jpg</string>
+  </Images>
+  <Latitude>45.520615</Latitude>
+  <Longitude>-123.004739</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838005</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nellie V.</GivenNames>
+      <FamilyNames>Westcott</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/654981d48b503839cf675102d17dc852.jpg</string>
+  </Images>
+  <Information>Wife of E. Miller</Information>
+  <Latitude>45.520773</Latitude>
+  <Longitude>-123.004925</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

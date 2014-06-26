@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838101</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lottie M</GivenNames>
+      <FamilyNames>Welk</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1887</BirthYear>
+      <DeathDay>2</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5c5cf85e551488426ae982b076a54172.jpg</string>
+  </Images>
+  <Latitude>45.520739</Latitude>
+  <Longitude>-123.006415</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

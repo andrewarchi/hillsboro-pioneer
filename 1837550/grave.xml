@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837550</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Eva P</GivenNames>
+      <FamilyNames>Brandenberg</FamilyNames>
+      <BirthYear>1872</BirthYear>
+      <DeathYear>1965</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c3ccfb9cb7ee771d221261007acb8427.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520382</Latitude>
+  <Longitude>-123.00753</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

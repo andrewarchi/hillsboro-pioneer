@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836382</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Grace B</GivenNames>
+      <FamilyNames>Harty</FamilyNames>
+      <BirthYear>1920</BirthYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Henry W</GivenNames>
+      <FamilyNames>Harty</FamilyNames>
+      <BirthYear>1915</BirthYear>
+      <DeathYear>1991</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/26dc4c1fbe24a53526e6ced746fe9c2c.jpg</string>
+  </Images>
+  <Latitude>45.520147</Latitude>
+  <Longitude>-123.007988</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

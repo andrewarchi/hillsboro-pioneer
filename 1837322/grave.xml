@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837322</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>A A</GivenNames>
+      <FamilyNames>Morrill</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1850</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0c25d4d71da678a209543665946e13e4.jpg</string>
+  </Images>
+  <Latitude>45.520264</Latitude>
+  <Longitude>-123.004985</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

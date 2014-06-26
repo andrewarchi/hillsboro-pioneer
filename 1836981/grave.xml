@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836981</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>W. E.</GivenNames>
+      <FamilyNames>Merritt</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1858</BirthYear>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4ad1fb0f5023a1746dcf68e08311f056.jpg</string>
+  </Images>
+  <Latitude>45.520412</Latitude>
+  <Longitude>-123.007904</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

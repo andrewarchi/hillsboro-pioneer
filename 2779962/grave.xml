@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779962</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alfred H</GivenNames>
+      <FamilyNames>Morgan</FamilyNames>
+      <BirthYear>1892</BirthYear>
+      <DeathYear>1931</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/03100973790e36771a243868c6d9259d.jpg</string>
+  </Images>
+  <Latitude>45.520239</Latitude>
+  <Longitude>-123.003936</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

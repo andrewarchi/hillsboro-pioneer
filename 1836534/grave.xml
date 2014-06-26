@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836534</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robert Hale</GivenNames>
+      <FamilyNames>Ballard</FamilyNames>
+      <BirthDay>15</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1920</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>2008</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ccb7e5ba1c133d2d395203980f3e9df9.jpg</string>
+  </Images>
+  <Information>Capt US Marine Corps World war II</Information>
+  <Latitude>45.520381</Latitude>
+  <Longitude>-123.006542</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

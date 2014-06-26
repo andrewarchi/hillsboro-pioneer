@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>5138177</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John W</GivenNames>
+      <FamilyNames>Masters</FamilyNames>
+      <BirthYear>1845</BirthYear>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Clarinda</GivenNames>
+      <FamilyNames>Masters</FamilyNames>
+      <BirthYear>1851</BirthYear>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/91018c8385f59862d86a50dae021b486.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/6ebc2b237aafd78cfdbdab75b7e7e883.jpg</string>
+  </Images>
+  <Latitude>45.52026</Latitude>
+  <Longitude>-123.00451</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

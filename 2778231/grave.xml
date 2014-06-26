@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778231</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Manerva</GivenNames>
+      <FamilyNames>Newton</FamilyNames>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1897</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/ad4590ec4c3cceb23ba2940085c49d3b.jpg</string>
+  </Images>
+  <Latitude>45.520535</Latitude>
+  <Longitude>-123.004485</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

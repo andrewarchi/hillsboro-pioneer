@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838080</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Father</Prefix>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Schedvin</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1848</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <Prefix>Mother</Prefix>
+      <GivenNames>Karin</GivenNames>
+      <FamilyNames>Schedvin</FamilyNames>
+      <BirthDay>16</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1849</BirthYear>
+      <DeathDay>23</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1a4a13f09a30873908beedcb13a30ab4.jpg</string>
+  </Images>
+  <Latitude>45.520258</Latitude>
+  <Longitude>-123.006468</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

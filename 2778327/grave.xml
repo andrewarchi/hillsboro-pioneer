@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778327</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>P W</GivenNames>
+      <FamilyNames>Craig</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/53559301af84cee796ac89cbaea4e1ef.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/057ee8a7ce23958f9b8ca872589eaa82.jpg</string>
+  </Images>
+  <Information>no birth or death information provided.</Information>
+  <Latitude>45.520792</Latitude>
+  <Longitude>-123.004359</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

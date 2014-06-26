@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836352</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Everett Syd</GivenNames>
+      <FamilyNames>Ferguson</FamilyNames>
+      <BirthYear>1908</BirthYear>
+      <DeathYear>1977</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cc1717f31738312c8f5bdbabb16a2ba1.jpg</string>
+  </Images>
+  <Latitude>45.520115</Latitude>
+  <Longitude>-123.005804</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

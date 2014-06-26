@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668027</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William F</GivenNames>
+      <FamilyNames>Lalor</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1925</BirthYear>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1985</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/283b17b5f61bda97cd7a769dfc6d9463.jpg</string>
+  </Images>
+  <Information>US Navy World War II</Information>
+  <Latitude>45.520389</Latitude>
+  <Longitude>-123.005603</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

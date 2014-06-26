@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837926</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles</GivenNames>
+      <FamilyNames>Wasem</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/80640a6ebd5646279e3cf06836bf575a.jpg</string>
+  </Images>
+  <Epitaph>Gone but not Forgotten</Epitaph>
+  <Latitude>45.520214</Latitude>
+  <Longitude>-123.006905</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

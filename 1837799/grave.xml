@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837799</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Oscar O</GivenNames>
+      <FamilyNames>Donelson</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1956</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ffd4aa2eb4c7b085dec05e7893845621.jpg</string>
+  </Images>
+  <Information>Father</Information>
+  <Latitude>45.52027</Latitude>
+  <Longitude>-123.0072</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779767</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Margretta</GivenNames>
+      <FamilyNames>Baird</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1905</BirthYear>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7787f9a326575c201b795ead4e5faeea.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/378d12ac619f243380c9d11809410e82.jpg</string>
+  </Images>
+  <Information>Daughter of E H and Nellie Baird Budded on earth to bloom in Heaven</Information>
+  <Latitude>45.520116</Latitude>
+  <Longitude>-123.004162</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

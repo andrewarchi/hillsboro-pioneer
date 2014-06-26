@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837444</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frances Ellen Hare</GivenNames>
+      <FamilyNames>O'Connor</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3d9902829548eece10ee79270764bfef.jpg</string>
+  </Images>
+  <Latitude>45.520337</Latitude>
+  <Longitude>-123.005107</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

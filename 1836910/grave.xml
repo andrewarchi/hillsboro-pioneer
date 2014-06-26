@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836910</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robert A</GivenNames>
+      <FamilyNames>Harrow</FamilyNames>
+      <BirthYear>1906</BirthYear>
+      <DeathYear>1972</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c675dd1b28fbcbcc9d23f977a68d4794.jpg</string>
+  </Images>
+  <Latitude>45.520512</Latitude>
+  <Longitude>-123.005325</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779762</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Mrs</Prefix>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Berrie</FamilyNames>
+      <BirthDay />
+      <BirthMonth />
+      <BirthYear />
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1901</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/1ffa0fe087b27dac0e8871161b50d62b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/539bc39a9032be59a1c5294b4425cd49.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ba0fefacd4f3c4fd9b80176d2ca3ce4c.jpg</string>
+  </Images>
+  <Information>AGE 60 YS 3 MS 16 DS</Information>
+  <Latitude>45.520205</Latitude>
+  <Longitude>-123.004157</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837743</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Arthur J</GivenNames>
+      <FamilyNames>Spitler</FamilyNames>
+      <BirthYear>1904</BirthYear>
+      <DeathYear>1975</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Vivian M</GivenNames>
+      <FamilyNames>Spitler</FamilyNames>
+      <BirthYear>1906</BirthYear>
+      <DeathYear>1990</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4ee36875ec457441597d24c928a01ab6.jpg</string>
+  </Images>
+  <Latitude>45.52024</Latitude>
+  <Longitude>-123.00737</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

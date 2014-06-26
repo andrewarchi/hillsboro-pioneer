@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668043</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary C</GivenNames>
+      <FamilyNames>Corwin</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/88c440a74c8122f2a36681596316e736.jpg</string>
+  </Images>
+  <Latitude>45.520262</Latitude>
+  <Longitude>-123.005583</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

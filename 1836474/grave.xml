@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836474</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Martine</GivenNames>
+      <FamilyNames>Rasmussen</FamilyNames>
+      <BirthYear>1857</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Rasmus</GivenNames>
+      <FamilyNames>Rasmussen</FamilyNames>
+      <BirthYear>1845</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7ac071b9082738f6c395416e2a6b0a33.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5afc174cee2258421ac6f0aa5b348ac1.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e1577898f8b37e50df4ca7134f3a93d3.jpg</string>
+  </Images>
+  <Information>Mother Father</Information>
+  <Latitude>45.520237</Latitude>
+  <Longitude>-123.007912</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

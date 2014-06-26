@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778276</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William</GivenNames>
+      <FamilyNames>Leverigh</FamilyNames>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/daadce318ef14cf62e2e4e69a36ae625.jpg</string>
+  </Images>
+  <Information>Aged 79 years.</Information>
+  <Latitude>45.520319</Latitude>
+  <Longitude>-123.004483</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

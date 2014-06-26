@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838205</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frances Irene</GivenNames>
+      <FamilyNames>Kelsey</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1913</BirthYear>
+      <DeathDay>13</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9269856a6a1e0bf34b0efa36b884a24b.jpg</string>
+  </Images>
+  <Latitude>45.520355</Latitude>
+  <Longitude>-123.006595</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

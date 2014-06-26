@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837656</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>D M C</GivenNames>
+      <FamilyNames>Cault</FamilyNames>
+      <BirthYear>1842</BirthYear>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9bc1e8c2e61fd58141fb97d88a744d53.jpg</string>
+  </Images>
+  <Latitude>45.520182</Latitude>
+  <Longitude>-123.005059</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

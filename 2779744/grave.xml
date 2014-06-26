@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779744</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jesse Elmer</GivenNames>
+      <FamilyNames>Drummond</FamilyNames>
+      <BirthYear>1890</BirthYear>
+      <DeathYear>1984</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b058b8399597f25bb22003e8ecac500f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/40756bf46262ab09d2872420ae078f04.jpg</string>
+  </Images>
+  <Latitude>45.520646</Latitude>
+  <Longitude>-123.004225</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

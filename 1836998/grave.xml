@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836998</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John L.</GivenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <BirthYear>1863</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <Prefix>Daughter</Prefix>
+      <GivenNames>Jessie L</GivenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <BirthYear>1907</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9d251d606c111caa0898e0ab49e16ee3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/81f8041d88dfd999481b7c9c0660b693.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8cd0cf595202e32769ac166e84aa8254.jpg</string>
+  </Images>
+  <Information>Father</Information>
+  <Latitude>45.520639</Latitude>
+  <Longitude>-123.005239</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

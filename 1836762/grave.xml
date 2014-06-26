@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836762</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <FamilyNames>Trumbo</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1890</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d70135ba56455456519312676b40af4a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f51e273b040c4f01f1de8f6e30e08b6f.jpg</string>
+  </Images>
+  <Information>Daughter of A &amp; R Trumbo</Information>
+  <Latitude>45.520685</Latitude>
+  <Longitude>-123.006171</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837435</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robert N</GivenNames>
+      <FamilyNames>Holm</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1969</DeathYear>
+      <MarriageDay>29</MarriageDay>
+      <MarriageMonth>Oct</MarriageMonth>
+      <MarriageYear>1908</MarriageYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>G Sophia</GivenNames>
+      <FamilyNames>Holm</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathDay>27</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1981</DeathYear>
+      <MarriageDay>29</MarriageDay>
+      <MarriageMonth>Sep</MarriageMonth>
+      <MarriageYear>1908</MarriageYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4a7a147874c70e71998d53c741404b2b.jpg</string>
+  </Images>
+  <Information>Married Oct 29 1908</Information>
+  <Latitude>45.520984</Latitude>
+  <Longitude>-123.0048</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

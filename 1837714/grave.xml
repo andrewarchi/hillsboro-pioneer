@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837714</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Vaden E</GivenNames>
+      <FamilyNames>Boge</FamilyNames>
+      <DeathDay>27</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2ea717d0712136ab36d3e4fccbcd555f.jpg</string>
+  </Images>
+  <Information>Oregon Pvt Med Dept</Information>
+  <Latitude>45.520298</Latitude>
+  <Longitude>-123.00747</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836628</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles</GivenNames>
+      <FamilyNames>McKinney</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1830</BirthYear>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1902</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <FamilyNames>McKinney</FamilyNames>
+      <BirthDay>20</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1841</BirthYear>
+      <DeathDay>14</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1868</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2d5506fc16cc12cd4b8bd421144aa5a5.jpg</string>
+  </Images>
+  <Latitude>45.520401</Latitude>
+  <Longitude>-123.005763</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

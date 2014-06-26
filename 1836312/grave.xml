@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836312</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James</GivenNames>
+      <FamilyNames>Dixon</FamilyNames>
+      <DeathDay>2</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1887</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9ad09bfdcdaafe1f7906f4ce65ec3572.jpg</string>
+  </Images>
+  <Information>Aged 76 years</Information>
+  <Latitude>45.520662</Latitude>
+  <Longitude>-123.005419</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

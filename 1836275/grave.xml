@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836275</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Kezia</GivenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <BirthDay>30</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1800</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1885</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Kezia</GivenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <BirthDay>30</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1800</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1885</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2a8250ced595a3e8acc3f7d379befa2c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/20d2e5ac727d583b00946c1cdd785b74.jpg</string>
+  </Images>
+  <Latitude>45.520342</Latitude>
+  <Longitude>-123.005881</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

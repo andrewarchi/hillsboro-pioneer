@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>5138240</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lyman</GivenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1892</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20131111/5138240.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4ee242d696b243feb55ff79440b8553e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/04528497baf62a32d8b4f205e03067ea.jpg</string>
+  </Images>
+  <Latitude>45.52077</Latitude>
+  <Longitude>-123.00565</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

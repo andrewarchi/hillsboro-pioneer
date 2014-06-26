@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842839</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William R</GivenNames>
+      <FamilyNames>Jackson</FamilyNames>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1902</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5dccaae331024da7c51e7e723e2317bd.jpg</string>
+  </Images>
+  <Information>Aged 70 yrs. 3 mos</Information>
+  <Latitude>45.520115</Latitude>
+  <Longitude>-123.00585</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

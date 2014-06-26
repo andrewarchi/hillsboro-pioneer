@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836798</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Beerie</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b28d0f4e244577953c508480eeadcdd1.jpg</string>
+  </Images>
+  <Epitaph>Corpl</Epitaph>
+  <Information>61 A. Cav</Information>
+  <Latitude>45.520123</Latitude>
+  <Longitude>-123.004316</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

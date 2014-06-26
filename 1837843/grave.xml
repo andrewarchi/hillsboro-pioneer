@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837843</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dora M</GivenNames>
+      <FamilyNames>Kuskie</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1909</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1975</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2d74807a9ff8d931918f593a1cf83177.jpg</string>
+  </Images>
+  <Information>Wife &amp; Mother</Information>
+  <Latitude>45.5204</Latitude>
+  <Longitude>-123.00717</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

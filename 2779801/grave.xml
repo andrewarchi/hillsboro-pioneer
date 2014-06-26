@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779801</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William W</GivenNames>
+      <FamilyNames>Estes</FamilyNames>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1877</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/2522560aa2feb8c8653cf43d4767eb7e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/515c42aea6ffbeea64e4ef2418212a24.jpg</string>
+  </Images>
+  <Information>SON OF G.E. &amp; U.M. ESTES AGED 4YRS. 3MOS. &amp; 5DS.</Information>
+  <Latitude>45.520561</Latitude>
+  <Longitude>-123.004167</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

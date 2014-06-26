@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837232</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dilla B </GivenNames>
+      <FamilyNames>Weatherred</FamilyNames>
+      <BirthYear>1852</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6b256983b7aca0d77b5284a1b23b66db.jpg</string>
+  </Images>
+  <Information>wife of J O Weatherred</Information>
+  <Latitude>45.520493</Latitude>
+  <Longitude>-123.00783</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

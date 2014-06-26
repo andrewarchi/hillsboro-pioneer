@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836445</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ralph</GivenNames>
+      <FamilyNames>Rood</FamilyNames>
+      <BirthDay>14</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1887</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Lewis</GivenNames>
+      <FamilyNames>Rood</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Eveline</GivenNames>
+      <FamilyNames>Rood</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e34f3be36cac4450bb589d701c92b917.jpg</string>
+  </Images>
+  <Latitude>45.520394</Latitude>
+  <Longitude>-123.005363</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836569</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Cranfield</GivenNames>
+      <FamilyNames>Cheney</FamilyNames>
+      <BirthYear>1852</BirthYear>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Cynthia</GivenNames>
+      <FamilyNames>Cheney</FamilyNames>
+      <BirthYear>1860</BirthYear>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6b542e4a4517e9c6cebbc56837c4c7bc.jpg</string>
+  </Images>
+  <Latitude>45.520691</Latitude>
+  <Longitude>-123.007548</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778614</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Winslow H</GivenNames>
+      <FamilyNames>Brownson</FamilyNames>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1899</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Charity</GivenNames>
+      <FamilyNames>McClerg</FamilyNames>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1898</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/4df9824eb01aadfb2202daccb4b9025a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/218c40a804864ffb179e7405397a85ec.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/670dfdfcc55b2907cc446c4e691d514f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/243f6589e3aa438e2fe8a3564591fcb4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7bc3e49f3ce1b1364a950379a357ad9a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7bfa71c4280114bffcaea4f5a611b8d8.jpg</string>
+  </Images>
+  <Information>Aged 74 years</Information>
+  <Latitude>45.520185</Latitude>
+  <Longitude>-123.004312</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778332</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Emma A</GivenNames>
+      <FamilyNames>Larson</FamilyNames>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1904</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5785ec70aafae34c7675614ea2e1ad34.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/917d7589847c73a8b13625a73c1f6916.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d77061fbdc300686d5a1ff65568ec59a.jpg</string>
+  </Images>
+  <Information>Aged 21 years, 7 ms, 22 ds.</Information>
+  <Latitude>45.520623</Latitude>
+  <Longitude>-123.004406</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

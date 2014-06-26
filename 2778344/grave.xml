@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778344</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah</GivenNames>
+      <FamilyNames>Miller</FamilyNames>
+      <BirthDay>25</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1902</BirthYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c37e9ab206423e8755d59cdb8d990c5c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/90426b754d19036f7621c09fc5e4462a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9b302ad89499de4f3442f83bf70de8b3.jpg</string>
+  </Images>
+  <Information>wife of A. Miller Died April 23, 1902 Age 39 yrs 25 ds.</Information>
+  <Latitude>45.520556</Latitude>
+  <Longitude>-123.004305</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778303</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles </GivenNames>
+      <FamilyNames>Stewart</FamilyNames>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1898</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/00ac731d86ea2e8aeab9fd672e502551.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b1065f38b2df9241d69ab1f00a19a7fa.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/61273ff0c8c46060ce419b3791ea265c.jpg</string>
+  </Images>
+  <Epitaph>Aged 80 y 5 m 21 d; PIONEER 1846</Epitaph>
+  <Latitude>45.520592</Latitude>
+  <Longitude>-123.004421</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

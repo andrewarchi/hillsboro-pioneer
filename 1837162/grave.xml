@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837162</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <FamilyNames>Latham</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/789e87b0aa32081eb190c23b305c6cda.jpg</string>
+  </Images>
+  <Latitude>45.520208</Latitude>
+  <Longitude>-123.005058</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

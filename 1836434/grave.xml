@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836434</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>G Russel</GivenNames>
+      <FamilyNames>Morgan</FamilyNames>
+      <BirthYear>1897</BirthYear>
+      <DeathYear>1990</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2a6389b00505f48ee7296a11ed46c409.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/097bdd647e065df139f75e1afa789c96.jpg</string>
+  </Images>
+  <Information>As US Navy World War I</Information>
+  <Latitude>45.520292</Latitude>
+  <Longitude>-123.003973</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

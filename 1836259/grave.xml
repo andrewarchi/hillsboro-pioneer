@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836259</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>W W</GivenNames>
+      <FamilyNames>Weed</FamilyNames>
+      <BirthDay>9</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1829</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1900</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>William E</GivenNames>
+      <FamilyNames>Weed</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1868</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary A</GivenNames>
+      <FamilyNames>Weed</FamilyNames>
+      <BirthDay>3</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1847</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1936</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/00b21e77d2384f11b9272b958aace348.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/00924edc6bf661594506278e491ee320.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2d10da0cab8582a4bb4ef4d6c253a1c7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/075f7e62af6205626b84823fa7f5e500.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9824a1481cf34ac52033106c85d94c42.jpg</string>
+  </Images>
+  <Latitude>45.52042</Latitude>
+  <Longitude>-123.005893</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779889</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Samuel H</GivenNames>
+      <FamilyNames>Elliott</FamilyNames>
+      <BirthYear>1829</BirthYear>
+      <DeathYear>1906</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary L</GivenNames>
+      <FamilyNames>Elliott</FamilyNames>
+      <BirthYear>1836</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/91bb136e5cc01b3cc3a090baa4c22e1c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/75980a9e4f1b077d225dcc89975d8321.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7e35003dcab3e52af9d8a8bf20420e3e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/910f084f151ed8d70ba8e6dacf6a74b5.jpg</string>
+  </Images>
+  <Latitude>45.520345</Latitude>
+  <Longitude>-123.00408</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

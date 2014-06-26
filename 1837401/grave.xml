@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837401</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William C</GivenNames>
+      <FamilyNames>Jones</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e77a63f6c968f885b2e75f8a2052c9d0.jpg</string>
+  </Images>
+  <Information>CO.E. 2 MICH.INF.</Information>
+  <Latitude>45.520658</Latitude>
+  <Longitude>-123.004855</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836898</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elysa A</GivenNames>
+      <FamilyNames>Benson</FamilyNames>
+      <BirthYear>1844</BirthYear>
+      <DeathYear>1909</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cfe9640275113a2688b3276b7dd8855b.jpg</string>
+  </Images>
+  <Latitude>45.520552</Latitude>
+  <Longitude>-123.006039</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

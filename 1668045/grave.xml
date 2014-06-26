@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668045</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John L.</GivenNames>
+      <FamilyNames>Crow</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Esther J</GivenNames>
+      <FamilyNames>Crow</FamilyNames>
+      <BirthYear>1855</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c3aae3f5599e6856612eae02fcafd943.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6dee31ac60bb6fb4ac0d45c986fd63dc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/beafd7604b20bfd60819d9b349d72cc1.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20131111/5138255.jpg</string>
+  </Images>
+  <Latitude>45.520169</Latitude>
+  <Longitude>-123.005606</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

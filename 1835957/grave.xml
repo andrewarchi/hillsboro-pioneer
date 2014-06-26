@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835957</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Herbert E</GivenNames>
+      <FamilyNames>McKinney</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1953</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/65877c4903cd58458c03f325a417ba45.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/20a6c10c1a05f46e3a7ba223dfa4575d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/ffbaef8a6fa4864a1b943851eecf8c19.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/cd3bf7ef7ff52114b25046cf2579dad8.jpg</string>
+  </Images>
+  <Latitude>45.520317</Latitude>
+  <Longitude>-123.00421</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

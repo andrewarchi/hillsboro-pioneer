@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835008</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robert S</GivenNames>
+      <FamilyNames>Tongue</FamilyNames>
+      <BirthYear>1917</BirthYear>
+      <DeathYear>1998</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5e8761f979fddb40e578085525a22930.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/9e88ffdb6d1a256f80815bcd86e81bab.jpg</string>
+  </Images>
+  <Latitude>45.520122</Latitude>
+  <Longitude>-123.003935</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

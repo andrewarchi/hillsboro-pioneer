@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836642</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas</GivenNames>
+      <FamilyNames>Cannell</FamilyNames>
+      <BirthYear>1913</BirthYear>
+      <DeathYear>1988</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Phoebe</GivenNames>
+      <FamilyNames>Cannell</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1ffc8590102187fb52b804140513cf31.jpg</string>
+  </Images>
+  <Latitude>45.520491</Latitude>
+  <Longitude>-123.007636</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

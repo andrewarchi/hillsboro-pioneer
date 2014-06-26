@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836623</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Florence</GivenNames>
+      <FamilyNames>Wharton</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John A</GivenNames>
+      <FamilyNames>Wharton</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>James</GivenNames>
+      <FamilyNames>Wickizer</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/466cb968a80046144700388d91d156e6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8c3187c1c2ee033fa206d1d587693d3f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f96a8ec45ed9c55b9226a5c10395b2d3.jpg</string>
+  </Images>
+  <Latitude>45.520769</Latitude>
+  <Longitude>-123.006503</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836516</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>A</GivenNames>
+      <FamilyNames>Dahlberg</FamilyNames>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1900</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/98acb947cecc1954dc0fd7f8015fac92.jpg</string>
+  </Images>
+  <Information>Aged 37 years.</Information>
+  <Latitude>45.520384</Latitude>
+  <Longitude>-123.004629</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

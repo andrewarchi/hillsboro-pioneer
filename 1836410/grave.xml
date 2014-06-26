@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836410</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robert</GivenNames>
+      <FamilyNames>Anderson</FamilyNames>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/411b23ab087017d0c2caf358aa317f49.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f8f84da2c732636477ef08056b6b3a14.jpg</string>
+  </Images>
+  <Information>Pennsylvania PVT 19 US Inf Pennsylvania, Pvt 19 US Inf</Information>
+  <Latitude>45.520629</Latitude>
+  <Longitude>-123.00622</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

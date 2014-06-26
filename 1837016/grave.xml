@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837016</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Olga P</GivenNames>
+      <FamilyNames>Freudenthal</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <DeathYear>1944</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John H</GivenNames>
+      <FamilyNames>Freudenthal</FamilyNames>
+      <BirthYear>1866</BirthYear>
+      <DeathYear>1946</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9b09168e3c9bbfc6dcb425a87c7cd7f1.jpg</string>
+  </Images>
+  <Latitude>45.520313</Latitude>
+  <Longitude>-123.007866</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

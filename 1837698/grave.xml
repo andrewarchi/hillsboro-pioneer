@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837698</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Emma B</GivenNames>
+      <FamilyNames>Layman</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1869</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/289e55d0b49faf5280faf7751e5f2878.jpg</string>
+  </Images>
+  <Latitude>45.520573</Latitude>
+  <Longitude>-123.00746</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

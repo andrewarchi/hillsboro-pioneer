@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837990</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edward E</GivenNames>
+      <FamilyNames>Coxe</FamilyNames>
+      <BirthYear>1905</BirthYear>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ae52b8719982784d063a42efea891405.jpg</string>
+  </Images>
+  <Latitude>45.520474</Latitude>
+  <Longitude>-123.007488</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836731</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Cleatus V</GivenNames>
+      <FamilyNames>McFall</FamilyNames>
+      <BirthYear>1906</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/aa8c32526f0f84a9a0dfd7738a03bc32.jpg</string>
+  </Images>
+  <Latitude>45.520137</Latitude>
+  <Longitude>-123.005217</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

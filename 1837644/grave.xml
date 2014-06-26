@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837644</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ulysses A</GivenNames>
+      <FamilyNames>Benton</FamilyNames>
+      <BirthDay>6</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1859</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bb257e4c6235ce0416f0e1ce8b2ecf37.jpg</string>
+  </Images>
+  <Latitude>45.520412</Latitude>
+  <Longitude>-123.00752</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

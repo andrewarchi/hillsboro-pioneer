@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837207</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charlie A</GivenNames>
+      <FamilyNames>Jackson</FamilyNames>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1883</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b77631ebfd589718e98d5eca93e54a1d.jpg</string>
+  </Images>
+  <Information>Aged 15 years, 20 days.</Information>
+  <Latitude>45.520431</Latitude>
+  <Longitude>-123.006186</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

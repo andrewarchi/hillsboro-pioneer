@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836691</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Rufus</GivenNames>
+      <FamilyNames>Waggener</FamilyNames>
+      <BirthYear>1842</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5d75a5790fcf8d5d87b13bb96d916182.jpg</string>
+  </Images>
+  <Latitude>45.520244</Latitude>
+  <Longitude>-123.005369</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

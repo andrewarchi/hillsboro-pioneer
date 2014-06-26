@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838120</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Baby</GivenNames>
+      <FamilyNames>Hall</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1958</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1958</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d41ee50c238815e563a3ce939e7375d1.jpg</string>
+  </Images>
+  <Information>Baby Hall Son of Kenneth &amp; Janet</Information>
+  <Latitude>45.520323</Latitude>
+  <Longitude>-123.00639</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

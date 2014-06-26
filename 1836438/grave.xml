@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836438</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nelia P</GivenNames>
+      <FamilyNames>Butler</FamilyNames>
+      <BirthYear>1885</BirthYear>
+      <DeathYear>1969</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3bcf64b03df4139686272155c2ac5492.jpg</string>
+  </Images>
+  <Latitude>45.520203</Latitude>
+  <Longitude>-123.007983</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

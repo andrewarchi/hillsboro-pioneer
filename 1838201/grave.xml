@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838201</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary Park</GivenNames>
+      <FamilyNames>Kruger</FamilyNames>
+      <BirthYear>1888</BirthYear>
+      <DeathYear>1946</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Robert Herman</GivenNames>
+      <FamilyNames>Kruger</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathYear>1974</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7935393f389622493e82b1d86f4e74c6.jpg</string>
+  </Images>
+  <Latitude>45.520391</Latitude>
+  <Longitude>-123.006567</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

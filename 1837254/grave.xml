@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837254</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Omer L.</GivenNames>
+      <FamilyNames>Smith</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1911</BirthYear>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1911</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d82df29ee44c7a67655a93af9e736115.jpg</string>
+  </Images>
+  <Latitude>45.520769</Latitude>
+  <Longitude>-123.005052</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

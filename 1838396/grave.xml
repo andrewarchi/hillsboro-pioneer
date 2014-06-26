@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838396</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Carl W.</GivenNames>
+      <FamilyNames>Burklund</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1885</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1946</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Emma</GivenNames>
+      <FamilyNames>Burklund</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1886</BirthYear>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1951</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e6def205ffb3c2264a5e75b942256116.jpg</string>
+  </Images>
+  <Information>Carl - Father Emma - Mother</Information>
+  <Latitude>45.520966</Latitude>
+  <Longitude>-123.004844</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

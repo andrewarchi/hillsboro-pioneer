@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838269</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Eliza May</GivenNames>
+      <FamilyNames>Clark</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b32d15292404c223b4369ceb012cd9ae.jpg</string>
+  </Images>
+  <Latitude>45.520642</Latitude>
+  <Longitude>-123.00672</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

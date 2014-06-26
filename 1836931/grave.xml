@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836931</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Wilson E.</GivenNames>
+      <FamilyNames>Bowlby</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d3ca27790b96e6662d57d814086a8317.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/519b75e537d6fdbbb800c761260b022e.jpg</string>
+  </Images>
+  <Latitude>45.520225</Latitude>
+  <Longitude>-123.004394</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

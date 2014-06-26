@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837523</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Arleigh R</GivenNames>
+      <FamilyNames>Kellington</FamilyNames>
+      <BirthYear>1914</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4797a30ac12ac06ac70bb814431f7524.jpg</string>
+  </Images>
+  <Latitude>45.520584</Latitude>
+  <Longitude>-123.0075</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837913</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Oliver</GivenNames>
+      <FamilyNames>Westcott</FamilyNames>
+      <BirthYear>1854</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <FamilyNames>Westcott</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/588c97b56f62a1a0a6ec59e7d854d247.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/80c00cf6994b379997bdde6b2d06c991.jpg</string>
+  </Images>
+  <Latitude>45.520904</Latitude>
+  <Longitude>-123.004911</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

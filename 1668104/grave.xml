@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668104</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Norman</GivenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1886</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b40d3238e92b14f71979f0f54a7033eb.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/bcea02a885c7729f4fc962dbbe6676ed.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20131111/5138247.jpg</string>
+  </Images>
+  <Latitude>45.520765</Latitude>
+  <Longitude>-123.005692</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

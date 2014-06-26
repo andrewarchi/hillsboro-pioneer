@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837352</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna Marie</GivenNames>
+      <FamilyNames>Bretthauer</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8bfe552ef0ce14023fddfe2c54dfb953.jpg</string>
+  </Images>
+  <Latitude>45.520153</Latitude>
+  <Longitude>-123.007614</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

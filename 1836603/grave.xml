@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836603</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lucius H</GivenNames>
+      <FamilyNames>Buell</FamilyNames>
+      <BirthYear>1897</BirthYear>
+      <DeathYear>1950</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2af8bd71eb6b1b26dac2d8c97e524bd4.jpg</string>
+  </Images>
+  <Information>brother</Information>
+  <Latitude>45.52081</Latitude>
+  <Longitude>-123.006037</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

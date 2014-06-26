@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836647</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James S</GivenNames>
+      <FamilyNames>Coulter</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1949</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ff9a8201a7f7f98821862560ef9da61b.jpg</string>
+  </Images>
+  <Latitude>45.520491</Latitude>
+  <Longitude>-123.007636</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

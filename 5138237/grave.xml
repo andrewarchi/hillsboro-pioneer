@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>5138237</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Andrew H</GivenNames>
+      <FamilyNames>Christensen</FamilyNames>
+      <BirthDay>30</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1833</BirthYear>
+      <DeathDay>3</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1909</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary E</GivenNames>
+      <FamilyNames>Christensen</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1845</BirthYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/91820fd75f52ed659c99f1067e02b54b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a03d4221436445901e6372736e3627e2.jpg</string>
+  </Images>
+  <Latitude>45.52073</Latitude>
+  <Longitude>-123.00458</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

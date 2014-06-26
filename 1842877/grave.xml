@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842877</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George Emerson</GivenNames>
+      <FamilyNames>Miller</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1914</BirthYear>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>George Emerson</GivenNames>
+      <FamilyNames>Miller</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1914</BirthYear>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6459c9acaf8b726171ff77e6462d73ab.jpg</string>
+  </Images>
+  <Information>Son of F. W. and Alice Miller</Information>
+  <Latitude>45.52065</Latitude>
+  <Longitude>-123.00603</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

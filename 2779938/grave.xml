@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779938</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <MaidenNames>Tongue</MaidenNames>
+      <FamilyNames>Lombard</FamilyNames>
+      <BirthYear>1875</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/8323fd741c325cfc31792dd01927d4bc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a675b60d75ca35e4cea7303ca1032a41.jpg</string>
+  </Images>
+  <Latitude>45.520176</Latitude>
+  <Longitude>-123.003776</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

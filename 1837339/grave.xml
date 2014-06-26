@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837339</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jacob</GivenNames>
+      <FamilyNames>Luscher</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1848</BirthYear>
+      <DeathDay>3</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1476ae8400c986bf583bd4d4590c4f6a.jpg</string>
+  </Images>
+  <Latitude>45.52016</Latitude>
+  <Longitude>-123.00767</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

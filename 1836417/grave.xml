@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836417</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary Jane</GivenNames>
+      <FamilyNames>Fowler</FamilyNames>
+      <BirthDay>23</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1839</BirthYear>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1873</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>M F</GivenNames>
+      <FamilyNames>Fowler</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/df7b385b1fef0ee4debf606a79147d25.jpg</string>
+  </Images>
+  <Latitude>45.520662</Latitude>
+  <Longitude>-123.005419</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

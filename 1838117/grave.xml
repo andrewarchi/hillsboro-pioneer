@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838117</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Everette S</GivenNames>
+      <FamilyNames>Bohannon</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1896</BirthYear>
+      <DeathDay>28</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a22b3e2fc8b47be57a78519e8192c6e3.jpg</string>
+  </Images>
+  <Information>Son of R. E. &amp; M. Bohannon</Information>
+  <Latitude>45.520248</Latitude>
+  <Longitude>-123.006488</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

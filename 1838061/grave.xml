@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838061</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Beryl E</GivenNames>
+      <FamilyNames>Boge</FamilyNames>
+      <BirthYear>1910</BirthYear>
+      <DeathYear>1981</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3541ed9d8f29cdd3c262811575afdbaa.jpg</string>
+  </Images>
+  <Latitude>45.520265</Latitude>
+  <Longitude>-123.007265</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

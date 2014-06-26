@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837338</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Flora</GivenNames>
+      <FamilyNames>Schulmerich</FamilyNames>
+      <BirthYear>1866</BirthYear>
+      <DeathYear>1947</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d7acb9b509932dd3e4a8dd9778b42e9f.jpg</string>
+  </Images>
+  <Latitude>45.52008</Latitude>
+  <Longitude>-123.005024</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

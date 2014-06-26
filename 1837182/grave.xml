@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837182</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lillian May</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/88178453b7c0cf50cdc075695bbf3a82.jpg</string>
+  </Images>
+  <Latitude>45.520264</Latitude>
+  <Longitude>-123.005161</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

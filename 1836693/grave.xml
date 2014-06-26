@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836693</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alonso D</GivenNames>
+      <FamilyNames>Holland</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>David</GivenNames>
+      <FamilyNames>Holland</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <DeathYear>1955</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Alonzo D</GivenNames>
+      <FamilyNames>Holland</FamilyNames>
+      <BirthYear>1842</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Abigail A</GivenNames>
+      <FamilyNames>Holland</FamilyNames>
+      <BirthYear>1843</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1836693.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1836707.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1836715.jpg</string>
+  </Images>
+  <Latitude>45.520393</Latitude>
+  <Longitude>-123.007589</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

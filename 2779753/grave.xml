@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779753</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Josephine</GivenNames>
+      <FamilyNames>Scott</FamilyNames>
+      <BirthDay>18</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1858</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>William A</GivenNames>
+      <FamilyNames>Scott</FamilyNames>
+      <BirthYear>1854</BirthYear>
+      <DeathYear>1936</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/f0e8200e702a91ea08e031af4f819c0f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2880e94a5250a6a2b8b0ddabb886a223.jpg</string>
+  </Images>
+  <Latitude>45.520436</Latitude>
+  <Longitude>-123.00414</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

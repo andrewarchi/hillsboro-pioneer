@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837867</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>T C</GivenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d1ac7e5cc0b1745dd797672c9584d993.jpg</string>
+  </Images>
+  <Latitude>45.520515</Latitude>
+  <Longitude>-123.00663</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

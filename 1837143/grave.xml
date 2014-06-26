@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837143</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna M.</GivenNames>
+      <FamilyNames>Pauli</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1906</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cdfc3d3dd0fbe4b485713140c3e8476d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/49e9518c5496bc06e2bb7009d5e1e6f5.jpg</string>
+  </Images>
+  <Latitude>45.520226</Latitude>
+  <Longitude>-123.003938</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

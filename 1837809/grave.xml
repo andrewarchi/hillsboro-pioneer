@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837809</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Joseph G</GivenNames>
+      <FamilyNames>Rollins</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1859</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Katherine M</GivenNames>
+      <FamilyNames>Rollins</FamilyNames>
+      <BirthDay>15</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1855</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9550db99f12a2a851a3744642217936b.jpg</string>
+  </Images>
+  <Information>his wife</Information>
+  <Latitude>45.52013</Latitude>
+  <Longitude>-123.00719</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

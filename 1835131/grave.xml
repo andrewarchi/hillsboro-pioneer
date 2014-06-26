@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835131</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <FamilyNames>Willers</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Deitrich</GivenNames>
+      <FamilyNames>Willers</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/80b8304a82314ba925e18a78f8ca24b4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/30b4dc4a56ccd7f09d60d76dc35e02f9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3e25531a0d563b3510141348f2548997.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/edd39ad0391d9472298bb9e286864920.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520533</Latitude>
+  <Longitude>-123.004104</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

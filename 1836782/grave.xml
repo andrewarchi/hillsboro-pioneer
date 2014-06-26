@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836782</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hans C</GivenNames>
+      <FamilyNames>Gottlieb</FamilyNames>
+      <BirthYear>1843</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/464dc91352295f0c7d7a143310d02457.jpg</string>
+  </Images>
+  <Latitude>45.520477</Latitude>
+  <Longitude>-123.006744</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

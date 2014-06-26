@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778270</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>C A May</GivenNames>
+      <FamilyNames>Sanford</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3de93f757fb552d1673c475c686cfc05.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/551a12b5e5a602ecee2c5bf6d2ca0572.jpg</string>
+  </Images>
+  <Latitude>45.520319</Latitude>
+  <Longitude>-123.004483</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

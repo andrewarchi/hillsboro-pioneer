@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778213</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Benjamin</GivenNames>
+      <FamilyNames>Birdsell</FamilyNames>
+      <BirthDay>8</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1838</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c5e654759e848488b2521ab9b0027482.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/da965560ec48ba68969efd4cfaea7145.jpg</string>
+  </Images>
+  <Latitude>45.520689</Latitude>
+  <Longitude>-123.004512</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

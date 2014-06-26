@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837484</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jacob L</GivenNames>
+      <FamilyNames>Creekpaum</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1c663d169172e892d2d73591db2c0271.jpg</string>
+  </Images>
+  <Latitude>45.52077</Latitude>
+  <Longitude>-123.00749</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

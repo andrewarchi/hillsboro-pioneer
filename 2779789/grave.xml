@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779789</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Minnie M</GivenNames>
+      <FamilyNames>Freeman</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1911</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/a01186f3f1ae4d218498c49d0106247d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/beb16a44a034d9a292ce1517d15c7353.jpg</string>
+  </Images>
+  <Latitude>45.52034</Latitude>
+  <Longitude>-123.004233</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

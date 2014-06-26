@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836208</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Roziena</GivenNames>
+      <FamilyNames>Hall</FamilyNames>
+      <BirthYear>1873</BirthYear>
+      <DeathYear>1961</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/290790d0b13d4a5b7109bb434f80755b.jpg</string>
+  </Images>
+  <Latitude>45.520749</Latitude>
+  <Longitude>-123.005499</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

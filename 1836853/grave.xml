@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836853</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lucy H</GivenNames>
+      <FamilyNames>Kirkwood</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1936</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John I</GivenNames>
+      <FamilyNames>Kirkwood</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1953</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f7cf994894984f1d0f494724690d16e6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/a1be0648515fd8dc8cbe32be89808bb5.jpg</string>
+  </Images>
+  <Latitude>45.520493</Latitude>
+  <Longitude>-123.00429</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

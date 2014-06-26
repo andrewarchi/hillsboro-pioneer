@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779756</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Son</GivenNames>
+      <FamilyNames>Scott</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/8892775755579db4ad00578ea095d5ba.jpg</string>
+  </Images>
+  <Epitaph>SONS OF W A &amp; J SCOTT</Epitaph>
+  <Latitude>45.52038</Latitude>
+  <Longitude>-123.004193</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

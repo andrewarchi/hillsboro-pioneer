@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842812</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edward Claudie</GivenNames>
+      <FamilyNames>Gibson</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1884</BirthYear>
+      <DeathDay>25</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1887</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f864cf8b812d8766765d804cb52261ef.jpg</string>
+  </Images>
+  <Latitude>45.52072</Latitude>
+  <Longitude>-123.00577</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

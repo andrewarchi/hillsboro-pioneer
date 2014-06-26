@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779547</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alden LuVerne</GivenNames>
+      <FamilyNames>Hobbs</FamilyNames>
+      <BirthDay>20</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1918</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/753c59bcfa0debaa5269c620ce9d79f8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/91ae2207292c577b6e1b3a3b353ad4f6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/2e638f7f782ae0ff0a61bd97e0b912a7.jpg</string>
+  </Images>
+  <Latitude>45.520669</Latitude>
+  <Longitude>-123.004259</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836401</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Harry D</GivenNames>
+      <FamilyNames>Bowman</FamilyNames>
+      <BirthYear>1888</BirthYear>
+      <DeathYear>1947</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d4b9c940e7ce7df618cc8ca5d5d6d407.jpg</string>
+  </Images>
+  <Latitude>45.520148</Latitude>
+  <Longitude>-123.008007</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

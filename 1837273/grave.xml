@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837273</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary Persons</GivenNames>
+      <FamilyNames>Malcolm</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1856</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837273.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837280.jpg</string>
+  </Images>
+  <Latitude>45.52014</Latitude>
+  <Longitude>-123.006312</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

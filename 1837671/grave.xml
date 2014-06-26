@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837671</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anastasia E</GivenNames>
+      <FamilyNames>Simpson</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1914</BirthYear>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>2010</DeathYear>
+      <MarriageDay>2</MarriageDay>
+      <MarriageMonth>Aug</MarriageMonth>
+      <MarriageYear>1937</MarriageYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Rolfe M.</GivenNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1909</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1993</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ann E. </GivenNames>
+      <FamilyNames>Simpson</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1914</BirthYear>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>2010</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Rolfe M</GivenNames>
+      <FamilyNames>Simpson</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1909</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1993</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f574781f566ecf251da3521d8a9f8449.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7a245a849dfffe895795b5364c38a18b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b1db7237ce42c58eeac1d836870bd9a3.jpg</string>
+  </Images>
+  <Latitude>45.52077</Latitude>
+  <Longitude>-123.00746</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

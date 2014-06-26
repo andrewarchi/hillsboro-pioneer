@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836545</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Annettie G</GivenNames>
+      <FamilyNames>Guyton</FamilyNames>
+      <BirthYear>1850</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/58cca4d451c9a6eae4a56d32f87cb037.jpg</string>
+  </Images>
+  <Information>Wife of J. S. Guyton</Information>
+  <Latitude>45.520528</Latitude>
+  <Longitude>-123.006522</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

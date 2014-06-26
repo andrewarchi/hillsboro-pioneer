@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836448</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Preston M</GivenNames>
+      <FamilyNames>Jackson</FamilyNames>
+      <BirthDay>29</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1839</BirthYear>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8a3c3621bb97d63544d5ca2cd973da9f.jpg</string>
+  </Images>
+  <Information>Born Harrison Co Indiana</Information>
+  <Latitude>45.520752</Latitude>
+  <Longitude>-123.006025</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

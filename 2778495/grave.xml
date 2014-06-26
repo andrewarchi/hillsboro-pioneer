@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778495</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Theodore F</GivenNames>
+      <FamilyNames>Bowlby</FamilyNames>
+      <BirthDay>29</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1845</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1894</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/1e1ec71cd53ab5f7abf97e8d3696c4b7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4783e89387b369f91c3699a6f7f7df07.jpg</string>
+  </Images>
+  <Information>At Cincinnati, Ohio At Hillsboro, Or</Information>
+  <Latitude>45.520204</Latitude>
+  <Longitude>-123.00426</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

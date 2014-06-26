@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836141</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alice E</GivenNames>
+      <FamilyNames>Wheeler</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1951</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>David R</GivenNames>
+      <FamilyNames>Wheeler</FamilyNames>
+      <BirthYear>1863</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/54c5c2408c7cbf986117094f508aac4e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/64b9970e627ca65841059ae987bfcb16.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a8885893147adf8c5e084a58d25b3a9b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3be440b039bebf730d5abcf4cd7568d9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9ca23d392e5250c9195d5a1d81994a0f.jpg</string>
+  </Images>
+  <Latitude>45.520123</Latitude>
+  <Longitude>-123.00428</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

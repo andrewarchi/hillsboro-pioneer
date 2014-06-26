@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836664</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Susan</GivenNames>
+      <FamilyNames>Burkhalter</FamilyNames>
+      <BirthYear>1834</BirthYear>
+      <DeathYear>1913</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/78e9a854865f2d03259badce41651cba.jpg</string>
+  </Images>
+  <Latitude>45.520129</Latitude>
+  <Longitude>-123.00529</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

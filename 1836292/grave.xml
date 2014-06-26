@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836292</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna A</GivenNames>
+      <FamilyNames>Eagleton</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1937</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Asa N</GivenNames>
+      <FamilyNames>Eagleton</FamilyNames>
+      <BirthYear>1854</BirthYear>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/13f5a14b905c7b4e6d7cb492a97a8f0a.jpg</string>
+  </Images>
+  <Latitude>45.52039</Latitude>
+  <Longitude>-123.005493</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

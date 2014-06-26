@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837509</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Stith M</GivenNames>
+      <FamilyNames>Chapman</FamilyNames>
+      <BirthYear>1855</BirthYear>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Nellie M</GivenNames>
+      <FamilyNames>Chapman</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bc15b796b240afc184db94ff24c0964a.jpg</string>
+  </Images>
+  <Latitude>45.520695</Latitude>
+  <Longitude>-123.00748</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

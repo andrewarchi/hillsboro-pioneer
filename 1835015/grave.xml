@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835015</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edmund Burke</GivenNames>
+      <FamilyNames>Tongue</FamilyNames>
+      <BirthYear>1873</BirthYear>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1588cfe158c6203d390a381e33e0a38b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/31549461c6c6ac244e893de33ea4ee27.jpg</string>
+  </Images>
+  <Latitude>45.520165</Latitude>
+  <Longitude>-123.003895</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

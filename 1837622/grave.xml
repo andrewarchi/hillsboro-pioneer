@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837622</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lisa Shawn Ford</GivenNames>
+      <FamilyNames>Evans</FamilyNames>
+      <BirthDay>13</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1961</BirthYear>
+      <DeathDay>13</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1975</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/eff69400b57479a7290f84d7dba6d63d.jpg</string>
+  </Images>
+  <Latitude>45.520085</Latitude>
+  <Longitude>-123.005254</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

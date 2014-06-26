@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836297</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edmund G</GivenNames>
+      <FamilyNames>Nelson</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1908</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1908</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Peter</GivenNames>
+      <FamilyNames>Nelson</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Emily</GivenNames>
+      <FamilyNames>Nelson</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b2d715b107294c768521fe43a6c4afc1.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b9b09b912b562d62469b2e2ca4ff73ae.jpg</string>
+  </Images>
+  <Latitude>45.520239</Latitude>
+  <Longitude>-123.005849</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

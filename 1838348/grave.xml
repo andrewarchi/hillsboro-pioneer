@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838348</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Walter Lester</GivenNames>
+      <FamilyNames>Adams</FamilyNames>
+      <BirthYear>1900</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f775714cca174ebffa388966739539c7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/59f59f9512abdb6d8c9263d2ce727df4.jpg</string>
+  </Images>
+  <Latitude>45.520501</Latitude>
+  <Longitude>-123.004787</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

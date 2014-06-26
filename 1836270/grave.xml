@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836270</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Delbert</GivenNames>
+      <FamilyNames>Bridgess</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c57e1fabdc6706fda51b97b68821c2e7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/53758d760d49086bc5ebb5b266026c61.jpg</string>
+  </Images>
+  <Epitaph>Father</Epitaph>
+  <Latitude>45.520216</Latitude>
+  <Longitude>-123.004643</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779818</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Caleb C</GivenNames>
+      <FamilyNames>Bennett</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/1e2c38011740ff453a6581f539eb0a89.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/057f584ef202331ad02ba9dcb4fdc4dc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3fb3c5229f9df6d5acdd1225dafbaecf.jpg</string>
+  </Images>
+  <Information>FATHER</Information>
+  <Latitude>45.520287</Latitude>
+  <Longitude>-123.004073</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

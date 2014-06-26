@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837161</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <FamilyNames>Pinkston</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1853</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0515d30a4160a24e0cbdca05cef9af15.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fc54359010fb39c2d0b62cee3721ef4e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/94d9077724dfa2411da207c7334a6723.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520822</Latitude>
+  <Longitude>-123.006096</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

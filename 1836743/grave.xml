@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836743</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John Albert</GivenNames>
+      <FamilyNames>Pinkerton</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1872</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Cornelia</GivenNames>
+      <MaidenNames>Ryland</MaidenNames>
+      <FamilyNames>Pinkerton</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1882</BirthYear>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/afead63e6fb7301fc06077c4585e60e7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b3b66c1875c92d836bc52c0c629f5ea7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/23a53490f59bc41e568c433acaad6011.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/eec80daabbc92ba998eb71243c55dffd.jpg</string>
+  </Images>
+  <Latitude>45.52034</Latitude>
+  <Longitude>-123.007594</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

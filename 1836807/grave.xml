@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836807</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lucius A</GivenNames>
+      <FamilyNames>Long</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1950</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Jane Powell </GivenNames>
+      <FamilyNames>Long</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1949</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1486717ed3f76e382b2c4718ab37cd53.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c55dc656a0018a66b771d269903f9a61.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/247f16388b044bc6e9338b9c6679af3b.jpg</string>
+  </Images>
+  <Latitude>45.520726</Latitude>
+  <Longitude>-123.005929</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

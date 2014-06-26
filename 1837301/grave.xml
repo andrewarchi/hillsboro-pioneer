@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837301</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Filena</GivenNames>
+      <FamilyNames>Nelson</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>A J</GivenNames>
+      <FamilyNames>Tupper</FamilyNames>
+      <BirthYear>1827</BirthYear>
+      <DeathYear>1900</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Lillie May</GivenNames>
+      <FamilyNames>Hensler</FamilyNames>
+      <BirthYear>1893</BirthYear>
+      <DeathYear>1957</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Albert</GivenNames>
+      <FamilyNames>Hensler</FamilyNames>
+      <BirthYear>1890</BirthYear>
+      <DeathYear>1967</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/15737ee60dee857425f3e58963e125cb.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b2e2f1f001e6f272c127941ee240a281.jpg</string>
+  </Images>
+  <Information>Mother and Grandmother of</Information>
+  <Latitude>45.52056</Latitude>
+  <Longitude>-123.00768</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836824</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dorothy Fay</GivenNames>
+      <FamilyNames>Knox</FamilyNames>
+      <BirthYear>1920</BirthYear>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/28e5c469c43fffdbebce4e88d7d6e8d0.jpg</string>
+  </Images>
+  <Latitude>45.520874</Latitude>
+  <Longitude>-123.005883</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

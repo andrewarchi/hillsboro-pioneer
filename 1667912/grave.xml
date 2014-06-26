@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1667912</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Leo L.</GivenNames>
+      <FamilyNames>Hirsch</FamilyNames>
+      <BirthYear>1892</BirthYear>
+      <DeathYear>1892</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7d277e0bac145815f20eedaae37403dd.jpg</string>
+  </Images>
+  <Latitude>45.520753</Latitude>
+  <Longitude>-123.005546</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

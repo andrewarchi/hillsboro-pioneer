@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838159</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Daughters</GivenNames>
+      <FamilyNames>McCormick</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3560e7350792e7496febba4a3b788b50.jpg</string>
+  </Images>
+  <Epitaph>daughters of E. L. and G. H. McCormick</Epitaph>
+  <Latitude>45.520371</Latitude>
+  <Longitude>-123.004925</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

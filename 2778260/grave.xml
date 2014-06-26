@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778260</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Benjamin A</GivenNames>
+      <FamilyNames>Jack</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/2b2181106be9f7aa6533386ced18f1fd.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2d3e87b395a7d21732c5b61fadc80605.jpg</string>
+  </Images>
+  <Latitude>45.52023</Latitude>
+  <Longitude>-123.004458</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

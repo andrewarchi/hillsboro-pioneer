@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836597</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James W</GivenNames>
+      <FamilyNames>Brock</FamilyNames>
+      <BirthYear>1855</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ad59437d7c9a06fe2d215737994ea25c.jpg</string>
+  </Images>
+  <Latitude>45.520531</Latitude>
+  <Longitude>-123.007555</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

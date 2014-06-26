@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779823</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Harry W</GivenNames>
+      <FamilyNames>Luther</FamilyNames>
+      <BirthYear>1891</BirthYear>
+      <DeathYear>1905</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5ee9e268eaad99b70a3750952819efa8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bbece04cc9c46c56ae8d3c2da06996dd.jpg</string>
+  </Images>
+  <Latitude>45.520101</Latitude>
+  <Longitude>-123.004091</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

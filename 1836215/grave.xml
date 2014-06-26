@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836215</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna</GivenNames>
+      <FamilyNames>Stevens</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1889</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>James F</GivenNames>
+      <FamilyNames>Stevens</FamilyNames>
+      <BirthYear>1844</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f5b3205ce28815f461d7c5083f13133d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2d9a5242f1de93b2f725b1987b6efdb0.jpg</string>
+  </Images>
+  <Information>Anna: Mother James: Father</Information>
+  <Latitude>45.520669</Latitude>
+  <Longitude>-123.005543</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

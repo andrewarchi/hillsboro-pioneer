@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837759</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Joseph A</GivenNames>
+      <FamilyNames>Follett</FamilyNames>
+      <BirthYear>1852</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary B</GivenNames>
+      <FamilyNames>Follett</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6e159aa8117085271ea1b83a8e55bfb8.jpg</string>
+  </Images>
+  <Information>his wife</Information>
+  <Latitude>45.52061</Latitude>
+  <Longitude>-123.007324</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

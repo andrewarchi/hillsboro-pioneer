@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835042</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Emily M</GivenNames>
+      <FamilyNames>Tongue</FamilyNames>
+      <BirthYear>1848</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/05ec4f3e4b9113501ae0ae27b781c47a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/114f349bf0afd7b8d6f4b857d535a1df.jpg</string>
+  </Images>
+  <Latitude>45.520179</Latitude>
+  <Longitude>-123.003836</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

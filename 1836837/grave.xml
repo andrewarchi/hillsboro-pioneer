@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836837</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lucius H</GivenNames>
+      <FamilyNames>Buell</FamilyNames>
+      <BirthYear>1897</BirthYear>
+      <DeathYear>1950</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Frank L</GivenNames>
+      <FamilyNames>Buell</FamilyNames>
+      <BirthYear>1885</BirthYear>
+      <DeathYear>1967</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5b907c090655e547ad0e9cd58a8a9ec1.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/12b06dbd3e39c1f5b9c4dfbf75780238.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/27c44ee31d29f4027951236a126ca1e6.jpg</string>
+  </Images>
+  <Information>Brother</Information>
+  <Latitude>45.520844</Latitude>
+  <Longitude>-123.006038</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

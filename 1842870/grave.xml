@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842870</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Marie</GivenNames>
+      <FamilyNames>Rasmusen</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Jim</GivenNames>
+      <FamilyNames>Rasmusen</FamilyNames>
+      <BirthYear>1851</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/de96e8dddfa7bb00cc62f6810a887e45.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7e93932f5a94201b8017fe37c5e775f8.jpg</string>
+  </Images>
+  <Latitude>45.520535</Latitude>
+  <Longitude>-123.00594</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

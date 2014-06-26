@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836523</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Emma B</GivenNames>
+      <FamilyNames>Dant</FamilyNames>
+      <BirthYear>1860</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Eugene W</GivenNames>
+      <FamilyNames>Dant</FamilyNames>
+      <BirthYear>1852</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Adrian W</GivenNames>
+      <FamilyNames>Dant</FamilyNames>
+      <BirthYear>1880</BirthYear>
+      <DeathYear>1961</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Elizabeth</GivenNames>
+      <FamilyNames>Dant</FamilyNames>
+      <BirthYear>1889</BirthYear>
+      <DeathYear>1982</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1c06561f40ba4b06e7e8f510be045ef8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b67997d932b88759c3cdf67a6627d3b6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bbacd2e6b3b8a194046bf57db98152ba.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/944ff7461c3197a06721389501f1c302.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ffee63f394d41cc6a1e32bff04363ca0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f8fe2b171e13846eca77884a293c9e30.jpg</string>
+  </Images>
+  <Latitude>45.520511</Latitude>
+  <Longitude>-123.007778</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

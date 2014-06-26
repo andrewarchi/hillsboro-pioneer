@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837421</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jesse H</GivenNames>
+      <FamilyNames>Stevens</FamilyNames>
+      <BirthYear>1902</BirthYear>
+      <DeathYear>1970</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a305b9165660b5c211231cdfa212e11a.jpg</string>
+  </Images>
+  <Information>Son</Information>
+  <Latitude>45.520892</Latitude>
+  <Longitude>-123.004876</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

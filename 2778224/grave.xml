@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778224</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Emily </GivenNames>
+      <FamilyNames>Hutchigs</FamilyNames>
+      <BirthYear>1868</BirthYear>
+      <DeathYear>1895</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7a1a5e0c619fac529b75a718b7948f27.jpg</string>
+  </Images>
+  <Latitude>45.52058</Latitude>
+  <Longitude>-123.004478</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

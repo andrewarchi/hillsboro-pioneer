@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668069</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Vilena E</GivenNames>
+      <FamilyNames>Scholfield</FamilyNames>
+      <BirthYear>1896</BirthYear>
+      <DeathYear>1905</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/55df4029121e7aaf881b76be25004a3a.jpg</string>
+  </Images>
+  <Information>Dau. of W. T. &amp; LaVelle</Information>
+  <Latitude>45.520271</Latitude>
+  <Longitude>-123.005676</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

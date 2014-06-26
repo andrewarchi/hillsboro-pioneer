@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835942</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Savita</GivenNames>
+      <FamilyNames>Motz</FamilyNames>
+      <BirthYear>1875</BirthYear>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7b7dc9a2486f108acc2ace221af3bdc4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7d8036c870cf018828e1b3755ce3fb7a.jpg</string>
+  </Images>
+  <Latitude>45.520615</Latitude>
+  <Longitude>-123.00426</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

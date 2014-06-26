@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837473</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Marley</GivenNames>
+      <FamilyNames>Copeland</FamilyNames>
+      <BirthYear>1900</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ff699b9c4c3af048b18ecac3f4a6dd6b.jpg</string>
+  </Images>
+  <Latitude>45.520702</Latitude>
+  <Longitude>-123.004718</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

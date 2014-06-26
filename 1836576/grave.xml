@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836576</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Wilson</GivenNames>
+      <FamilyNames>Whitmore</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1832</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/53c6de135fbb7815786e22a3260848ae.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/a70facc1e4b406ee964eb627673b4362.jpg</string>
+  </Images>
+  <Latitude>45.520385</Latitude>
+  <Longitude>-123.003972</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

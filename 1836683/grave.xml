@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836683</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frances A Mathews</GivenNames>
+      <FamilyNames>Haxton</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7251b9a715439bfc18da00820897f44b.jpg</string>
+  </Images>
+  <Latitude>45.520678</Latitude>
+  <Longitude>-123.006695</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

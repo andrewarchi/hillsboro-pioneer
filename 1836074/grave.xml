@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836074</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edith Leonora</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1895</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Clarence A</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthDay>5</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1867</BirthYear>
+      <DeathDay>27</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/956abb1018817d8e56119c7de415ff80.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/df051073b2850ef73f332b1dd2bcb5b0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6c1f1226d31db32165436d5eac70d03f.jpg</string>
+  </Images>
+  <Latitude>45.520382</Latitude>
+  <Longitude>-123.00452</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778297</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Martha A</GivenNames>
+      <FamilyNames>Stewart</FamilyNames>
+      <BirthYear />
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1902</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/a819ac95ec2a9d669d9e36b7c778d97a.jpg</string>
+  </Images>
+  <Latitude>45.520553</Latitude>
+  <Longitude>-123.00441</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

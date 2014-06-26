@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779814</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles L</GivenNames>
+      <FamilyNames>Crocker</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/92f4874f03dbe72d3dae165e5fda1576.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d38760bb04975207257a934497322f0b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6c33300c8c8a580a43390de3eebc6cc4.jpg</string>
+  </Images>
+  <Latitude>45.520287</Latitude>
+  <Longitude>-123.004073</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

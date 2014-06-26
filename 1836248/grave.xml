@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836248</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Chauncy L</GivenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <BirthYear>1849</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Sylvanus</GivenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Elizabeth S</GivenNames>
+      <MaidenNames>Parmenter</MaidenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <BirthYear>1852</BirthYear>
+      <DeathYear>1937</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e3770ea3c3f2de3837c820dfb32957f0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d4c713ddef8441dbc67f991a8caecbdc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/86e680db03dbd01bff77333c05f807bf.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0d6f7216ba549ec862876b099e4f88d7.jpg</string>
+  </Images>
+  <Information>Father, Mother, and their Son</Information>
+  <Latitude>45.520442</Latitude>
+  <Longitude>-123.005818</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

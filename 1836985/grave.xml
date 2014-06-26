@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836985</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ralph</GivenNames>
+      <FamilyNames>Wilcox</FamilyNames>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1862</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4b9de1e72e1bc3abe2d7eb98ffe49716.jpg</string>
+  </Images>
+  <Information>Son of Ralph &amp; Julia A. Wilcox</Information>
+  <Latitude>45.520159</Latitude>
+  <Longitude>-123.006037</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

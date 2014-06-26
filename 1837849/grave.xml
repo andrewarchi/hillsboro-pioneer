@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837849</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Amelia Greener</GivenNames>
+      <FamilyNames>Tober</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1866</BirthYear>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1937</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/eecc8fc8b79959d08304117434bf961f.jpg</string>
+  </Images>
+  <Latitude>45.520722</Latitude>
+  <Longitude>-123.005136</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

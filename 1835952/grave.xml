@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835952</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Louie</GivenNames>
+      <FamilyNames>Mueller</FamilyNames>
+      <BirthYear>1874</BirthYear>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/602cfba3627999afcae316fb0a1b881e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/0114b3aeb4ff6a3cf5fd6e1878802d97.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/2d8e127eb568e438d5f406a8a745503f.jpg</string>
+  </Images>
+  <Latitude>45.52044</Latitude>
+  <Longitude>-123.00428</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

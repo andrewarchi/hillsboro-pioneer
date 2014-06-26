@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836408</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>H</GivenNames>
+      <FamilyNames>Patterson</FamilyNames>
+      <BirthDay>13</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1810</BirthYear>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1886</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>G H</GivenNames>
+      <FamilyNames>Patterson</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1810</BirthYear>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1886</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cb7553865b3f07aac79d008b2595b7a5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/80636cbef5fd8778fc7817e0e265eebf.jpg</string>
+  </Images>
+  <Information>In loving rememberance of</Information>
+  <Latitude>45.520126</Latitude>
+  <Longitude>-123.005388</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

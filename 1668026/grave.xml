@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668026</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>CAPT.</Prefix>
+      <GivenNames>Rodolph</GivenNames>
+      <FamilyNames>Crandall</FamilyNames>
+      <BirthYear>1832</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fea887940fccb34d3e6885ca6ac0cd5b.jpg</string>
+  </Images>
+  <Latitude>45.520411</Latitude>
+  <Longitude>-123.005563</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

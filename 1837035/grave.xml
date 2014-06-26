@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837035</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William M</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1816</BirthYear>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1872</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/431cf48fd3b91ade596e68fd0fc3a21f.jpg</string>
+  </Images>
+  <Latitude>45.520308</Latitude>
+  <Longitude>-123.00612</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

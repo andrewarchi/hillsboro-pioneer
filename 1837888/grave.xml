@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837888</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Christena</GivenNames>
+      <FamilyNames>Schlosser</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d4a761bc062f4b81f7b5661a0e9a15ee.jpg</string>
+  </Images>
+  <Latitude>45.52009</Latitude>
+  <Longitude>-123.006676</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

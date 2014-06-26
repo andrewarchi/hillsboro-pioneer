@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668105</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Demarcus C</GivenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1851</BirthYear>
+      <DeathDay>23</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1862</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/342ebb62865bf76b59c11edbc91b0ae4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20131111/5138245.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/f587e92806efca0122f9e819c9a19ac9.jpg</string>
+  </Images>
+  <Latitude>45.520758</Latitude>
+  <Longitude>-123.005694</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

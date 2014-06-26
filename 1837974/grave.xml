@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837974</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alfred W.</GivenNames>
+      <FamilyNames>Mackie</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1874</BirthYear>
+      <DeathDay>14</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/716519f89e06615c61a9ac3a91c136c7.jpg</string>
+  </Images>
+  <Latitude>45.520205</Latitude>
+  <Longitude>-123.007368</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

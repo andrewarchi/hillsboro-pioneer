@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837588</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Agnes C</GivenNames>
+      <FamilyNames>Barrett</FamilyNames>
+      <BirthYear>1886</BirthYear>
+      <DeathYear>1960</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a1a3ade77a00e709558970d0ce9b0e5d.jpg</string>
+  </Images>
+  <Latitude>45.520337</Latitude>
+  <Longitude>-123.005107</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

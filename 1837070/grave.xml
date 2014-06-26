@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837070</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mildred E</GivenNames>
+      <FamilyNames>Spencer</FamilyNames>
+      <BirthYear>1913</BirthYear>
+      <DeathYear>1981</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b4450dba51cca57dae035ecd805cce5e.jpg</string>
+  </Images>
+  <Epitaph>In Loving Memory</Epitaph>
+  <Latitude>45.520878</Latitude>
+  <Longitude>-123.005199</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837121</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lottie</GivenNames>
+      <FamilyNames>Conlee</FamilyNames>
+      <BirthYear>1868</BirthYear>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e8d4a7d802e0938d742787782f62cc25.jpg</string>
+  </Images>
+  <Epitaph>Mother</Epitaph>
+  <Latitude>45.520878</Latitude>
+  <Longitude>-123.005199</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

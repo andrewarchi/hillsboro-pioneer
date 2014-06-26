@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779769</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Eva </GivenNames>
+      <MaidenNames>Wheeler</MaidenNames>
+      <FamilyNames>Kahler</FamilyNames>
+      <BirthYear>1885</BirthYear>
+      <DeathYear>1963</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/6be2bf197d52544a7788eceff567a5be.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/017a923aa93ec590a892ea09f8d68175.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f1b4839c89fd87451a204db222c36fa5.jpg</string>
+  </Images>
+  <Latitude>45.520101</Latitude>
+  <Longitude>-123.004168</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

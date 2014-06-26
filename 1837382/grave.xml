@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837382</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Henry H</GivenNames>
+      <FamilyNames>Fenton</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a094b57ca31b1d9950f64643d0141d34.jpg</string>
+  </Images>
+  <Information>12 Ind L. A.</Information>
+  <Latitude>45.520353</Latitude>
+  <Longitude>-123.004881</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

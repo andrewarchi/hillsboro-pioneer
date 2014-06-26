@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837832</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Emanuel E</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1962</DeathYear>
+      <MarriageDay>20</MarriageDay>
+      <MarriageMonth>Nov</MarriageMonth>
+      <MarriageYear>1903</MarriageYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Amelia</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthYear>1885</BirthYear>
+      <DeathYear>1962</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0ce9c6e48e32dfeceece6c192a82c544.jpg</string>
+  </Images>
+  <Latitude>45.520176</Latitude>
+  <Longitude>-123.007164</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

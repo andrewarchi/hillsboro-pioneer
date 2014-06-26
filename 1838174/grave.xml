@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838174</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Steven</GivenNames>
+      <FamilyNames>Konigan</FamilyNames>
+      <BirthYear>1841</BirthYear>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2f8717302547da4bca8090d0368a451c.jpg</string>
+  </Images>
+  <Latitude>45.520838</Latitude>
+  <Longitude>-123.006543</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

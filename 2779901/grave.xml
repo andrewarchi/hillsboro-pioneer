@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779901</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Henry L</GivenNames>
+      <FamilyNames>Hartrampf</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1884</BirthYear>
+      <DeathDay>13</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1906</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/aa2202a79e15dbf6914e0f79bed1160b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/f9e6a1bc9a549072a041c51f6bee506d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d2404ee44d1d76129a7d1913759d8d5e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a7f84eebf3798c678f2f26e5d7f71806.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/06c34ce1f3a0edf8502ed703b33e832c.jpg</string>
+  </Images>
+  <Information>WOODMAN OF THE WORLD MEMORIAL</Information>
+  <Latitude>45.520322</Latitude>
+  <Longitude>-123.004041</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

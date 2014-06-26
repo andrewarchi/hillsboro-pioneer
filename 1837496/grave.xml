@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837496</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lealah</GivenNames>
+      <FamilyNames>Burtt</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1880</BirthYear>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1965</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e11f36cf3fedcaf26709c665cfc9d2aa.jpg</string>
+  </Images>
+  <Latitude>45.520376</Latitude>
+  <Longitude>-123.004792</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

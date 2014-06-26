@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779784</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Netta</GivenNames>
+      <FamilyNames>Carstens</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/d152433170835c6853544039ba2e0776.jpg</string>
+  </Images>
+  <Information>mother</Information>
+  <Latitude>45.52034</Latitude>
+  <Longitude>-123.004233</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

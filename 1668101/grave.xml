@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668101</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Chester</GivenNames>
+      <FamilyNames>Thing</FamilyNames>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1884</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ef2c19c8a29854f44d9c3593dd7c0dc2.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/5317ccef5be7a023c467c7e856256f7f.jpg</string>
+  </Images>
+  <Information>Corner of tombstone has broken off missing letters on last name Age 3 years</Information>
+  <Latitude>45.520594</Latitude>
+  <Longitude>-123.00571</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

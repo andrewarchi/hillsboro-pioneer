@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838089</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Herman W</GivenNames>
+      <FamilyNames>Prahl</FamilyNames>
+      <BirthYear>1897</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/545a6bf4110ec4abbabe7d45911014a9.jpg</string>
+  </Images>
+  <Latitude>45.52038</Latitude>
+  <Longitude>-123.006393</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

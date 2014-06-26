@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836673</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hans</GivenNames>
+      <FamilyNames>Eichenberger</FamilyNames>
+      <BirthDay>15</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1858</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2eec3178d5517cfd4d616b1747998b3b.jpg</string>
+  </Images>
+  <Information>Born in Berne, Switzerland</Information>
+  <Latitude>45.520814</Latitude>
+  <Longitude>-123.006491</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

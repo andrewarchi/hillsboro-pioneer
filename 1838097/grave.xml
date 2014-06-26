@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838097</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lorenzo</GivenNames>
+      <FamilyNames>Jean</FamilyNames>
+      <BirthYear>1823</BirthYear>
+      <DeathYear>1914</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Nancy</GivenNames>
+      <FamilyNames>Jean</FamilyNames>
+      <BirthYear>1830</BirthYear>
+      <DeathYear>1911</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f3d9f84922ef0b137faecadb8eb9fba2.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/72520eac9b618a0c80d5237130431697.jpg</string>
+  </Images>
+  <Information>NANCY HIS WIFE</Information>
+  <Latitude>45.520717</Latitude>
+  <Longitude>-123.00637</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

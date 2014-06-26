@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838216</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Winey</GivenNames>
+      <FamilyNames>Kelsey</FamilyNames>
+      <BirthDay>4</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1825</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1905</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9669283ef22f5e947ba4529f7a18aed0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/04aed8162e714a52c1a9b76afe75f4be.jpg</string>
+  </Images>
+  <Information>Mother thou art gone to rest Thy memory shall ever be bright Sleep on till the morn of resurection.</Information>
+  <Latitude>45.52032</Latitude>
+  <Longitude>-123.004961</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

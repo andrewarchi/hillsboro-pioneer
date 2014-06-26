@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838391</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Leonard W.</GivenNames>
+      <FamilyNames>Burklund</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1908</BirthYear>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bb21032b3b2008cbc4770b495e170d9c.jpg</string>
+  </Images>
+  <Latitude>45.520846</Latitude>
+  <Longitude>-123.004837</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

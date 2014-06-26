@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837493</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Bertha Ellen</GivenNames>
+      <FamilyNames>Patterson</FamilyNames>
+      <BirthDay>9</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1882</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ed5cbc9ebf8be2d2a6663543ad2c65fe.jpg</string>
+  </Images>
+  <Latitude>45.520389</Latitude>
+  <Longitude>-123.0048</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

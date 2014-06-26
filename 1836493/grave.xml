@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836493</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna</GivenNames>
+      <FamilyNames>Asbahr</FamilyNames>
+      <BirthYear>1866</BirthYear>
+      <DeathYear>1963</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Julius</GivenNames>
+      <FamilyNames>Asbahr</FamilyNames>
+      <BirthYear>1850</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d60bc2d06f6116b007a34a33b17f0180.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/69167d38e82ab6c770996ecfa84f77b2.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/43f30ab95b81fa998ae78c8fa0e35fb1.jpg</string>
+  </Images>
+  <Information>Father Mother</Information>
+  <Latitude>45.520368</Latitude>
+  <Longitude>-123.007735</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

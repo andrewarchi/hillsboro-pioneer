@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837331</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Wesley Ivan</GivenNames>
+      <FamilyNames>Clark</FamilyNames>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1947</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/98616529a23c65264efb30d971b6c35b.jpg</string>
+  </Images>
+  <Latitude>45.520138</Latitude>
+  <Longitude>-123.005018</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

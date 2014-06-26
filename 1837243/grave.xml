@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837243</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Mrs.</Prefix>
+      <GivenNames>Christina</GivenNames>
+      <FamilyNames>Olmstead</FamilyNames>
+      <BirthDay>15</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1823</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3b139da9f97c59300ee1a39557031938.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/87072b9a07c93d4be299665f011095e7.jpg</string>
+  </Images>
+  <Information>Born At Banff, Scotland Died at Hillsboro, Oregon</Information>
+  <Latitude>45.520225</Latitude>
+  <Longitude>-123.006199</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838041</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>H Edna</GivenNames>
+      <FamilyNames>Kilby</FamilyNames>
+      <BirthYear>1896</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8ba62c30e24519f92bb904e31e461d84.jpg</string>
+  </Images>
+  <Latitude>45.520528</Latitude>
+  <Longitude>-123.007274</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

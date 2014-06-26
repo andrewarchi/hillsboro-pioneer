@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837481</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary L</GivenNames>
+      <FamilyNames>Creekpaum</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c4dfcd29d5e6da162c16ff9d4747a6cf.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520603</Latitude>
+  <Longitude>-123.00763</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

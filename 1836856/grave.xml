@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836856</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary L</GivenNames>
+      <FamilyNames>Swanson</FamilyNames>
+      <BirthYear>1903</BirthYear>
+      <DeathYear>1954</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7e35b9a62cdb7727c94f1fe070c70d09.jpg</string>
+  </Images>
+  <Latitude>45.520512</Latitude>
+  <Longitude>-123.005325</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837697</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Martha Althea</GivenNames>
+      <MaidenNames>Lyman</MaidenNames>
+      <FamilyNames>Leith</FamilyNames>
+      <BirthDay>6</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1891</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1976</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/615a927e3e24a2cd96626806d761239d.jpg</string>
+  </Images>
+  <Latitude>45.520573</Latitude>
+  <Longitude>-123.007454</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

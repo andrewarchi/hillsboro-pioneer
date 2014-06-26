@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779910</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hattie B</GivenNames>
+      <FamilyNames>Miller</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1931</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/31907f313ca73c6697b0dd798343431f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/64230004dccfd3e2adffb26b99be7e6d.jpg</string>
+  </Images>
+  <Latitude>45.520077</Latitude>
+  <Longitude>-123.004035</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

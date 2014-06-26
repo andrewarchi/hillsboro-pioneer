@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779743</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mabel Caroline</GivenNames>
+      <FamilyNames>Drummond</FamilyNames>
+      <BirthYear>1901</BirthYear>
+      <DeathYear>1996</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/326eff6b44867f63bd1c993dce6ba299.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/48474a04664def77881451cee46a1843.jpg</string>
+  </Images>
+  <Latitude>45.520646</Latitude>
+  <Longitude>-123.004225</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

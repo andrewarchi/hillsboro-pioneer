@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838412</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mildred C</GivenNames>
+      <MaidenNames>Smoulter</MaidenNames>
+      <FamilyNames>Sherwood</FamilyNames>
+      <BirthDay>2</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1902</BirthYear>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1963</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9011ac3e16027348c5bfc900a0ea6123.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6d431c06733a007ddc983837cbd83798.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/921af178518135ec24ef00cfe8282289.jpg</string>
+  </Images>
+  <Information>Beloved Mother &amp; Grandmother</Information>
+  <Latitude>45.520929</Latitude>
+  <Longitude>-123.004685</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

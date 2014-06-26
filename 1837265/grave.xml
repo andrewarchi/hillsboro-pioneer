@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837265</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Daniel</GivenNames>
+      <FamilyNames>Schmeltzer</FamilyNames>
+      <BirthDay>14</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1833</BirthYear>
+      <DeathDay>23</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary A.</GivenNames>
+      <FamilyNames>Schmeltzer</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1834</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1911</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/34d64e723d506d2c828fad9f6b0dd9eb.jpg</string>
+  </Images>
+  <Latitude>45.5207</Latitude>
+  <Longitude>-123.005038</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

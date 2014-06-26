@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838112</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary J</GivenNames>
+      <FamilyNames>Brandaw</FamilyNames>
+      <BirthYear>1893</BirthYear>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/06157fb37ea6135329f115a38dfeb7c3.jpg</string>
+  </Images>
+  <Latitude>45.520496</Latitude>
+  <Longitude>-123.004979</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

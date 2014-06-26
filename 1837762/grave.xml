@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837762</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James F</GivenNames>
+      <FamilyNames>Dinsmore</FamilyNames>
+      <BirthDay>6</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1912</BirthYear>
+      <DeathDay>13</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>2001</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/365cc2717fda02f0c8497084851f3913.jpg</string>
+  </Images>
+  <Latitude>45.520634</Latitude>
+  <Longitude>-123.00732</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

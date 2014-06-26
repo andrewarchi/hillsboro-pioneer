@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778240</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Grover Clay</GivenNames>
+      <FamilyNames>Huston</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1892</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1892</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/541ddc18608c5a5ae4ffc401790e3dbf.jpg</string>
+  </Images>
+  <Information>Infant Son of S B and Ella</Information>
+  <Latitude>45.520362</Latitude>
+  <Longitude>-123.004464</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

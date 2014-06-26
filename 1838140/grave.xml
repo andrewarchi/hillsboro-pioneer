@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838140</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lillian</GivenNames>
+      <FamilyNames>Fluke</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1912</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/88a4eab1a0d3b3c4da361f0b470b795f.jpg</string>
+  </Images>
+  <Information>Daughter of Has and Lillian Fluke</Information>
+  <Latitude>45.52052</Latitude>
+  <Longitude>-123.006483</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

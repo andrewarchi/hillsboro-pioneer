@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838093</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John J</GivenNames>
+      <FamilyNames>Barngrover</FamilyNames>
+      <BirthYear>1848</BirthYear>
+      <DeathYear>19</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Catherine</GivenNames>
+      <FamilyNames>Barngrover</FamilyNames>
+      <BirthYear>1849</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6c771cde535bae71ceb9f04174b71846.jpg</string>
+  </Images>
+  <Latitude>45.520642</Latitude>
+  <Longitude>-123.006426</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836657</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>W A</GivenNames>
+      <FamilyNames>Rader</FamilyNames>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9325e04d3abbeea880123762c1d161b0.jpg</string>
+  </Images>
+  <Information>Aged 86 yrs</Information>
+  <Latitude>45.520814</Latitude>
+  <Longitude>-123.006491</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

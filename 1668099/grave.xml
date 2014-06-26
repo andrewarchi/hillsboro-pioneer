@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668099</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George M</GivenNames>
+      <FamilyNames>Thing</FamilyNames>
+      <BirthYear>1824</BirthYear>
+      <DeathYear>1898</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Chester</GivenNames>
+      <FamilyNames>Thing</FamilyNames>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1884</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>false</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c8ff4d564bcd52b4c1f207c98cbce7c2.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e402da49e4926db31d83d0d24cdae478.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/25261ae42405dddcaae6aadcc7643ae6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/b1ac144977c51fe47534648bed3efcfe.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20131111/5138250.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20131111/5138252.jpg</string>
+  </Images>
+  <Latitude>45.520562</Latitude>
+  <Longitude>-123.005698</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

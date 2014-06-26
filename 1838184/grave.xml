@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838184</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Emma J</GivenNames>
+      <FamilyNames>Wann</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5701d084927d68938b933183fe3d0e22.jpg</string>
+  </Images>
+  <Latitude>45.520689</Latitude>
+  <Longitude>-123.006551</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

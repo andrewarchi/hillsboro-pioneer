@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836062</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edward Harrison</GivenNames>
+      <MaidenNames />
+      <FamilyNames>Warren</FamilyNames>
+      <BirthDay>16</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1836</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1904</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ruth A</GivenNames>
+      <MaidenNames>Griest</MaidenNames>
+      <FamilyNames>Warren</FamilyNames>
+      <BirthDay>23</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1840</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1901</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2d8507682ee3907e99ae0bba351d6f0b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6a8e545e1366918a12459eac73946f03.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ec373bce3ccfc9ee3efbb4a64899d6ae.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/bf44bebad4c3ba28b6be890c82caa17e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/daa0030d862832b6d2ee04efacfcbef9.jpg</string>
+  </Images>
+  <Latitude>45.520527</Latitude>
+  <Longitude>-123.00462</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

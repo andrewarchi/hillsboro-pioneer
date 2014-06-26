@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838279</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Horst H</GivenNames>
+      <FamilyNames>Dahm</FamilyNames>
+      <BirthDay>13</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1924</BirthYear>
+      <DeathDay>23</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1971</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d080486cec6c4e915be85dff4238adca.jpg</string>
+  </Images>
+  <Latitude>45.520141</Latitude>
+  <Longitude>-123.006744</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

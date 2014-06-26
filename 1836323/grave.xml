@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836323</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mabel Esther</GivenNames>
+      <FamilyNames>Hanson</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1894</BirthYear>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1979</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/09be672ecbef051df34bf362e502fee0.jpg</string>
+  </Images>
+  <Information>Born - Bethany, Ore. Died - Hillsboro, Ore. Historian &amp; Genealogist</Information>
+  <Latitude>45.520662</Latitude>
+  <Longitude>-123.005419</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

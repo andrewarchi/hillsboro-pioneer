@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838203</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Etta B</GivenNames>
+      <FamilyNames>Jones</FamilyNames>
+      <BirthYear>1885</BirthYear>
+      <DeathYear>1985</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/57c2891ac5e8bfaece3086f9eeb7b250.jpg</string>
+  </Images>
+  <Latitude>45.520399</Latitude>
+  <Longitude>-123.006549</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

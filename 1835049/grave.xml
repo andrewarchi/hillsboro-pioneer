@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835049</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elizabeth</GivenNames>
+      <FamilyNames>Tongue Fey</FamilyNames>
+      <BirthYear>1881</BirthYear>
+      <DeathYear>1947</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3ca9addf85c7db6e2acb78a7a46acd5d.jpg</string>
+  </Images>
+  <Latitude>45.520272</Latitude>
+  <Longitude>-123.003783</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

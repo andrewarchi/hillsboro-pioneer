@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2808339</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jesse I</GivenNames>
+      <FamilyNames>Stewart</FamilyNames>
+      <BirthYear>1891</BirthYear>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/ec8e210d1b49d221af8cb4e950598693.jpg</string>
+  </Images>
+  <Latitude>45.520634</Latitude>
+  <Longitude>-123.005685</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

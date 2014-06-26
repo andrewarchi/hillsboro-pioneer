@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837963</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Adolph</GivenNames>
+      <FamilyNames>Malchow</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1936</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Emma</GivenNames>
+      <FamilyNames>Malchow</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/66b0ecf9eb0abc1782ef03211762817f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/db1a3e8968a552ebdb064d54fb7cd33a.jpg</string>
+  </Images>
+  <Latitude>45.520245</Latitude>
+  <Longitude>-123.007621</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

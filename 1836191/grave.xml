@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836191</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John W</GivenNames>
+      <FamilyNames>Leak</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cddb15836f845b70f2424dd65b6a1ea9.jpg</string>
+  </Images>
+  <Latitude>45.520778</Latitude>
+  <Longitude>-123.005802</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

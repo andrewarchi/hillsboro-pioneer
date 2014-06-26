@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779751</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas B</GivenNames>
+      <FamilyNames>Caudle</FamilyNames>
+      <BirthYear>1863</BirthYear>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/6583fea0eb1828180d0e82fc75e5b6ad.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/addb9fe502ec74fcf5b67f6c247157ac.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/487d768a022e9c50d018ec2073f1c6c7.jpg</string>
+  </Images>
+  <Latitude>45.520436</Latitude>
+  <Longitude>-123.00414</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

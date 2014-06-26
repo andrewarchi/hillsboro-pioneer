@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837613</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Roland E</GivenNames>
+      <FamilyNames>Sutherland</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Carrie A</GivenNames>
+      <FamilyNames>Sutherland</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8fa89aef18019deed6a162edbbbee8ba.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ad36bb81079acccd6a1d6de64059ba50.jpg</string>
+  </Images>
+  <Latitude>45.520226</Latitude>
+  <Longitude>-123.007515</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

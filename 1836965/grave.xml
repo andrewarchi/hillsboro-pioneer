@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836965</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nora</GivenNames>
+      <FamilyNames>Reed</FamilyNames>
+      <BirthYear>1875</BirthYear>
+      <DeathYear>1957</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/82fbba4d96cab9f12043a2e27df1a916.jpg</string>
+  </Images>
+  <Latitude>45.520823</Latitude>
+  <Longitude>-123.005252</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

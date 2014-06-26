@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779915</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James H</GivenNames>
+      <FamilyNames>Donaldson</FamilyNames>
+      <BirthYear>1850</BirthYear>
+      <DeathYear>1906</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Carrie M</GivenNames>
+      <FamilyNames>Donaldson</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1906</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ethel L</GivenNames>
+      <FamilyNames>Donaldson</FamilyNames>
+      <BirthYear>1885</BirthYear>
+      <DeathYear>1963</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Rachel A</GivenNames>
+      <FamilyNames>Donaldson</FamilyNames>
+      <BirthYear>1850</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/62d9b99f8cac9879766df5802879751b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/0d68b8132bbd245cdf65b1f3a16d2910.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/504452da3070229ee55eb3ae054f6978.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f78d1f79253d5b3acc5514d44c630f9e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c34dfd77e1a81b24ed525e445c6286ad.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ba29d574b44e8872d11d1ea58f8e7975.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ae26f4f6350dbca3fa155f3d9b0e874e.jpg</string>
+  </Images>
+  <Latitude>45.52011</Latitude>
+  <Longitude>-123.003935</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

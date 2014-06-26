@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>5138217</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Bertha R</GivenNames>
+      <FamilyNames>Tongue</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1966</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Edith T</GivenNames>
+      <FamilyNames>Reames</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary </GivenNames>
+      <MaidenNames>Tongue</MaidenNames>
+      <FamilyNames>Lombard</FamilyNames>
+      <BirthYear>1875</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Elizabeth </GivenNames>
+      <MaidenNames>Fey</MaidenNames>
+      <FamilyNames>Tongue</FamilyNames>
+      <BirthYear>1881</BirthYear>
+      <DeathYear>1947</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Frank Edward</GivenNames>
+      <FamilyNames>Fey</FamilyNames>
+      <BirthYear>1881</BirthYear>
+      <DeathYear>1946</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Florence</GivenNames>
+      <MaidenNames>Tongue</MaidenNames>
+      <FamilyNames>Munger</FamilyNames>
+      <BirthYear>1886</BirthYear>
+      <DeathYear>1983</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3cc6b18f086c71f3fa2745d1ad247220.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/75efe5b91658e89a592f986636edca05.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/0093571997e584d092a5d7cfb84de1f0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/418e0766acd0566927da453f76c832b0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/fc3ea9bda1096243cbbf9f49b48ac894.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/90e6b7e678d183126a7787b1961ce74c.jpg</string>
+  </Images>
+  <Latitude>45.520176</Latitude>
+  <Longitude>-123.003815</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

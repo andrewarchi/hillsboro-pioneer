@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837448</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Daniel T</GivenNames>
+      <FamilyNames>Rhodes</FamilyNames>
+      <BirthYear>1840</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/aeb49ee090f137330fa5c1e96f2ca3cb.jpg</string>
+  </Images>
+  <Information>Father</Information>
+  <Latitude>45.520462</Latitude>
+  <Longitude>-123.0076</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

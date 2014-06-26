@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837868</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hettie A</GivenNames>
+      <FamilyNames>Johnson</FamilyNames>
+      <BirthYear>1873</BirthYear>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b4ac6f87377bd16137753530e7e2a3a2.jpg</string>
+  </Images>
+  <Latitude>45.520515</Latitude>
+  <Longitude>-123.00663</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

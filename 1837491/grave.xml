@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837491</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Orrin A</GivenNames>
+      <FamilyNames>Zimmerman</FamilyNames>
+      <BirthDay>3</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1878</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b7ef14ba41cee8611022cadc3f59593d.jpg</string>
+  </Images>
+  <Latitude>45.520775</Latitude>
+  <Longitude>-123.00749</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

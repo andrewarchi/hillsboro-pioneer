@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838149</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <FamilyNames>Everett</FamilyNames>
+      <BirthYear>1825</BirthYear>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Amelia</GivenNames>
+      <FamilyNames>Everett</FamilyNames>
+      <BirthYear>1839</BirthYear>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1fef1adaa7e5f2dc4ed36315a42e1236.jpg</string>
+  </Images>
+  <Information>Loving Sisters</Information>
+  <Latitude>45.52065</Latitude>
+  <Longitude>-123.006445</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

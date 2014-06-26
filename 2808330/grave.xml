@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2808330</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Willie O</GivenNames>
+      <FamilyNames>Crandall</FamilyNames>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1894</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/97e5eeae9ea7c930e053cb30d2c99bde.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5719cf7b6c9a675924fb8e561cc3319e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/f4a0d109125337d626f1ae2cb0f93152.jpg</string>
+  </Images>
+  <Latitude>45.520637</Latitude>
+  <Longitude>-123.005704</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

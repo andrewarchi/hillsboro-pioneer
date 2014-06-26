@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838202</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edith</GivenNames>
+      <FamilyNames>Weatherford</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f2fd518882751a52dfcf2c8ea324c263.jpg</string>
+  </Images>
+  <Latitude>45.520405</Latitude>
+  <Longitude>-123.006536</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

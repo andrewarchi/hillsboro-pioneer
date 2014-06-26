@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835941</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elie </GivenNames>
+      <FamilyNames>Motz</FamilyNames>
+      <BirthDay>13</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1877</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/65bf343f4b00768b7dcead39d039ed44.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/969f05c0ad1b3d541bbcdee0254cf68d.jpg</string>
+  </Images>
+  <Epitaph>born in hungaria</Epitaph>
+  <Latitude>45.520626</Latitude>
+  <Longitude>-123.004234</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

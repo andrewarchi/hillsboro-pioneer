@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836328</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ellen L.</GivenNames>
+      <FamilyNames>Seiffert</FamilyNames>
+      <BirthDay>5</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1925</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>2009</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ellen L</GivenNames>
+      <FamilyNames>Seiffert</FamilyNames>
+      <BirthDay>5</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1925</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>2009</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>false</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c86770b0ff96a7295e04ac0da85bfab1.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20131111/5138131.jpg</string>
+  </Images>
+  <Latitude>45.520662</Latitude>
+  <Longitude>-123.005419</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836689</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Osee A</GivenNames>
+      <FamilyNames>Rea</FamilyNames>
+      <BirthYear>1857</BirthYear>
+      <DeathYear>1914</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/75fc003658f587103dd1a9e2376864ba.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/5cda67b8f6436f7c47a56c3609280f43.jpg</string>
+  </Images>
+  <Latitude>45.520357</Latitude>
+  <Longitude>-123.004086</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

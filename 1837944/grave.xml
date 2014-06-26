@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837944</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George</GivenNames>
+      <FamilyNames>Lecaros</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1923</BirthYear>
+      <DeathDay>3</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>2005</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Frances</GivenNames>
+      <FamilyNames>Lecaros</FamilyNames>
+      <BirthDay>23</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1925</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>2000</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/24b8f4eb22a20c717d664cb35c64f1a0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/412ba75e6f7ea0bc3d76b7bff96590f9.jpg</string>
+  </Images>
+  <Latitude>45.520206</Latitude>
+  <Longitude>-123.007</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

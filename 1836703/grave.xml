@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836703</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ernest M</GivenNames>
+      <FamilyNames>Vandehey</FamilyNames>
+      <BirthYear>1902</BirthYear>
+      <DeathYear>1974</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Thelma M</GivenNames>
+      <FamilyNames>Vandehey</FamilyNames>
+      <BirthYear>1910</BirthYear>
+      <DeathYear>1995</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/66205cecd0bfdf0b936b671e258b88b3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/42890adf6625c2382117afa90577ddf3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/55bdb700d088be226a60706da8cb76aa.jpg</string>
+  </Images>
+  <Latitude>45.520583</Latitude>
+  <Longitude>-123.006773</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836680</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Houston</GivenNames>
+      <FamilyNames>Waggener</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1885</BirthYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2d82361fc11a73f5f9114a5242cc99e3.jpg</string>
+  </Images>
+  <Information>Aged 3 years, 10 months.</Information>
+  <Latitude>45.520244</Latitude>
+  <Longitude>-123.005369</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

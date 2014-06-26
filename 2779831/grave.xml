@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779831</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Perry E </GivenNames>
+      <FamilyNames>Hughes</FamilyNames>
+      <BirthYear>1874</BirthYear>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/ea31c20388f29536d01c91faa64936bc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/286b2114fa9d6d4677869aca7e181bf4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/46cafb56ba07a946a979be36ee6e05ae.jpg</string>
+  </Images>
+  <Latitude>45.52012</Latitude>
+  <Longitude>-123.00409</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

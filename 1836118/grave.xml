@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836118</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elizabeth A</GivenNames>
+      <FamilyNames>Jack</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Calvin</GivenNames>
+      <FamilyNames>Jack</FamilyNames>
+      <BirthYear>1849</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1f3c5583595c8be72816a51af58a6959.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d10bb69b19869a589fc4c81d8bf398a9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e0c51403bb8e93afc6edf90f7b089b9a.jpg</string>
+  </Images>
+  <Latitude>45.52026</Latitude>
+  <Longitude>-123.00452</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

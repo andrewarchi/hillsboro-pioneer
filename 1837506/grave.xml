@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837506</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ivan H</GivenNames>
+      <FamilyNames>Zimmerman</FamilyNames>
+      <BirthYear>1898</BirthYear>
+      <DeathYear>1963</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4e7450735280ddb1440868521d8bd242.jpg</string>
+  </Images>
+  <Information>And I shall Dwell in the House of the Lord Forever</Information>
+  <Latitude>45.52078</Latitude>
+  <Longitude>-123.00749</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

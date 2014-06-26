@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779509</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Infant Daughter</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/f57f2c7cc2069d11e7e6df0c6cebbae7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4c5fe024b9b1513b6b7101a2ceade85b.jpg</string>
+  </Images>
+  <Information>Infant daughter of Mr and Mrs E C Brown</Information>
+  <Latitude>45.520292</Latitude>
+  <Longitude>-123.004342</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

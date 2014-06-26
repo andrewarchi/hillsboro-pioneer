@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837115</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>M Letitia </GivenNames>
+      <FamilyNames>Simon</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ruben P</GivenNames>
+      <FamilyNames>Simon</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bcdc7d96194a871923f0226e417ab1bb.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/623c1063c95e2b919a0124e15a589c4b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b1c34aafa47283475759b38a8b5008fe.jpg</string>
+  </Images>
+  <Information>Mother, Father</Information>
+  <Latitude>45.520542</Latitude>
+  <Longitude>-123.006093</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

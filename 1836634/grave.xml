@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836634</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elma E</GivenNames>
+      <FamilyNames>Coulter</FamilyNames>
+      <BirthDay>9</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1882</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>James S</GivenNames>
+      <FamilyNames>Coulter</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1849</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Gloria</GivenNames>
+      <FamilyNames>Coulter</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ruoebl</GivenNames>
+      <FamilyNames>Coulter</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Carol</GivenNames>
+      <FamilyNames>Coulter</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f729c104ddd989ee907715b51541f471.jpg</string>
+  </Images>
+  <Latitude>45.520527</Latitude>
+  <Longitude>-123.007572</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

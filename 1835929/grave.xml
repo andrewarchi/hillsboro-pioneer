@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835929</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John Wm</GivenNames>
+      <FamilyNames>Hartrampf</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1846</BirthYear>
+      <DeathDay>31</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cb9e18338f88c2b02098aa5b76696f04.jpg</string>
+  </Images>
+  <Latitude>45.520237</Latitude>
+  <Longitude>-123.0041</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

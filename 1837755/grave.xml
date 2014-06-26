@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837755</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ida Marion</GivenNames>
+      <FamilyNames>Eischen</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1907</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Marzelle M</GivenNames>
+      <FamilyNames>Eischen</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1930</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1931</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8895d02327c48afda582e0e3d35df85e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7e9f5ae48fa0cb0500b1558bf2d66d45.jpg</string>
+  </Images>
+  <Latitude>45.520363</Latitude>
+  <Longitude>-123.007324</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

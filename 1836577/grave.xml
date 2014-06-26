@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836577</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Katherine E</GivenNames>
+      <FamilyNames>Akins</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/177e51dd5b3f9277578e993a06d5ff2f.jpg</string>
+  </Images>
+  <Latitude>45.520628</Latitude>
+  <Longitude>-123.007562</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837403</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Essie M</GivenNames>
+      <FamilyNames>Tupper</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1914</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2b7926537b63d654dbaf8ff13c201128.jpg</string>
+  </Images>
+  <Latitude>45.520658</Latitude>
+  <Longitude>-123.004855</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

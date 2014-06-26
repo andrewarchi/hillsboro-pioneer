@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837366</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jessie A</GivenNames>
+      <FamilyNames>Humphreys</FamilyNames>
+      <BirthYear>1889</BirthYear>
+      <DeathYear>1987</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3996be2457ef011e77245028a859681f.jpg</string>
+  </Images>
+  <Latitude>45.520294</Latitude>
+  <Longitude>-123.004886</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

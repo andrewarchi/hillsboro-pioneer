@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837678</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Walter W</GivenNames>
+      <FamilyNames>Gowin</FamilyNames>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1937</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/062a59f7de3f20769e0ed898003d6dd2.jpg</string>
+  </Images>
+  <Information>Texas Pvt 133 Field Arty 36 Div</Information>
+  <Latitude>45.520767</Latitude>
+  <Longitude>-123.00747</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

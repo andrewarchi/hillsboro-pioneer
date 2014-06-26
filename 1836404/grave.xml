@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836404</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Henry W</GivenNames>
+      <FamilyNames>Hesse</FamilyNames>
+      <BirthYear>1841</BirthYear>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ad45ccef4fec343f76ffc8b568791e30.jpg</string>
+  </Images>
+  <Information>Co. C 15 Mo. Inf. </Information>
+  <Latitude>45.520662</Latitude>
+  <Longitude>-123.005419</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

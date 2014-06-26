@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779838</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Flora</GivenNames>
+      <FamilyNames>Humphreys</FamilyNames>
+      <BirthYear>1874</BirthYear>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/4123c5334ba2ae8763634badd837f164.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/febdee7ac16fd257167eb2e69e89d9ff.jpg</string>
+  </Images>
+  <Information>FLORA WIFE OF JOHN H HUMPHREYS</Information>
+  <Latitude>45.520193</Latitude>
+  <Longitude>-123.004043</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

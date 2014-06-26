@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837460</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robert O</GivenNames>
+      <FamilyNames>Cowie</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1907</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1975</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/870cc321959316b20a77c329d3cea40e.jpg</string>
+  </Images>
+  <Latitude>45.52055</Latitude>
+  <Longitude>-123.00767</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838006</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George O</GivenNames>
+      <FamilyNames>Swart</FamilyNames>
+      <BirthDay>3</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1868</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/72585eb958c5486d28134f82d3e44732.jpg</string>
+  </Images>
+  <Latitude>45.520747</Latitude>
+  <Longitude>-123.007409</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

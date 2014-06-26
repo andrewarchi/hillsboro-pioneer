@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779862</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ralph</GivenNames>
+      <FamilyNames>Jolly</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1881</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1899</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/e4931f33695a71d251d8a4607646b957.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4e8a45aa49fc9df14d29dd69f058d899.jpg</string>
+  </Images>
+  <Information>son of wm b &amp; h e jolly</Information>
+  <Latitude>45.520468</Latitude>
+  <Longitude>-123.004064</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

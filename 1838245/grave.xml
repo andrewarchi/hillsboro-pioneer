@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838245</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Clemmie A.</GivenNames>
+      <FamilyNames>Carter</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b2fe4aa40b47ec4244718140178b1637.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/de43de6f74821a181c99a7440301535f.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520462</Latitude>
+  <Longitude>-123.006719</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

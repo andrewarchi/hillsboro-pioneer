@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837603</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah C</GivenNames>
+      <FamilyNames>Reamy</FamilyNames>
+      <BirthYear>1861</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0b96f5ef573f96823200ba002b3879ff.jpg</string>
+  </Images>
+  <Latitude>45.520799</Latitude>
+  <Longitude>-123.004724</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

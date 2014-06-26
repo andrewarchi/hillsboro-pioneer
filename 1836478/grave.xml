@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836478</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Albert A</GivenNames>
+      <FamilyNames>Hodges</FamilyNames>
+      <BirthYear>1880</BirthYear>
+      <DeathYear>1961</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Lillian</GivenNames>
+      <FamilyNames>Hodges</FamilyNames>
+      <BirthYear>1888</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary Elizabeth</GivenNames>
+      <FamilyNames>Hodges</FamilyNames>
+      <BirthYear>1879</BirthYear>
+      <DeathYear>1968</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e087c9c8758140b5df8dbfcb31ea9eb0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/08e7fb2d4a2a219e2f74c53a10573b7c.jpg</string>
+  </Images>
+  <Latitude>45.52019</Latitude>
+  <Longitude>-123.00792</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

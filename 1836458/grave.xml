@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836458</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frances</GivenNames>
+      <FamilyNames>Jackson</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1843</BirthYear>
+      <DeathDay>27</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1892</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <BirthMonth>Jan</BirthMonth>
+      <DeathMonth>Jan</DeathMonth>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c5cbd17b49c6ffbcbf3e9e29a69d3fbd.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cafae11c1c4e7c04b3d7e2357909c8ce.jpg</string>
+  </Images>
+  <Epitaph>Beloved Wife of P.M. Jackson</Epitaph>
+  <Information>Born Plott Co. Mo. Born Platt Co Mo</Information>
+  <Latitude>45.520764</Latitude>
+  <Longitude>-123.006023</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

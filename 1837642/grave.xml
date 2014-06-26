@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837642</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James C</GivenNames>
+      <FamilyNames>Lamkin</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1846</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary</GivenNames>
+      <MaidenNames>Archbold</MaidenNames>
+      <FamilyNames>Lamkin</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1844</BirthYear>
+      <DeathDay>27</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a69f6c3cb438a5f3c17206aa81a43a22.jpg</string>
+  </Images>
+  <Latitude>45.5201</Latitude>
+  <Longitude>-123.005059</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

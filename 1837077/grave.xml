@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837077</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ella Magruder</GivenNames>
+      <FamilyNames>Braun</FamilyNames>
+      <BirthYear>1902</BirthYear>
+      <DeathYear>1979</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Caroline Pelham Magruder</GivenNames>
+      <FamilyNames>Burt</FamilyNames>
+      <BirthYear>1831</BirthYear>
+      <DeathYear>1900</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837077.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837080.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837088.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837095.jpg</string>
+  </Images>
+  <Latitude>45.520473</Latitude>
+  <Longitude>-123.006115</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837345</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ethel V</GivenNames>
+      <FamilyNames>Deaville</FamilyNames>
+      <BirthYear>1876</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fd28531148662fb0a978ee8015b64023.jpg</string>
+  </Images>
+  <Latitude>45.520107</Latitude>
+  <Longitude>-123.00762</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779866</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frank</GivenNames>
+      <FamilyNames>Dobra</FamilyNames>
+      <BirthYear>1916</BirthYear>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/90b603ba475b2356bd7ee940b9ede3ad.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/244eda68bef632dc67b73217fee403b7.jpg</string>
+  </Images>
+  <Latitude>45.520567</Latitude>
+  <Longitude>-123.004057</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

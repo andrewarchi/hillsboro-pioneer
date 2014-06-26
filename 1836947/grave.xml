@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836947</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Calvin H</GivenNames>
+      <FamilyNames>Adams</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1820</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Catharine J</GivenNames>
+      <FamilyNames>Adams</FamilyNames>
+      <BirthDay>30</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1828</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/038970eeeb9bb6232078ece9b4e56c8b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7f14a7ec0d2b68d83818675933f8d458.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5cc57fca02490f951a7ea6bf931e82db.jpg</string>
+  </Images>
+  <Latitude>45.520286</Latitude>
+  <Longitude>-123.006052</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

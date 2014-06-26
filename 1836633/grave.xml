@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836633</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary A</GivenNames>
+      <FamilyNames>McKinney</FamilyNames>
+      <BirthDay>20</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1841</BirthYear>
+      <DeathDay>14</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1868</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2586e956cf225cbcacd094b339f7b061.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6cad8f06fc0a0de6647b016e6ffeb34b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/aa0a0d612fa72b17e5006bd2798bec22.jpg</string>
+  </Images>
+  <Information>Wife of Chas McKinney</Information>
+  <Latitude>45.520422</Latitude>
+  <Longitude>-123.005756</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

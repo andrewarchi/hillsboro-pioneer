@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837126</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Olof</GivenNames>
+      <FamilyNames>Nordlund</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Sophia</GivenNames>
+      <FamilyNames>Nordlund</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1951</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9d4c5b18fec921550d3bc51c9c48d279.jpg</string>
+  </Images>
+  <Information>Father Mother</Information>
+  <Latitude>45.52018</Latitude>
+  <Longitude>-123.00787</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

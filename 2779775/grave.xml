@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779775</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lucy</GivenNames>
+      <FamilyNames>Saxton</FamilyNames>
+      <BirthYear>1860</BirthYear>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/00a8ebd3d6539b950f3b467b001c4a9b.jpg</string>
+  </Images>
+  <Latitude>45.520101</Latitude>
+  <Longitude>-123.004168</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

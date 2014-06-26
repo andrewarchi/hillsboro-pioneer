@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837219</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Mother</Prefix>
+      <GivenNames>Abbie M</GivenNames>
+      <FamilyNames>Beckwith</FamilyNames>
+      <BirthYear>1838</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <Prefix>Wife</Prefix>
+      <GivenNames>Nellie C</GivenNames>
+      <FamilyNames>Boley</FamilyNames>
+      <BirthYear>1863</BirthYear>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <Prefix>Husband</Prefix>
+      <GivenNames>William F</GivenNames>
+      <FamilyNames>Boley</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1939</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f2374101a90e52ff33f2db547bf4d35f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/57ebb234d097894723a8d51baf4eb5ff.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5ec484455647ffb1a6a50286513019b6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0fac8453a114619c048b9e0bf4d3fd14.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7c8c55bbb5ef9a2e8cdbd5f15204a9fa.jpg</string>
+  </Images>
+  <Latitude>45.520331</Latitude>
+  <Longitude>-123.006252</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

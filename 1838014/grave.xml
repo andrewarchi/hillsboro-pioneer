@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838014</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frank J</GivenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1919</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6220ccbe200479daa9b05b3103c64f64.jpg</string>
+  </Images>
+  <Latitude>45.520773</Latitude>
+  <Longitude>-123.004925</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

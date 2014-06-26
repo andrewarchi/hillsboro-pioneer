@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837723</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>O B </GivenNames>
+      <FamilyNames>Snyder</FamilyNames>
+      <BirthYear>1879</BirthYear>
+      <DeathYear>1956</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fd3d295a42ea78ad5c4a1d64e58acf44.jpg</string>
+  </Images>
+  <Latitude>45.520272</Latitude>
+  <Longitude>-123.005108</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

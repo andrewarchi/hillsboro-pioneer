@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836775</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William Henry </GivenNames>
+      <FamilyNames>Hilts</FamilyNames>
+      <BirthYear>1861</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8c6e8e1e4838766fb0e75516a393ddaf.jpg</string>
+  </Images>
+  <Latitude>45.520292</Latitude>
+  <Longitude>-123.005211</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779846</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah A</GivenNames>
+      <FamilyNames>Daniels</FamilyNames>
+      <BirthYear>1831</BirthYear>
+      <DeathYear>1909</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/e240b5cd884de777f35f5c7808527e76.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/83c721548687d5d8aef558ae73e2c8cb.jpg</string>
+  </Images>
+  <Latitude>45.520276</Latitude>
+  <Longitude>-123.004055</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

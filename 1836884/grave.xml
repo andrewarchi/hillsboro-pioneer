@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836884</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary E</GivenNames>
+      <FamilyNames>Sabin</FamilyNames>
+      <BirthYear>1850</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Aurelous C</GivenNames>
+      <FamilyNames>Sabin</FamilyNames>
+      <BirthYear>1848</BirthYear>
+      <DeathYear>1905</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3ba60a2838e7d223ec927d6d24833205.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6cb63570471af55b2e990049c3fc8528.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c22ddf5f0af0b6ac890d4ef0021a8bc5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ea29a65768c3747809d13c54b27f7ef3.jpg</string>
+  </Images>
+  <Latitude>45.52064</Latitude>
+  <Longitude>-123.005971</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

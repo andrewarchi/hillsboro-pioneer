@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837447</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Peter</GivenNames>
+      <FamilyNames>Pearson</FamilyNames>
+      <BirthYear>1879</BirthYear>
+      <DeathYear>1963</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Elizabeth</GivenNames>
+      <FamilyNames>Pearson</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1955</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Arthur</GivenNames>
+      <FamilyNames>Pearson</FamilyNames>
+      <BirthYear>1914</BirthYear>
+      <DeathYear>1995</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f61c6232ccc9624c1fc72f3993e8d1a7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8f11c2f18e3c8db36869e5c317e367d0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/72ed03943ca57d441477f96b1ae5c509.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/46ddab500d9fba78d475bd6e5737b961.jpg</string>
+  </Images>
+  <Latitude>45.520872</Latitude>
+  <Longitude>-123.004789</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

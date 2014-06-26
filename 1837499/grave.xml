@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837499</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>M L</GivenNames>
+      <FamilyNames>Zimmerman</FamilyNames>
+      <BirthYear>1854</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/13aab078661adbf64b19038c73fbe1f4.jpg</string>
+  </Images>
+  <Latitude>45.52078</Latitude>
+  <Longitude>-123.00749</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

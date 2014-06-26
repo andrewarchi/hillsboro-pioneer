@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836660</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Martha A</GivenNames>
+      <FamilyNames>Coulter</FamilyNames>
+      <BirthYear>1832</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/185d93a3b62bcd69b960def4558af1c9.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520491</Latitude>
+  <Longitude>-123.007636</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

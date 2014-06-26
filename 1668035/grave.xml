@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668035</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nellie</GivenNames>
+      <FamilyNames>Wehrung</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1899</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f61185266ad8294e9c841aae8054ad2e.jpg</string>
+  </Images>
+  <Latitude>45.520295</Latitude>
+  <Longitude>-123.005608</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

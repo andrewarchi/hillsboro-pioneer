@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778496</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sophia A</GivenNames>
+      <FamilyNames>Bowlby</FamilyNames>
+      <BirthYear>1849</BirthYear>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c013548fbf1f9aac943e99542df7626b.jpg</string>
+  </Images>
+  <Latitude>45.520217</Latitude>
+  <Longitude>-123.004238</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

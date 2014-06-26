@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837505</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Claude O</GivenNames>
+      <FamilyNames>Thomas</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1877</BirthYear>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1959</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/113f7f615e3a955aa7ad649a9a374a70.jpg</string>
+  </Images>
+  <Information>Husband</Information>
+  <Latitude>45.520276</Latitude>
+  <Longitude>-123.00476</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

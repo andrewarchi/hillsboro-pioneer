@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837309</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elbridge</GivenNames>
+      <FamilyNames>Cheney</FamilyNames>
+      <BirthYear>1844</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9363229f19477ef62dd7c8eef46bd15a.jpg</string>
+  </Images>
+  <Information>CO. C</Information>
+  <Latitude>45.520397</Latitude>
+  <Longitude>-123.00765</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

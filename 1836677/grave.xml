@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836677</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ella</GivenNames>
+      <FamilyNames>Crocker</FamilyNames>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1883</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b0fa31cebb107574a765aff905986fac.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c8926c163f25d4af49a7f9a70c37df75.jpg</string>
+  </Images>
+  <Information>Daughter of A.T. &amp; M.L. Crocker</Information>
+  <Latitude>45.52033</Latitude>
+  <Longitude>-123.005784</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

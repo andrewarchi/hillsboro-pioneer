@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778357</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William</GivenNames>
+      <FamilyNames>Heywood</FamilyNames>
+      <BirthDay />
+      <BirthYear>1888</BirthYear>
+      <DeathYear>1901</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/59caee01f0a3bce2814bd786e8917c5a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8cc84b3c9cb9dc1aa71e6da04e7a9379.jpg</string>
+  </Images>
+  <Latitude>45.520396</Latitude>
+  <Longitude>-123.004311</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

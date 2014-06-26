@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837865</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dan E</GivenNames>
+      <FamilyNames>Leisly</FamilyNames>
+      <BirthDay>14</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1860</BirthYear>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Nellie A</GivenNames>
+      <FamilyNames>Leisy</FamilyNames>
+      <BirthDay>25</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1863</BirthYear>
+      <DeathDay>13</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2bd0a81627b28a0352ed00c86a5c824b.jpg</string>
+  </Images>
+  <Latitude>45.520584</Latitude>
+  <Longitude>-123.00665</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837556</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Joseph M</GivenNames>
+      <FamilyNames>Brandenberg</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/14b77da2c2ed221c615ea67605cae7f5.jpg</string>
+  </Images>
+  <Information>Born in Zug, Switzerland Father</Information>
+  <Latitude>45.520382</Latitude>
+  <Longitude>-123.00753</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

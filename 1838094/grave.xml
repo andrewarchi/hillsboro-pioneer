@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838094</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James H</GivenNames>
+      <FamilyNames>Watt</FamilyNames>
+      <BirthYear>1937</BirthYear>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1c6baf77eb0faa240843b50f7e4265e8.jpg</string>
+  </Images>
+  <Information>Our Baby</Information>
+  <Latitude>45.520773</Latitude>
+  <Longitude>-123.004925</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

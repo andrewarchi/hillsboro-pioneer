@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836437</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Louise</GivenNames>
+      <FamilyNames>McCamish</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1947</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Henry B</GivenNames>
+      <FamilyNames>McCamish</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1962</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e0b03126615ff78f116b2b00627a6277.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/af142f0fc89c1463f21ef738e6709f9d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/32ff11272b7ef33bc17925fde0a75e01.jpg</string>
+  </Images>
+  <Latitude>45.520536</Latitude>
+  <Longitude>-123.005748</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

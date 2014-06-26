@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836384</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William Wallace</GivenNames>
+      <FamilyNames>Wilson</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1859</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a470b460eb5b7ecbc126df72c4ff45a0.jpg</string>
+  </Images>
+  <Information>Eldest Son of Born at Morristown, Vt</Information>
+  <Latitude>45.520041</Latitude>
+  <Longitude>-123.005366</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779877</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William B</GivenNames>
+      <FamilyNames>Lichtenthaler</FamilyNames>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1875</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3c06e440adb3b1eae5bca6065ba82f01.jpg</string>
+  </Images>
+  <Latitude>45.520553</Latitude>
+  <Longitude>-123.004049</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

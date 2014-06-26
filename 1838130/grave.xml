@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838130</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Glenn</GivenNames>
+      <FamilyNames>Swallen</FamilyNames>
+      <BirthDay>9</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1899</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ef80634d65b1bd0d86a3264a519f1960.jpg</string>
+  </Images>
+  <IsVerified>true</IsVerified>
+</Grave>

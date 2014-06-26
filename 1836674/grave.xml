@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836674</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Phoebe Coulter</GivenNames>
+      <FamilyNames>Cannell</FamilyNames>
+      <BirthYear>1914</BirthYear>
+      <DeathYear>2001</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e820a3501a56c523b1774a2e69146a3c.jpg</string>
+  </Images>
+  <Information>Mother of John James, Sheila, Sharon &amp; Ann</Information>
+  <Latitude>45.520433</Latitude>
+  <Longitude>-123.007615</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

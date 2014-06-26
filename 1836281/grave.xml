@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836281</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles E</GivenNames>
+      <FamilyNames>Streeter</FamilyNames>
+      <BirthYear>1841</BirthYear>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5b650e19b4315508b60763017f4bd3ac.jpg</string>
+  </Images>
+  <Latitude>45.52039</Latitude>
+  <Longitude>-123.005493</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

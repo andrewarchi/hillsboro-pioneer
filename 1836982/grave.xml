@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836982</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ella M</GivenNames>
+      <FamilyNames>Ford</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1889</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ella M</GivenNames>
+      <FamilyNames>Ford</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1889</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ella M</GivenNames>
+      <FamilyNames>Ford</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1889</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/767a6a2bbc7830e7c09161ac4d7ae785.jpg</string>
+  </Images>
+  <Information>2 yrs 2 mos 26 ds</Information>
+  <Latitude>45.520144</Latitude>
+  <Longitude>-123.006071</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

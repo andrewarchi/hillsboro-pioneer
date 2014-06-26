@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837014</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <FamilyNames>Goar</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/19c7694629f97281dfba751c707cd519.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f3dadb62eb808a2d6a4fdba2b5cbf4d4.jpg</string>
+  </Images>
+  <Latitude>45.520559</Latitude>
+  <Longitude>-123.005157</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779896</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>May L</GivenNames>
+      <FamilyNames>Hartrampf</FamilyNames>
+      <BirthYear>1889</BirthYear>
+      <DeathYear>1975</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b8717f171adb5b532f1e73382ca516e4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2babdf8901ec97462999b41f94ace494.jpg</string>
+  </Images>
+  <Latitude>45.520345</Latitude>
+  <Longitude>-123.00408</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836081</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ruth</GivenNames>
+      <FamilyNames>Burgett</FamilyNames>
+      <BirthYear>1857</BirthYear>
+      <DeathYear>1919</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Albert</GivenNames>
+      <FamilyNames>Burgett</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/79aa49ef856b18ec2a6902b322e3d86f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/05f5a2fcf408304221b13f92e2a9891e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/dfa2596e7168e2f19f79003740ab58f2.jpg</string>
+  </Images>
+  <Latitude>45.520393</Latitude>
+  <Longitude>-123.004524</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

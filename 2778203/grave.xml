@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778203</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>G A</GivenNames>
+      <FamilyNames>Geyer</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1822</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1901</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/64165572d7e68d3005d588e283e014f2.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/aef9b79054800f3a50065c724bf3c074.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5b016e26e2fba4b85dc093f250051ee1.jpg</string>
+  </Images>
+  <Latitude>45.520804</Latitude>
+  <Longitude>-123.004519</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

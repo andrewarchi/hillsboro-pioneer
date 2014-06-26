@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837427</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ethel G</GivenNames>
+      <FamilyNames>Palmer</FamilyNames>
+      <BirthYear>1907</BirthYear>
+      <DeathYear>1975</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7dbc0ac969160283cfd66e66001556f0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3cc591f277b5ee181a477982f6539f48.jpg</string>
+  </Images>
+  <Latitude>45.52093</Latitude>
+  <Longitude>-123.004878</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

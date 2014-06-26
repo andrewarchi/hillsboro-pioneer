@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838401</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Albert C.</GivenNames>
+      <FamilyNames>Parks</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <DeathYear>1955</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9dc9e207a05b778bb720554af4a73b2e.jpg</string>
+  </Images>
+  <Latitude>45.520876</Latitude>
+  <Longitude>-123.004926</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

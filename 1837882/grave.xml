@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837882</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Wilfred</GivenNames>
+      <FamilyNames>Langbecker</FamilyNames>
+      <DeathDay>25</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/89f46d4fedc1b92a60f8c5848ddd812c.jpg</string>
+  </Images>
+  <Information>Infant son of Roland and Caroline</Information>
+  <Latitude>45.52029</Latitude>
+  <Longitude>-123.00667</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

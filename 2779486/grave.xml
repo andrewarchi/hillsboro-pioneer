@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779486</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Samuel</GivenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1833</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1898</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7f5c6b6a4fa4b224283916926a2d998a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/9ba1039a3c826ee68daf270d7c1fb9ed.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/847678dbc563a72c2913ae86df1ae79b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/d81171207f16de5458e1c3890caba734.jpg</string>
+  </Images>
+  <Epitaph>REST IN PEACE</Epitaph>
+  <Information>OREGON PIONEER 1841 YAKIMA INDIAN WAR VETERAN 1855-1856</Information>
+  <Latitude>45.520248</Latitude>
+  <Longitude>-123.004325</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

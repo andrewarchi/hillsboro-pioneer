@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668094</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Loretta</GivenNames>
+      <FamilyNames>Shade</FamilyNames>
+      <BirthYear>1854</BirthYear>
+      <DeathYear>1914</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f8deca05b237669499706f6c58e8a5ff.jpg</string>
+  </Images>
+  <Latitude>45.520506</Latitude>
+  <Longitude>-123.005656</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837211</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>King S</GivenNames>
+      <FamilyNames>Whitlow</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1841</BirthYear>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1890</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5bec4c7011f331a18e7cce90e37bc61e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b4197483235601c0ed7279e26541aad7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/69765526a3e62ac76dd3e1df73233959.jpg</string>
+  </Images>
+  <Information>Son of K.S. &amp; C.M. Whitlow</Information>
+  <Latitude>45.520333</Latitude>
+  <Longitude>-123.006173</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

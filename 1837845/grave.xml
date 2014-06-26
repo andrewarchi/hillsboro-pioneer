@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837845</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Rudolph A</GivenNames>
+      <FamilyNames>Greener</FamilyNames>
+      <BirthDay>18</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1903</BirthYear>
+      <DeathDay>7</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6002f1dc4601175a31b1875c5047be52.jpg</string>
+  </Images>
+  <Latitude>45.520722</Latitude>
+  <Longitude>-123.005136</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

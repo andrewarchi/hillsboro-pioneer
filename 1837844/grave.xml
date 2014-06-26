@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837844</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edgar H</GivenNames>
+      <FamilyNames>Kiepke</FamilyNames>
+      <BirthYear>1909</BirthYear>
+      <DeathYear>1988</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c73e3d06faa800c3b5767ac14609b3ca.jpg</string>
+  </Images>
+  <Information>US Army</Information>
+  <Latitude>45.5204</Latitude>
+  <Longitude>-123.00717</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

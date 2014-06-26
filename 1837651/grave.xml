@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837651</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary O</GivenNames>
+      <MaidenNames>Murphy</MaidenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1968</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3b63bc201214072d37f87a41676db3dd.jpg</string>
+  </Images>
+  <Latitude>45.520447</Latitude>
+  <Longitude>-123.00751</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

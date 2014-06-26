@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838032</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robert Leo</GivenNames>
+      <FamilyNames>Turner</FamilyNames>
+      <BirthDay>14</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1927</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9e1fcdf76fa75c84299997698a994201.jpg</string>
+  </Images>
+  <Information>Beloved son of Robert &amp; Leona Turner</Information>
+  <Latitude>45.520684</Latitude>
+  <Longitude>-123.007251</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

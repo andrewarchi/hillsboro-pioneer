@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837424</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jenny M</GivenNames>
+      <FamilyNames>Wands</FamilyNames>
+      <BirthYear>1876</BirthYear>
+      <DeathYear>1970</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/173d184a1bab4eebd80f901a4d7b22d5.jpg</string>
+  </Images>
+  <Latitude>45.520908</Latitude>
+  <Longitude>-123.004875</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837912</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Darrel Ralph</GivenNames>
+      <FamilyNames>Scott</FamilyNames>
+      <BirthDay>8</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1930</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2e6d5863ffecabc36511fb43ce226eba.jpg</string>
+  </Images>
+  <Latitude>45.520477</Latitude>
+  <Longitude>-123.00692</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

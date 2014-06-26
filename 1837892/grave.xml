@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837892</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James A</GivenNames>
+      <FamilyNames>Gann</FamilyNames>
+      <BirthYear>1875</BirthYear>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/163d8f2b8fb66d6838d8643a36fdf15b.jpg</string>
+  </Images>
+  <Latitude>45.520153</Latitude>
+  <Longitude>-123.006874</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

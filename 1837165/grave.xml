@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837165</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Henry T</GivenNames>
+      <FamilyNames>Latham</FamilyNames>
+      <BirthYear>1850</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e2c95527309ec9384b434bb39131f026.jpg</string>
+  </Images>
+  <Information>Daddy</Information>
+  <Latitude>45.520247</Latitude>
+  <Longitude>-123.005092</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

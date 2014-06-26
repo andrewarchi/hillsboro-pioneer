@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837510</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Blanche W</GivenNames>
+      <FamilyNames>Olsen</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1886</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1904</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d7876b0b1a04181ca6f9bce8291f310c.jpg</string>
+  </Images>
+  <Latitude>45.520237</Latitude>
+  <Longitude>-123.004756</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

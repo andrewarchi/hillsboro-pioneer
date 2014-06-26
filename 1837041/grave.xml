@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837041</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Clarence S</GivenNames>
+      <FamilyNames>Nelson</FamilyNames>
+      <BirthDay>27</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1894</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/37c38a138df39cf6e6b8ef3daa4f514d.jpg</string>
+  </Images>
+  <Latitude>45.520203</Latitude>
+  <Longitude>-123.00787</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

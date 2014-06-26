@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837125</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Henry D</GivenNames>
+      <FamilyNames>Schmeltzer</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8ca1804428c936923eb89ef10472a57b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/baf80e54a9d0188ba1ae8b380dbb9a6f.jpg</string>
+  </Images>
+  <Latitude>45.520272</Latitude>
+  <Longitude>-123.003958</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

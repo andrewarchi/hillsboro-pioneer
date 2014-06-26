@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836828</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Glen A</GivenNames>
+      <FamilyNames>Knox</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1978</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Edna</GivenNames>
+      <FamilyNames>Knox</FamilyNames>
+      <BirthYear>1895</BirthYear>
+      <DeathYear>1970</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/be7eb2718f2e04784b2dec981157ea48.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/43f716a01c8c66442e0e59df3cf1c772.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/53941f014c6e4076ae78b1ecee4b2b15.jpg</string>
+  </Images>
+  <Latitude>45.520869</Latitude>
+  <Longitude>-123.005874</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

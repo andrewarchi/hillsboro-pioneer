@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837965</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Gidson C</GivenNames>
+      <FamilyNames>Hickey</FamilyNames>
+      <DeathDay>31</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1921</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/437067c38c76ce67e78d364f07ca2627.jpg</string>
+  </Images>
+  <Information>Oregon, Pvt, 63 Coart Art Corps</Information>
+  <Latitude>45.520135</Latitude>
+  <Longitude>-123.007634</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

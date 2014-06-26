@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2808354</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Myrtle</GivenNames>
+      <FamilyNames>Beauchamp</FamilyNames>
+      <BirthYear>1880</BirthYear>
+      <DeathYear>1900</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Wieldon</GivenNames>
+      <FamilyNames>Beauchamp</FamilyNames>
+      <BirthYear>1900</BirthYear>
+      <DeathYear>1900</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Tildon</GivenNames>
+      <FamilyNames>Beauchamp</FamilyNames>
+      <BirthYear>1900</BirthYear>
+      <DeathYear>1900</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/ab13a5e4a03c53d3afc8dc9dde8af510.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83099/66cb43e30a5b2e454da62ce0f56dac68.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f5790c4673263c0abee84a472e31c14b.jpg</string>
+  </Images>
+  <Information>Twin Sons, Wieldon &amp; Tildon</Information>
+  <Latitude>45.520581</Latitude>
+  <Longitude>-123.005655</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

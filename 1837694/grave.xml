@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837694</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah E</GivenNames>
+      <MaidenNames>Phillips</MaidenNames>
+      <FamilyNames>Ives</FamilyNames>
+      <BirthDay>3</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1854</BirthYear>
+      <DeathDay>28</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1919</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>F Alves</GivenNames>
+      <FamilyNames>Phillips</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d30596cfad7973ff828d320c6c3cae42.jpg</string>
+  </Images>
+  <Latitude>45.520223</Latitude>
+  <Longitude>-123.005042</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

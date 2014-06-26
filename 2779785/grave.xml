@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779785</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Arlie</GivenNames>
+      <FamilyNames>Carstens</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1895</BirthYear>
+      <DeathDay>31</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1896</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/0f3b09104fd049f09df6189001bd1a48.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3c52a22159086bcd12e96add0e9cb4f7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7e1a2fdc9c2ff38482bdf4ddba0ad9dd.jpg</string>
+  </Images>
+  <Latitude>45.52034</Latitude>
+  <Longitude>-123.004233</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

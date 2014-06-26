@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837433</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Rose E</GivenNames>
+      <FamilyNames>Stewart</FamilyNames>
+      <BirthYear>1903</BirthYear>
+      <DeathYear>1978</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/602c110f466001a3e540f2848d8a921b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/a34934093ca05f528ab151c9d55719ab.jpg</string>
+  </Images>
+  <Information>Beloved Mother</Information>
+  <Latitude>45.520986</Latitude>
+  <Longitude>-123.004907</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

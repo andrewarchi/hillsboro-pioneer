@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838095</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Eva Barngrover</GivenNames>
+      <FamilyNames>Faust</FamilyNames>
+      <BirthDay>14</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1883</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/002f1af38c399c917300dac7ed48de2e.jpg</string>
+  </Images>
+  <Latitude>45.52069</Latitude>
+  <Longitude>-123.006361</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

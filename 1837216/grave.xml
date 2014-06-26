@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837216</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Evora</GivenNames>
+      <FamilyNames>Gray</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ece5aea8484a782b26bc6fc5bb63e4d3.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520625</Latitude>
+  <Longitude>-123.005069</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

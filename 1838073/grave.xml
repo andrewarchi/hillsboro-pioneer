@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838073</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna O</GivenNames>
+      <FamilyNames>Nord</FamilyNames>
+      <BirthDay>5</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1830</BirthYear>
+      <DeathDay>25</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1b8763b2d9fa1c6e9c6cf10a2b6596a9.jpg</string>
+  </Images>
+  <Latitude>45.520158</Latitude>
+  <Longitude>-123.006394</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

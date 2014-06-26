@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842873</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John L</GivenNames>
+      <FamilyNames>Cook</FamilyNames>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1881</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4157a029ae84e46035ed973d741b3568.jpg</string>
+  </Images>
+  <Information>Son of A.R. &amp; T. Cook</Information>
+  <Latitude>45.520573</Latitude>
+  <Longitude>-123.00595</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

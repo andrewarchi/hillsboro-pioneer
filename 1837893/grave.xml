@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837893</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lyle D</GivenNames>
+      <FamilyNames>Leinan</FamilyNames>
+      <BirthDay>20</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1934</BirthYear>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a2fc97203aaacffcda27e5a742c45dd3.jpg</string>
+  </Images>
+  <Latitude>45.52016</Latitude>
+  <Longitude>-123.00688</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

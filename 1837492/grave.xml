@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837492</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Richard K.</GivenNames>
+      <FamilyNames>Patterson</FamilyNames>
+      <BirthDay>2</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1928</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5c9fbbe75f1d06469ac1bded210b2416.jpg</string>
+  </Images>
+  <Latitude>45.520391</Latitude>
+  <Longitude>-123.004802</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

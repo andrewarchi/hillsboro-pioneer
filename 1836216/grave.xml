@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836216</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>J B</GivenNames>
+      <FamilyNames>Elliott</FamilyNames>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1887</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/61c9239ea60eb3c46a5b3a7121363fcb.jpg</string>
+  </Images>
+  <Information>Born at Randolph, Portage Co, O, Aged 50 ys, 4 ms, 25 ds, Erected by his wife Mary E. Elliott</Information>
+  <Latitude>45.520579</Latitude>
+  <Longitude>-123.005816</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838423</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Rufus K</GivenNames>
+      <FamilyNames>Bailey</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1837</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1909</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Eliza M</GivenNames>
+      <FamilyNames>Bailey</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1838</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1909</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/70d3e54f4a6a30aff6533c50f7cb2efb.jpg</string>
+  </Images>
+  <Latitude>45.520824</Latitude>
+  <Longitude>-123.004642</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

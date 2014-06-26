@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779864</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William S</GivenNames>
+      <FamilyNames>Jolly</FamilyNames>
+      <Suffix>Sr</Suffix>
+      <BirthDay>9</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1781</BirthYear>
+      <DeathDay>31</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1862</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/d04e4f5d67739b28b7b846d084bf616c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ba6dda886ff5f13e041d3e76b99cd99d.jpg</string>
+  </Images>
+  <Latitude>45.520567</Latitude>
+  <Longitude>-123.004057</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

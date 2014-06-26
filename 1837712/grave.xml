@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837712</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna Cassady</GivenNames>
+      <FamilyNames>Adams</FamilyNames>
+      <BirthDay>8</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1845</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4f5a162142ba8a5806507f1cf8b5e18c.jpg</string>
+  </Images>
+  <Latitude>45.52036</Latitude>
+  <Longitude>-123.007454</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

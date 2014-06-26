@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779848</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Minnie A</GivenNames>
+      <FamilyNames>Bowman</FamilyNames>
+      <BirthYear>1874</BirthYear>
+      <DeathYear>1961</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/df8e2a380ea0d7ea2da6d070aa4d1c24.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9a6f27e3fdec14bc74e3c824af4b5455.jpg</string>
+  </Images>
+  <Latitude>45.520276</Latitude>
+  <Longitude>-123.004055</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

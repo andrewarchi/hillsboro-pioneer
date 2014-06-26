@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836351</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mae</GivenNames>
+      <FamilyNames>Chartrey</FamilyNames>
+      <BirthYear>1881</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b2e279d3924f0f068d366d29b27c4f3d.jpg</string>
+  </Images>
+  <Latitude>45.520176</Latitude>
+  <Longitude>-123.00801</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

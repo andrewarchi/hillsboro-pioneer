@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837185</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Paul J A</GivenNames>
+      <FamilyNames>Henschke</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1860</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bbff07ee77b348a9cb0915c4e3022113.jpg</string>
+  </Images>
+  <Latitude>45.520667</Latitude>
+  <Longitude>-123.006169</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

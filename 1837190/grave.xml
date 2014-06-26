@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837190</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ane</GivenNames>
+      <FamilyNames>Jorstad</FamilyNames>
+      <BirthYear>1807</BirthYear>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ddfb18f8972a6c649fedcc0147f13502.jpg</string>
+  </Images>
+  <Latitude>45.520646</Latitude>
+  <Longitude>-123.006183</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

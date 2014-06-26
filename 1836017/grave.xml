@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836017</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Father</Prefix>
+      <GivenNames>Samuel</GivenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1833</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1898</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <Prefix>Mother</Prefix>
+      <GivenNames>Annaliza</GivenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1839</BirthYear>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1905</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4302d65df6283c03946e8f27312778e2.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9c2c6d6d66adb96abb657d8ba0614d74.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a3665998997abf35aab78cf4fa62acc5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c822c6bdc86db91198b50259c06992e3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/59384153181d08d4277efeea22574513.jpg</string>
+  </Images>
+  <Epitaph>Oregon Pioneer 1841</Epitaph>
+  <Information>Yakima Indian War Veteran 1855-56 Rest in Peace</Information>
+  <Latitude>45.520332</Latitude>
+  <Longitude>-123.0044</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

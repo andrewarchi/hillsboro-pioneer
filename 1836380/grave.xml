@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836380</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jennie A</GivenNames>
+      <FamilyNames>Haskins</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John C</GivenNames>
+      <FamilyNames>Haskins</FamilyNames>
+      <BirthYear>1879</BirthYear>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/536104e490519fab05d5290f07e40f1f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8cf557c3032dbd496bf488d05a6f602f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d892ac20300e9dee31fcadd28d31dbc3.jpg</string>
+  </Images>
+  <Latitude>45.520095</Latitude>
+  <Longitude>-123.007132</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

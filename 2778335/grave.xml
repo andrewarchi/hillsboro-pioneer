@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778335</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William D</GivenNames>
+      <FamilyNames>Smith</FamilyNames>
+      <BirthDay>13</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1860</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>William D.</GivenNames>
+      <FamilyNames>Smith</FamilyNames>
+      <BirthDay>13</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1860</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/35fb447fd2ee041def2146505aa01444.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/4dfb3d6ae9d0e3d14fcc4dc0712ed9bd.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/23860515c16a873d23be659956de4860.jpg</string>
+  </Images>
+  <Latitude>45.520578</Latitude>
+  <Longitude>-123.004407</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

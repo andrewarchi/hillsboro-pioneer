@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837071</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Mrs</Prefix>
+      <GivenNames>Marian E</GivenNames>
+      <FamilyNames>Butler</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1967</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/06722fcf92011b9f3f41872828d15bf1.jpg</string>
+  </Images>
+  <Information>Wife</Information>
+  <Latitude>45.520351</Latitude>
+  <Longitude>-123.005153</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

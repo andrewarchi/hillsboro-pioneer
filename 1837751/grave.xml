@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837751</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Irma</GivenNames>
+      <FamilyNames>Adkins</FamilyNames>
+      <BirthYear>1895</BirthYear>
+      <DeathYear>1944</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Leonie</GivenNames>
+      <FamilyNames>Adkins</FamilyNames>
+      <BirthYear>1894</BirthYear>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/38842e86236289aa0b866607e3b0e529.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7acc8f43184b69ae5c6df54cf75cee14.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/be1d3a0ce9af9e084e6b3b7362f50f31.jpg</string>
+  </Images>
+  <Latitude>45.520363</Latitude>
+  <Longitude>-123.007324</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>5138120</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas E</GivenNames>
+      <FamilyNames>Corelius</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20131111/5138120.jpg</string>
+  </Images>
+  <Latitude>45.520832</Latitude>
+  <Longitude>-123.00556</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

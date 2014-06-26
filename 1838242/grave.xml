@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838242</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alma</GivenNames>
+      <FamilyNames>Radditz</FamilyNames>
+      <BirthYear>1897</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b3af32e3b546a561a5b6ff0f0104c767.jpg</string>
+  </Images>
+  <Latitude>45.520421</Latitude>
+  <Longitude>-123.006689</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

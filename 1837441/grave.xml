@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837441</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Voorhees E</GivenNames>
+      <FamilyNames>Edwards</FamilyNames>
+      <BirthYear>1887</BirthYear>
+      <DeathYear>1960</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Minnie M.</GivenNames>
+      <FamilyNames>Edwards</FamilyNames>
+      <BirthYear>1902</BirthYear>
+      <DeathYear>1989</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/65db5e484938c6d8aa137ac09808b63e.jpg</string>
+  </Images>
+  <Latitude>45.520932</Latitude>
+  <Longitude>-123.004794</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

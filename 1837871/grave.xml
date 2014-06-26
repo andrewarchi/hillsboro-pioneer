@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837871</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary F</GivenNames>
+      <FamilyNames>Vedder</FamilyNames>
+      <BirthYear>1842</BirthYear>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary F</GivenNames>
+      <FamilyNames>Vedder</FamilyNames>
+      <BirthYear>1842</BirthYear>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a5a29fc5059c00633843c2aa74f35cad.jpg</string>
+  </Images>
+  <Latitude>45.520515</Latitude>
+  <Longitude>-123.00663</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

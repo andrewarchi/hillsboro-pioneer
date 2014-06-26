@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836563</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Benjamin K</GivenNames>
+      <FamilyNames>Haines</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/30665f906327a7c7539e7db2cbe06d3e.jpg</string>
+  </Images>
+  <Latitude>45.520669</Latitude>
+  <Longitude>-123.006476</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

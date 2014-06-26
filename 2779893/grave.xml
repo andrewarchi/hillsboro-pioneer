@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779893</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas Haden</GivenNames>
+      <FamilyNames>Elliott</FamilyNames>
+      <Suffix>Jr</Suffix>
+      <BirthYear>1891</BirthYear>
+      <DeathYear>1973</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/f5da517d4c36618947f35036771e9a4c.jpg</string>
+  </Images>
+  <Latitude>45.520345</Latitude>
+  <Longitude>-123.00408</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

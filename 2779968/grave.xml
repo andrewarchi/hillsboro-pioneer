@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779968</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lucinda</GivenNames>
+      <FamilyNames>Cota</FamilyNames>
+      <BirthDay>23</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1846</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/14215b720f2e37d07dace11f149c8ebc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/40e322b049b45bff867254040975d9c1.jpg</string>
+  </Images>
+  <Information>Wife of Francis Cota</Information>
+  <Latitude>45.520239</Latitude>
+  <Longitude>-123.003936</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

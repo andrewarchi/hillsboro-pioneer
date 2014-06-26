@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838153</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edward W</GivenNames>
+      <FamilyNames>Moore</FamilyNames>
+      <BirthYear>1861</BirthYear>
+      <DeathYear>1950</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Carrie L</GivenNames>
+      <FamilyNames>Moore</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1966</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f79e2d7e881ac0247620ac674a0ece5b.jpg</string>
+  </Images>
+  <Latitude>45.520496</Latitude>
+  <Longitude>-123.004979</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

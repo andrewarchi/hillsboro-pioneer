@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778277</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah A</GivenNames>
+      <FamilyNames>Leverich</FamilyNames>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1893</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/a23b17c01d445d1b786d3eec9c556176.jpg</string>
+  </Images>
+  <Information>Wife of Wm Leverich Died Sept. 24, 1893 Aged 67 Y's, 10 M's &amp; 22 D's</Information>
+  <Latitude>45.520319</Latitude>
+  <Longitude>-123.004483</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

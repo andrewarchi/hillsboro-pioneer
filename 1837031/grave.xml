@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837031</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James E</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthDay>5</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1866</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1871</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837031.jpg</string>
+  </Images>
+  <Latitude>45.520269</Latitude>
+  <Longitude>-123.006132</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

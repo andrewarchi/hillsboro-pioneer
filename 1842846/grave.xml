@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842846</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hannah M</GivenNames>
+      <FamilyNames>Krueger</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/94988cc0000fa3acc084d88845589a85.jpg</string>
+  </Images>
+  <Latitude>45.520153</Latitude>
+  <Longitude>-123.00606</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842823</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Rev.</Prefix>
+      <GivenNames>John Smith</GivenNames>
+      <FamilyNames>Griffin</FamilyNames>
+      <BirthDay>23</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1807</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1899</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e607568ba1a5c58cfb0dbe36cb9001df.jpg</string>
+  </Images>
+  <Information>Born in Castleton, Vermont</Information>
+  <Latitude>45.520386</Latitude>
+  <Longitude>-123.0059</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

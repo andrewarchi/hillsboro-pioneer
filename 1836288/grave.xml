@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836288</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Dr</Prefix>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Vite</FamilyNames>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1876</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7e4900bd9f64c11c20a254bba7365512.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/caad04152119b7135162fdac478aed75.jpg</string>
+  </Images>
+  <Latitude>45.520329</Latitude>
+  <Longitude>-123.005531</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

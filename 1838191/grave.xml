@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838191</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Solomon</GivenNames>
+      <FamilyNames>Hays</FamilyNames>
+      <BirthDay>18</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1839</BirthYear>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Catherine</GivenNames>
+      <FamilyNames>Hays</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1850</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cd7d472e94cf1ef4990ef93befa433b7.jpg</string>
+  </Images>
+  <Latitude>45.520535</Latitude>
+  <Longitude>-123.0066</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

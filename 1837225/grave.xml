@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837225</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna N</GivenNames>
+      <FamilyNames>West</FamilyNames>
+      <BirthYear>1892</BirthYear>
+      <DeathYear>1971</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f16d5a0416ea4fec4b1e076dc4d7bfab.jpg</string>
+  </Images>
+  <Latitude>45.52081</Latitude>
+  <Longitude>-123.005066</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842817</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Annie T</GivenNames>
+      <FamilyNames>Bunker</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1839</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1878</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>F A</GivenNames>
+      <FamilyNames>Bunker</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a28de71074c359fd4722b7d374505116.jpg</string>
+  </Images>
+  <Latitude>45.520615</Latitude>
+  <Longitude>-123.0058</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

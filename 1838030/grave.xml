@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838030</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Eugene H</GivenNames>
+      <FamilyNames>Gillenwater</FamilyNames>
+      <BirthYear>1920</BirthYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Elizabeth H</GivenNames>
+      <MaidenNames>Boeckli</MaidenNames>
+      <FamilyNames>Gillenwater</FamilyNames>
+      <BirthYear>1920</BirthYear>
+      <DeathYear>2009</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/10f3074e50f709e4e715e1202465dc44.jpg</string>
+  </Images>
+  <Latitude>45.520721</Latitude>
+  <Longitude>-123.007252</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

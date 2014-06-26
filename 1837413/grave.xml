@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837413</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Gertrude</GivenNames>
+      <FamilyNames>Adkinson</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1972</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/33b24ba71134b95a528853e6a8c6fa4e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/edfeee3b729b23bc05474a34b5026802.jpg</string>
+  </Images>
+  <Latitude>45.520892</Latitude>
+  <Longitude>-123.004876</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

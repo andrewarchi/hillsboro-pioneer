@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837715</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mable F.</GivenNames>
+      <FamilyNames>Kerr</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1894</BirthYear>
+      <DeathDay>27</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b47450a88f882444ad942e1072b0f369.jpg</string>
+  </Images>
+  <Information>Wife of J.L. Kerr</Information>
+  <Latitude>45.520224</Latitude>
+  <Longitude>-123.00515</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

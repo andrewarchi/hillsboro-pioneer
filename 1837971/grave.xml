@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837971</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Israel J</GivenNames>
+      <FamilyNames>Bigelow</FamilyNames>
+      <BirthDay>15</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1851</BirthYear>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9e5dcd68e8fbf903090b2e3cbb07ff53.jpg</string>
+  </Images>
+  <Information>I know that my Redeemer liveth</Information>
+  <Latitude>45.520773</Latitude>
+  <Longitude>-123.004925</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

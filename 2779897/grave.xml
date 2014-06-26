@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779897</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <FamilyNames>Hartrampf</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/9525613c1cda246550ba1bf6c55787bb.jpg</string>
+  </Images>
+  <Latitude>45.520345</Latitude>
+  <Longitude>-123.00408</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836886</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frank A</GivenNames>
+      <FamilyNames>Williams</FamilyNames>
+      <BirthDay>30</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1884</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1887</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/08bf5fc20199d80f8987dbc9a4fab059.jpg</string>
+  </Images>
+  <Latitude>45.520521</Latitude>
+  <Longitude>-123.005235</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

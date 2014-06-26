@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838293</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Harry L</GivenNames>
+      <FamilyNames>Emerick</FamilyNames>
+      <BirthYear>1885</BirthYear>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/89ec2cab19f8caa0d4465eb99e18e87c.jpg</string>
+  </Images>
+  <Latitude>45.520156</Latitude>
+  <Longitude>-123.004826</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

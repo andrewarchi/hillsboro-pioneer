@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779817</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elizbeth</GivenNames>
+      <FamilyNames>Bennett</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/d18b4523315dcf47b891d226d26f2d96.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/07fae54f0656098f6499ca58c106dc7b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/288f6e430e5c178103e5c1c493a26b1f.jpg</string>
+  </Images>
+  <Latitude>45.520287</Latitude>
+  <Longitude>-123.004073</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

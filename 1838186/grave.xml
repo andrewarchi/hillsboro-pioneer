@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838186</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Pearl A</GivenNames>
+      <FamilyNames>Hays</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/813187fa654a789e46fae89e6a09ecd1.jpg</string>
+  </Images>
+  <Information>mother</Information>
+  <Latitude>45.520586</Latitude>
+  <Longitude>-123.006558</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842847</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>A Belle</GivenNames>
+      <FamilyNames>Murray</FamilyNames>
+      <BirthDay>29</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1864</BirthYear>
+      <DeathDay>23</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Dennis L</GivenNames>
+      <FamilyNames>Murray</FamilyNames>
+      <BirthDay>14</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1856</BirthYear>
+      <DeathDay>2</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/74f7a24e4dd1b90ebf4d8a69326ce7c1.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/67898362e6783f40dde135197657eacc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8b92393c57c4c0c31efbe4be68f0f3c4.jpg</string>
+  </Images>
+  <Latitude>45.520134</Latitude>
+  <Longitude>-123.006065</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

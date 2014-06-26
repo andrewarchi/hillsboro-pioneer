@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779467</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Rosy C</GivenNames>
+      <FamilyNames>Bigham</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1888</BirthYear>
+      <DeathDay>27</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/81162227b087f7270017be3fe0591ba9.jpg</string>
+  </Images>
+  <Latitude>45.520233</Latitude>
+  <Longitude>-123.004283</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838017</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Marion E</GivenNames>
+      <FamilyNames>Black</FamilyNames>
+      <BirthYear>1876</BirthYear>
+      <DeathYear>1962</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/af3d0c677eec2a765e1305e1eb9bf6b0.jpg</string>
+  </Images>
+  <Latitude>45.520807</Latitude>
+  <Longitude>-123.007362</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

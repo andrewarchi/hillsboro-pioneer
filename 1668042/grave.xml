@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668042</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William Wehrung</GivenNames>
+      <FamilyNames>Corwin</FamilyNames>
+      <BirthYear>1891</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Blanche Craft</GivenNames>
+      <FamilyNames>Corwin</FamilyNames>
+      <BirthYear>1903</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1994</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f28c05af0caf3c9292ed27dbd4feca84.jpg</string>
+  </Images>
+  <Latitude>45.520262</Latitude>
+  <Longitude>-123.005583</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

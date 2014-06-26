@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836977</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dorothy Ellen</GivenNames>
+      <FamilyNames>Hohman</FamilyNames>
+      <BirthYear>1918</BirthYear>
+      <DeathYear>1937</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/281427cb4f3e2d7b3d73e781fdd6af3d.jpg</string>
+  </Images>
+  <Information>Daughter</Information>
+  <Latitude>45.520894</Latitude>
+  <Longitude>-123.005267</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

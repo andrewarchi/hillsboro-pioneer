@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837655</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles B</GivenNames>
+      <FamilyNames>Selfridge</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathYear>1969</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3cd70a531eeabc3c7f63f85bbc96bdb7.jpg</string>
+  </Images>
+  <Latitude>45.520554</Latitude>
+  <Longitude>-123.007515</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

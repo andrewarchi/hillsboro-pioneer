@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836732</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas</GivenNames>
+      <FamilyNames>Baldra</FamilyNames>
+      <BirthDay>25</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1836</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1876</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Thomas</GivenNames>
+      <FamilyNames>Baldra</FamilyNames>
+      <BirthDay>25</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1836</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1876</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6c30400d4e04022b2e969571dc4a7b02.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7d9836abb1def9f941aee33e0732cd91.jpg</string>
+  </Images>
+  <Information>Som of Wm &amp; Maria Baldra</Information>
+  <Latitude>45.520065</Latitude>
+  <Longitude>-123.005752</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

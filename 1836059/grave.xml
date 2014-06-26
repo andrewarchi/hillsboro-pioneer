@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836059</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Burt W</GivenNames>
+      <FamilyNames>Barnes</FamilyNames>
+      <BirthYear>1866</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/216ded669bc005e90851e697c0b70600.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/7a0959e3e32900f76fe573eba7b17b29.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/e1363306e807c955cb00aca2e8d20af4.jpg</string>
+  </Images>
+  <Latitude>45.520542</Latitude>
+  <Longitude>-123.00462</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

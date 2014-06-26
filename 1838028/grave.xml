@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838028</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Aileen O.</GivenNames>
+      <FamilyNames>Campbell</FamilyNames>
+      <BirthDay>4</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1909</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>2001</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/624a65680f046829cdf57952f4a3aed5.jpg</string>
+  </Images>
+  <Latitude>45.520736</Latitude>
+  <Longitude>-123.007225</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

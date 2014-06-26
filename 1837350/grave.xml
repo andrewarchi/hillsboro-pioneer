@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837350</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robert Ernest</GivenNames>
+      <FamilyNames>Gamel</FamilyNames>
+      <BirthYear>1922</BirthYear>
+      <DeathYear>1982</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7cf8aaaffd3d812cb8c9cf45218189a8.jpg</string>
+  </Images>
+  <Information>Pvt US Army World War II</Information>
+  <Latitude>45.520123</Latitude>
+  <Longitude>-123.004923</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

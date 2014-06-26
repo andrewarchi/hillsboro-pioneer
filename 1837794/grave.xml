@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837794</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Howard Roger</GivenNames>
+      <FamilyNames>Masterson</FamilyNames>
+      <BirthDay>6</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1943</BirthYear>
+      <DeathDay>31</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1972</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ef4958d2d6c1dd0b33f8e99c56148867.jpg</string>
+  </Images>
+  <Latitude>45.520493</Latitude>
+  <Longitude>-123.0072</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

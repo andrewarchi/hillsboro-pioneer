@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779963</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Henrietta Hare</GivenNames>
+      <FamilyNames>Morgan</FamilyNames>
+      <BirthYear>1868</BirthYear>
+      <DeathYear>1957</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/48b0b795b5d12929afa34c77bf85ff83.jpg</string>
+  </Images>
+  <Latitude>45.520239</Latitude>
+  <Longitude>-123.003936</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

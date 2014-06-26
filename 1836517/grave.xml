@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836517</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Thomas A</GivenNames>
+      <FamilyNames>McCourt</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Loretta H</GivenNames>
+      <FamilyNames>McCourt</FamilyNames>
+      <BirthYear>1857</BirthYear>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5cab4faecd1bc64a3a2156f3fc3a3160.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1ac9990e13b6070a11eea97fe78a45e3.jpg</string>
+  </Images>
+  <Latitude>45.520461</Latitude>
+  <Longitude>-123.006234</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779860</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Harriet B</GivenNames>
+      <MaidenNames>Griffin</MaidenNames>
+      <FamilyNames>Jolly</FamilyNames>
+      <DeathDay>25</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1877</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/8732228b638282f7e7578c961460ab63.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f87ee047dfff951d51be77341be8687c.jpg</string>
+  </Images>
+  <Information>DAUGHTER OF REV J S &amp; D C GRIFFIN WIFE OF W B JOLLY AGED 31 YRS 10 MOS 6 DYS</Information>
+  <Latitude>45.520468</Latitude>
+  <Longitude>-123.004064</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

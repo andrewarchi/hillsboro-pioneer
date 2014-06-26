@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837659</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Oliver F</GivenNames>
+      <FamilyNames>Swartz</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Minnie M</GivenNames>
+      <FamilyNames>Swartz</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1957</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a17084ff2767061c14d723ac3833fe9d.jpg</string>
+  </Images>
+  <Latitude>45.52071</Latitude>
+  <Longitude>-123.00752</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

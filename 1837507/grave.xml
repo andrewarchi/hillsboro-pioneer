@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837507</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Gertha K</GivenNames>
+      <FamilyNames>Thomas</FamilyNames>
+      <BirthDay>8</BirthDay>
+      <BirthMonth>Jul</BirthMonth>
+      <BirthYear>1890</BirthYear>
+      <DeathDay>15</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1981</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/95ef3c2fd7da8950babfbf8033a596d9.jpg</string>
+  </Images>
+  <Information>Wife</Information>
+  <Latitude>45.520276</Latitude>
+  <Longitude>-123.00476</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

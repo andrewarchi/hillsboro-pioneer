@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837237</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hazel E</GivenNames>
+      <FamilyNames>Woolsey</FamilyNames>
+      <BirthYear>1907</BirthYear>
+      <DeathYear>1988</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Albert A</GivenNames>
+      <FamilyNames>Woolsey</FamilyNames>
+      <BirthYear>1905</BirthYear>
+      <DeathYear>1957</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837237.jpg</string>
+  </Images>
+  <Latitude>45.520912</Latitude>
+  <Longitude>-123.005042</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

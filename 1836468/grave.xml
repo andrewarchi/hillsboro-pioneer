@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836468</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Eveline</GivenNames>
+      <FamilyNames>Rood</FamilyNames>
+      <BirthDay>23</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1851</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fb1a4a35af8036c1808e9e1ce14db05a.jpg</string>
+  </Images>
+  <Epitaph>Rest in Peace</Epitaph>
+  <Latitude>45.520394</Latitude>
+  <Longitude>-123.005363</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

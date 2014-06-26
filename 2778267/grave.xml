@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778267</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>David</GivenNames>
+      <FamilyNames>Hagg</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b64ee1c4d3bf2f77cf278a91cc36e1d7.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/17ab67ebc4ca9e3fa88efd3005bba534.jpg</string>
+  </Images>
+  <Information>FATHER</Information>
+  <Latitude>45.520267</Latitude>
+  <Longitude>-123.004443</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

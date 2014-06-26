@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837866</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Clarence H</GivenNames>
+      <FamilyNames>Gonyo</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Jessie M</GivenNames>
+      <FamilyNames>Todd</FamilyNames>
+      <BirthYear>1872</BirthYear>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3246ef238a47de85c5a4bff3c4021c2e.jpg</string>
+  </Images>
+  <Information>his beloved wife</Information>
+  <Latitude>45.520546</Latitude>
+  <Longitude>-123.00664</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

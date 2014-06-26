@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838280</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Harold R</GivenNames>
+      <FamilyNames>Emerick</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1912</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>2007</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Fay D</GivenNames>
+      <FamilyNames>Emerick</FamilyNames>
+      <BirthDay>6</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1921</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1996</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2fc01c97fddd91d2ab48b4c5099fa290.jpg</string>
+  </Images>
+  <Latitude>45.520118</Latitude>
+  <Longitude>-123.00486</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

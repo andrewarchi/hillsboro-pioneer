@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837873</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>J W</GivenNames>
+      <FamilyNames>Vedder</FamilyNames>
+      <BirthYear>1839</BirthYear>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/04412878bf5cb505b4d02b8621a89819.jpg</string>
+  </Images>
+  <Latitude>45.520508</Latitude>
+  <Longitude>-123.00664</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

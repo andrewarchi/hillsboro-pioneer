@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837175</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lewis Fenton</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthYear>1886</BirthYear>
+      <DeathYear>1956</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/19de7879425c34d139fdfada5681db6f.jpg</string>
+  </Images>
+  <Information>At Rest Father</Information>
+  <Latitude>45.520264</Latitude>
+  <Longitude>-123.005158</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

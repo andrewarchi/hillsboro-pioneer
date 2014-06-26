@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836427</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hanna</GivenNames>
+      <FamilyNames>Larsen</FamilyNames>
+      <BirthYear>1832</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1889</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/65463e645b4ff4523e3dea05d4c8f0ad.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ad2f692074dfceda07d57f27366aff15.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/58e67b33c842a0f4fd3992a6c44fdb1e.jpg</string>
+  </Images>
+  <Information>Wife of J. Larsen born in Norway</Information>
+  <Latitude>45.520687</Latitude>
+  <Longitude>-123.005992</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

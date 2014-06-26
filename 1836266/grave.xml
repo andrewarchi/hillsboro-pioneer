@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836266</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Letitia</GivenNames>
+      <MaidenNames>Knox</MaidenNames>
+      <FamilyNames>Stewart</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1857</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1902</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8d84ed18fa1bfaeb665bb8796a633145.jpg</string>
+  </Images>
+  <Latitude>45.520476</Latitude>
+  <Longitude>-123.005566</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838124</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Enos M</GivenNames>
+      <FamilyNames>McCormick</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ida May</GivenNames>
+      <FamilyNames>McCormick</FamilyNames>
+      <BirthYear>1873</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f254c31a0df69b3292337fed9e4f2ae1.jpg</string>
+  </Images>
+  <Latitude>45.520319</Latitude>
+  <Longitude>-123.006421</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

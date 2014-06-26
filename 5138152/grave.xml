@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>5138152</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Emma</GivenNames>
+      <FamilyNames>Dunzer</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Eliza</GivenNames>
+      <FamilyNames>Dunzer</FamilyNames>
+      <BirthYear>1865</BirthYear>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Louisa</GivenNames>
+      <FamilyNames>Dunzer</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1930</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/49dac88656330074098b64693a9e6191.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c5ea4e9f9929e3048d8b4c7b312cd6bc.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c516ba6b110ee72558ada1d2563b87d2.jpg</string>
+  </Images>
+  <Latitude>45.52084</Latitude>
+  <Longitude>-123.00451</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

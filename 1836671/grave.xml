@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836671</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Annie</GivenNames>
+      <FamilyNames>White</FamilyNames>
+      <BirthYear>1874</BirthYear>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1066a5282d24100069b48f843c54563a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c7ca1ee66853071a0d88207fed7367f5.jpg</string>
+  </Images>
+  <Latitude>45.520312</Latitude>
+  <Longitude>-123.004081</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

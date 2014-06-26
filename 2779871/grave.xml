@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779871</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William C</GivenNames>
+      <FamilyNames>Edmonson</FamilyNames>
+      <BirthDay>15</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1888</BirthYear>
+      <DeathDay>3</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/019c1e424be5b1cbea0f3941173bf923.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8b1b555d936ae3f6bb2b0ed1e4361ff3.jpg</string>
+  </Images>
+  <Latitude>45.520553</Latitude>
+  <Longitude>-123.004049</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

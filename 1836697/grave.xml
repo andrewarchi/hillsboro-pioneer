@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836697</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Anna B</GivenNames>
+      <FamilyNames>Waggener</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f2d618f39127d5646d7e2cf6a90a6f41.jpg</string>
+  </Images>
+  <Latitude>45.520244</Latitude>
+  <Longitude>-123.005369</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

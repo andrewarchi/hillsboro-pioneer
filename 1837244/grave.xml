@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837244</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lola H</GivenNames>
+      <FamilyNames>Weeks</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1924</BirthYear>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1953</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bbfc715ff5fa898ede3a4808323e608f.jpg</string>
+  </Images>
+  <Latitude>45.520892</Latitude>
+  <Longitude>-123.005012</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778619</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah</GivenNames>
+      <FamilyNames>Brownson</FamilyNames>
+      <BirthYear />
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1897</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/59e91638feac922e617296e1c61d5e5b.jpg</string>
+  </Images>
+  <Latitude>45.520185</Latitude>
+  <Longitude>-123.004312</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

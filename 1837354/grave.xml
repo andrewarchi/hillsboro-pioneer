@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837354</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Julia A</GivenNames>
+      <FamilyNames>Sigler</FamilyNames>
+      <BirthYear>1892</BirthYear>
+      <DeathYear>1977</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/91de404b84eb1c4406ff0b52e1c703dd.jpg</string>
+  </Images>
+  <Latitude>45.520609</Latitude>
+  <Longitude>-123.005244</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

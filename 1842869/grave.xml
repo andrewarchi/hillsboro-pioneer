@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842869</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary Ramsey</GivenNames>
+      <FamilyNames>Wood</FamilyNames>
+      <BirthYear>1787</BirthYear>
+      <DeathYear>1908</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e13e7fde0a5beda2bd300a42d703dd97.jpg</string>
+  </Images>
+  <Information>First Mother Qween of Oregon Pioneers</Information>
+  <Latitude>45.520443</Latitude>
+  <Longitude>-123.00598</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

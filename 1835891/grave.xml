@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835891</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Matthew Joseph</GivenNames>
+      <FamilyNames>Wirtz</FamilyNames>
+      <BirthYear>1856</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary Catherine</GivenNames>
+      <FamilyNames>Wirtz</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1955</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/91ccc41493fcf3b4f16601a9d25e41a8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d7ca4f8c2004f71c87f3791d040cd3ef.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cd2dd7801a9ea18c21f2812f1a7cc7f5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/2b9bb3ea58e07a72cc828d2ef0c14519.jpg</string>
+  </Images>
+  <Latitude>45.52034</Latitude>
+  <Longitude>-123.00408</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

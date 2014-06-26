@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837593</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Hart</FamilyNames>
+      <BirthDay>2</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1857</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/01ad0c061cf5b0fba0ef4a27c6a51e78.jpg</string>
+  </Images>
+  <Latitude>45.52027</Latitude>
+  <Longitude>-123.007545</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

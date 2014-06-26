@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838198</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Andrew W</GivenNames>
+      <FamilyNames>Barber</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/309688a81586ed04532e05f52784063c.jpg</string>
+  </Images>
+  <Information>Co E 23 Wis Inf </Information>
+  <Latitude>45.520438</Latitude>
+  <Longitude>-123.006512</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

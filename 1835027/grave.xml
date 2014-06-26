@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835027</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James T</GivenNames>
+      <FamilyNames>Shannon</FamilyNames>
+      <BirthYear>1853</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Elizabeth M</GivenNames>
+      <FamilyNames>Shannon</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/420fa3e6cb786da63c7930726cc9e49f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c6ff82baf70e028ad28bcce698f1605f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/71481cf6400ea0fe0a70b5df2bcf88ff.jpg</string>
+  </Images>
+  <Latitude>45.520308</Latitude>
+  <Longitude>-123.003878</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

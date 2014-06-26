@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837565</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Marie S</GivenNames>
+      <FamilyNames>Schraeder</FamilyNames>
+      <BirthYear>1892</BirthYear>
+      <DeathYear>1942</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f553b2320c0cdad8347e118409a53dff.jpg</string>
+  </Images>
+  <Latitude>45.520355</Latitude>
+  <Longitude>-123.007515</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

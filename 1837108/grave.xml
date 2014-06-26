@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837108</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah J.</GivenNames>
+      <FamilyNames>Masters</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1826</BirthYear>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1896</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/56482f41fa7d878e6900fc21356a2e30.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/36979a3a80469fdf529c330f03a20f0b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/1ad0dc886eab52e9c110ab1e236a6cad.jpg</string>
+  </Images>
+  <Epitaph>Our Dear Mother</Epitaph>
+  <Latitude>45.520209</Latitude>
+  <Longitude>-123.004537</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

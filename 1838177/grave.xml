@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838177</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ionia Rhea</GivenNames>
+      <FamilyNames>Widrick</FamilyNames>
+      <BirthDay>3</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1874</BirthYear>
+      <DeathDay>8</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/dcf5bda1550f5b0b5e8444fa9dbb97e6.jpg</string>
+  </Images>
+  <Latitude>45.520791</Latitude>
+  <Longitude>-123.006564</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842822</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Mrs</Prefix>
+      <GivenNames>Rachel Johonet</GivenNames>
+      <FamilyNames>Spalding</FamilyNames>
+      <BirthDay>31</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1808</BirthYear>
+      <DeathDay>28</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1880</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/be2ee60c8688cf5481e350766a347285.jpg</string>
+  </Images>
+  <Information>Born in Boston Mass. Died in her 73rd year Rex is her husband</Information>
+  <Latitude>45.52044</Latitude>
+  <Longitude>-123.00579</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842804</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Malinda</GivenNames>
+      <FamilyNames>Gibson</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1808</BirthYear>
+      <DeathDay>31</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1892</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>W O</GivenNames>
+      <FamilyNames>Gibson</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/87d562bca7326f4ab8f42aedc2771bc6.jpg</string>
+  </Images>
+  <Latitude>45.52081</Latitude>
+  <Longitude>-123.005806</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

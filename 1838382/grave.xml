@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838382</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary R</GivenNames>
+      <FamilyNames>Baird</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John R</GivenNames>
+      <FamilyNames>Tupper</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9c536f0e99f359cfbdb1eefe28c0482e.jpg</string>
+  </Images>
+  <Latitude>45.5208</Latitude>
+  <Longitude>-123.004787</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

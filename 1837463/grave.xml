@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837463</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Phyllis V</GivenNames>
+      <FamilyNames>Cowie</FamilyNames>
+      <BirthDay>7</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1910</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1996</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c54a809702b5bd693b7273abfe9a344e.jpg</string>
+  </Images>
+  <Latitude>45.52055</Latitude>
+  <Longitude>-123.00767</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

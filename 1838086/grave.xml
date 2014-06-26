@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838086</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Waldemar A</GivenNames>
+      <FamilyNames>Prahl</FamilyNames>
+      <BirthYear>1888</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/13aa776d8954805e2c6a9102547f8713.jpg</string>
+  </Images>
+  <Latitude>45.520391</Latitude>
+  <Longitude>-123.006401</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

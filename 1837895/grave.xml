@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837895</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Homer Martin</GivenNames>
+      <FamilyNames>Davis</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/926a0cbc31ca60155ecbf28e2e16d55a.jpg</string>
+  </Images>
+  <Latitude>45.5203</Latitude>
+  <Longitude>-123.00686</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

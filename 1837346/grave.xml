@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837346</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Linda C</GivenNames>
+      <FamilyNames>Smyser</FamilyNames>
+      <BirthYear>1948</BirthYear>
+      <DeathYear>1957</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Glenn A</GivenNames>
+      <FamilyNames>Smyser</FamilyNames>
+      <BirthYear>1927</BirthYear>
+      <DeathYear>1957</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4a6387223e5510d65e44ef07d8027444.jpg</string>
+  </Images>
+  <Latitude>45.520116</Latitude>
+  <Longitude>-123.004939</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

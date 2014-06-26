@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837837</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William H</GivenNames>
+      <FamilyNames>Greener</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1894</BirthYear>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>May</DeathMonth>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fbfeedb471d051f173c282709668f46e.jpg</string>
+  </Images>
+  <Latitude>45.520703</Latitude>
+  <Longitude>-123.005096</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

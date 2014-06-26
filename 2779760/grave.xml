@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779760</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>A H </GivenNames>
+      <FamilyNames>Garrison</FamilyNames>
+      <BirthYear>1831</BirthYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary A</GivenNames>
+      <FamilyNames>Garrison</FamilyNames>
+      <BirthYear>1841</BirthYear>
+      <DeathYear>1904</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/c29841ef02fdd66dd834902f4fd4bcbb.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/64e894e95d9c7ebfc91be42fe57f9c0a.jpg</string>
+  </Images>
+  <Latitude>45.52034</Latitude>
+  <Longitude>-123.004204</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

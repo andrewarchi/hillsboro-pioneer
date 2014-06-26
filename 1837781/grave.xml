@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837781</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Winnie E</GivenNames>
+      <FamilyNames>Selfridge</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1955</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f10bd32d110193162b0aac4248eb01ce.jpg</string>
+  </Images>
+  <Latitude>45.52081</Latitude>
+  <Longitude>-123.00721</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

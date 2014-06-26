@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837522</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lloyd V</GivenNames>
+      <FamilyNames>Junken</FamilyNames>
+      <BirthDay>25</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1910</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1982</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Sylvia E</GivenNames>
+      <FamilyNames>Junken</FamilyNames>
+      <BirthDay>18</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1916</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>2009</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7936fd2cd722b541ca4ea3884f5e2016.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7a40097f776b1bd442fd6bb0cdf94f83.jpg</string>
+  </Images>
+  <Latitude>45.520273</Latitude>
+  <Longitude>-123.004882</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

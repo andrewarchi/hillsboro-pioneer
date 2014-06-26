@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837054</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John</GivenNames>
+      <FamilyNames>Miller</FamilyNames>
+      <BirthYear>1855</BirthYear>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Alice C</GivenNames>
+      <FamilyNames>Miller</FamilyNames>
+      <BirthYear>1860</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Helen</GivenNames>
+      <FamilyNames>Miller</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8b936f165ff0941e41c9425eaaf81c37.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ea22670f863adc057083f5790fe858aa.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4126182b6c363e93776c884fb8f245e5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1473143a71676a12ab39d2d818331054.jpg</string>
+  </Images>
+  <Latitude>45.520305</Latitude>
+  <Longitude>-123.006214</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837469</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John W</GivenNames>
+      <FamilyNames>Copeland</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1874</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1909</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6863cfe7b0be1433641fa655b4a6eb9c.jpg</string>
+  </Images>
+  <Latitude>45.520705</Latitude>
+  <Longitude>-123.004718</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

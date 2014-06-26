@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836416</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James </GivenNames>
+      <FamilyNames>McColloch</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/07f6ee409ee3bff18b787e21d2bd4342.jpg</string>
+  </Images>
+  <Information>Capt. Co F, 51st U.S. G.T.</Information>
+  <Latitude>45.52059</Latitude>
+  <Longitude>-123.006225</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

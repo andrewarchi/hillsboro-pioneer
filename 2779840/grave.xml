@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779840</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>W Oscar</GivenNames>
+      <FamilyNames>Jacobs</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1971</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Warden</GivenNames>
+      <FamilyNames>Jacobs</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Leonard</GivenNames>
+      <FamilyNames>Jacobs</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/0131797fa750f8f4e55c59d7ccb37c6d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/18615833d5f84a43259f6a471ba563b6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/41208e7cdb03a7d7efaf88c61c5e0365.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cc47c012aad604451c2f703574090bcd.jpg</string>
+  </Images>
+  <Latitude>45.520193</Latitude>
+  <Longitude>-123.004043</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1667925</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frances F</GivenNames>
+      <FamilyNames>Rasmussen</FamilyNames>
+      <BirthDay>1</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1862</BirthYear>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John A</GivenNames>
+      <FamilyNames>Rasmussen</FamilyNames>
+      <BirthYear>1875</BirthYear>
+      <DeathYear>1958</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120729/1667925.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120729/1667926.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120729/1668005.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120729/1668006.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120729/1668007.jpg</string>
+  </Images>
+  <Latitude>45.520561</Latitude>
+  <Longitude>-123.005571</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

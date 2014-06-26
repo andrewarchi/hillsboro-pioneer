@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837713</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John Quincy</GivenNames>
+      <FamilyNames>Adams</FamilyNames>
+      <BirthDay>24</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1830</BirthYear>
+      <DeathDay>2</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/83fb2ec5b9856f4771872964f2751009.jpg</string>
+  </Images>
+  <Information>Pvt Co B 10 Mo Cav Confederate States Arym</Information>
+  <Latitude>45.52036</Latitude>
+  <Longitude>-123.00748</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

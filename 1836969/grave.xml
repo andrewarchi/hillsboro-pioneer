@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836969</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hannah B</GivenNames>
+      <FamilyNames>Cleveland</FamilyNames>
+      <BirthYear>1846</BirthYear>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Irene G</GivenNames>
+      <FamilyNames>Csergei</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1916</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1925</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a8f7a84dd847efb69eef3c988dd9513e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/33cad3d9b57ad011a936290a87d95788.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6b03d2715cfbe2174e3dc6cac40b357c.jpg</string>
+  </Images>
+  <Latitude>45.520157</Latitude>
+  <Longitude>-123.006074</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

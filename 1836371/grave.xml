@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836371</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ada V</GivenNames>
+      <FamilyNames>Collier</FamilyNames>
+      <BirthYear>1874</BirthYear>
+      <DeathYear>1972</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c589e2d0030a8f9ce7ea685f237d5647.jpg</string>
+  </Images>
+  <Latitude>45.520129</Latitude>
+  <Longitude>-123.005469</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

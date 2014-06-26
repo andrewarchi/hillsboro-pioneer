@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837905</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nellie G</GivenNames>
+      <FamilyNames>Woolsey</FamilyNames>
+      <BirthDay>5</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1909</BirthYear>
+      <DeathDay>28</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1936</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/bcb2055826a5a79e57d4e811538208b5.jpg</string>
+  </Images>
+  <Latitude>45.520466</Latitude>
+  <Longitude>-123.00689</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

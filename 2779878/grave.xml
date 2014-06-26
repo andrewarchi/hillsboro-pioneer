@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779878</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>M</GivenNames>
+      <FamilyNames>Feker</FamilyNames>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1882</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/398da71b4f47d090267afdd5810eee93.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/596c8a69ab995eb99e99bc6900701cc5.jpg</string>
+  </Images>
+  <Information>Aged 52 years.</Information>
+  <Latitude>45.520553</Latitude>
+  <Longitude>-123.004049</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

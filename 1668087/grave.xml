@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668087</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ellen Reeves</GivenNames>
+      <FamilyNames>Heywood</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/32dde03f599953db6e94a4ece06ab026.jpg</string>
+  </Images>
+  <Latitude>45.520387</Latitude>
+  <Longitude>-123.005634</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

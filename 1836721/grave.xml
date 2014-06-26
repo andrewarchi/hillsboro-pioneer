@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836721</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Maria</GivenNames>
+      <FamilyNames>Baldra</FamilyNames>
+      <DeathDay>17</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1888</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d00be46babec49444c576c0b5906bdb9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2c7012c042f6c6d883b9f5bafd5f3db6.jpg</string>
+  </Images>
+  <Information>Aged 69 years, 8 months, and 10 days.</Information>
+  <Latitude>45.520094</Latitude>
+  <Longitude>-123.005755</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

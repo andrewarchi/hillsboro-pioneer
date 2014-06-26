@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836591</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nellie</GivenNames>
+      <MaidenNames>Jackson</MaidenNames>
+      <FamilyNames>Purdin</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <DeathYear>1958</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ece630b35b250ce0d0ca9e8d6000514d.jpg</string>
+  </Images>
+  <Latitude>45.520745</Latitude>
+  <Longitude>-123.005993</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

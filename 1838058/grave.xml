@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838058</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John J</GivenNames>
+      <FamilyNames>Boge</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Emily J</GivenNames>
+      <FamilyNames>Boge</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1953</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/99da6252c8e10bbcb2c6729c7d83c3d5.jpg</string>
+  </Images>
+  <Latitude>45.520265</Latitude>
+  <Longitude>-123.007265</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

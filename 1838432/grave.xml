@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838432</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles S</GivenNames>
+      <FamilyNames>Niles</FamilyNames>
+      <BirthYear>1910</BirthYear>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/dd0b5c8a13023656fe67ee566b0115be.jpg</string>
+  </Images>
+  <Epitaph>Son of S.E. &amp; L.F.H. Gates</Epitaph>
+  <Latitude>45.520813</Latitude>
+  <Longitude>-123.004664</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

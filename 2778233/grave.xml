@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778233</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Dr.</Prefix>
+      <GivenNames>William</GivenNames>
+      <FamilyNames>Burger</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1852</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1909</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/56b833ea44ec3b0d0eee30f34b90a151.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/d1c8ef9ae6cc685dc3c1707d3730b5c3.jpg</string>
+  </Images>
+  <Epitaph>GONE BUT NOT FORGOTTEN</Epitaph>
+  <Latitude>45.520516</Latitude>
+  <Longitude>-123.004474</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

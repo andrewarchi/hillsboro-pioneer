@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838070</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Sarah H</GivenNames>
+      <FamilyNames>Basford</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1842</BirthYear>
+      <DeathDay>4</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Caroline</GivenNames>
+      <FamilyNames>Basford</FamilyNames>
+      <BirthDay>8</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1846</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1908</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/10b810f85e32bf8ae03615c69ace7cf5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8f4b66ddfe48ace9c87ff81661584c6c.jpg</string>
+  </Images>
+  <Latitude>45.520082</Latitude>
+  <Longitude>-123.007268</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

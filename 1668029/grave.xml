@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668029</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lottie D</GivenNames>
+      <FamilyNames>Gifford</FamilyNames>
+      <BirthYear>1888</BirthYear>
+      <DeathYear>1986</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>William C</GivenNames>
+      <FamilyNames>Gifford</FamilyNames>
+      <BirthYear>1883</BirthYear>
+      <DeathYear>1951</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/390a9017c35a3d7b085780da6e1c92a3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a5373c9618550cf14b6bc29357c4a11d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f7b125cf5c4f42731d7d71c8fadbfbea.jpg</string>
+  </Images>
+  <Latitude>45.520416</Latitude>
+  <Longitude>-123.005674</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

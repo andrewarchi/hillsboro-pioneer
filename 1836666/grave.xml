@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836666</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John V</GivenNames>
+      <FamilyNames>Greenawalt</FamilyNames>
+      <BirthYear>1850</BirthYear>
+      <DeathYear>1923</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/09cb153ee1384654a04b6ad9cabe7bce.jpg</string>
+  </Images>
+  <Latitude>45.520814</Latitude>
+  <Longitude>-123.006491</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

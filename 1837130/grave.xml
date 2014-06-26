@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837130</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Estella M</GivenNames>
+      <FamilyNames>Boyce</FamilyNames>
+      <BirthDay>3</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1884</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1887</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8cd3509a68ce5b0bbbf8a9f9717f9b9c.jpg</string>
+  </Images>
+  <Epitaph>At Rest</Epitaph>
+  <Information>Daughter of A.Y. and M.B. Boyce</Information>
+  <Latitude>45.520082</Latitude>
+  <Longitude>-123.00521</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837503</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Freeman G</GivenNames>
+      <FamilyNames>Mann</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/01fc5a4b72be37d89bd73f42fa7c4adc.jpg</string>
+  </Images>
+  <Latitude>45.520311</Latitude>
+  <Longitude>-123.00476</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

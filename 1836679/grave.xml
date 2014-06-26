@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836679</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Francis A</GivenNames>
+      <FamilyNames>Bailey</FamilyNames>
+      <BirthYear>1839</BirthYear>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2fd86ce30a01e7ee52b78cbfeda63a9a.jpg</string>
+  </Images>
+  <Latitude>45.52036</Latitude>
+  <Longitude>-123.005375</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

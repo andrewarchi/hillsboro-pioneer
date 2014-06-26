@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836612</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>P E</GivenNames>
+      <FamilyNames>Scoggin</FamilyNames>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/26f8db9cb6d6144fdb6ca4aa7c6d3ce9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/bab0665645192c62193ac44e4b4fb25c.jpg</string>
+  </Images>
+  <Latitude>45.520117</Latitude>
+  <Longitude>-123.004046</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

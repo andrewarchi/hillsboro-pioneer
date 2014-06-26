@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837443</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edith D</GivenNames>
+      <FamilyNames>Jones</FamilyNames>
+      <BirthYear>1912</BirthYear>
+      <DeathYear>1989</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5c237681347d6aaa34b4da95c084d60a.jpg</string>
+  </Images>
+  <Information>Beloved Wife &amp; Mom</Information>
+  <Latitude>45.520912</Latitude>
+  <Longitude>-123.0048</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

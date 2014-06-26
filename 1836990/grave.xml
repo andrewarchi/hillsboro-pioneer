@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836990</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Palmer</GivenNames>
+      <FamilyNames>Tucker</FamilyNames>
+      <BirthYear>1851</BirthYear>
+      <DeathYear>1943</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cfd2e632722f1a2de24dabdb25c77f8a.jpg</string>
+  </Images>
+  <Latitude>45.52094</Latitude>
+  <Longitude>-123.005138</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

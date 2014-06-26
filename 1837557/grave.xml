@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837557</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charlotte</GivenNames>
+      <FamilyNames>Francis</FamilyNames>
+      <BirthYear>1912</BirthYear>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/381fc2f6556ad49c2338269c43191e86.jpg</string>
+  </Images>
+  <Latitude>45.520435</Latitude>
+  <Longitude>-123.004704</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

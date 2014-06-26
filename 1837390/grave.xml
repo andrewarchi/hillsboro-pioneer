@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837390</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Baby Boy</GivenNames>
+      <FamilyNames>Walters</FamilyNames>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7504527c52a82d58cb08f67a5c787a32.jpg</string>
+  </Images>
+  <Information />
+  <Latitude>45.520294</Latitude>
+  <Longitude>-123.0076</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778285</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edward F</GivenNames>
+      <FamilyNames>Lambrix</FamilyNames>
+      <BirthDay>18</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1883</BirthYear>
+      <DeathDay>25</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/24eb18bb124338e3aa5b0a22d3d17bc4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a3451a834a43679f82ecc73feb889997.jpg</string>
+  </Images>
+  <Latitude>45.520389</Latitude>
+  <Longitude>-123.004436</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

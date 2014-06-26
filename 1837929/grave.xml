@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837929</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Paul</GivenNames>
+      <FamilyNames>Huserik</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1933</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/71c0d3e09b9fd9357b2a3a340d0bc60c.jpg</string>
+  </Images>
+  <Latitude>45.520206</Latitude>
+  <Longitude>-123.006905</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

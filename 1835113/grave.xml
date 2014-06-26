@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835113</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>James A</GivenNames>
+      <FamilyNames>Thwaite</FamilyNames>
+      <BirthDay>3</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1869</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/5d2bced5c1164a13934e900eca1d2969.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a4eb1ae546456c0cd9d15df401ec9dba.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3886cad64bd3069e1c09b8fc1dfe598b.jpg</string>
+  </Images>
+  <Latitude>45.520386</Latitude>
+  <Longitude>-123.004091</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

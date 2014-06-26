@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836726</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jeanie T</GivenNames>
+      <FamilyNames>Everett</FamilyNames>
+      <BirthYear>1905</BirthYear>
+      <DeathYear>1954</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3ac7c7223253f011b9618ed4512ea1fc.jpg</string>
+  </Images>
+  <Information>Mother</Information>
+  <Latitude>45.520145</Latitude>
+  <Longitude>-123.005216</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

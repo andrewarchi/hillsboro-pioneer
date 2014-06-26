@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836871</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edna B</GivenNames>
+      <FamilyNames>Rice</FamilyNames>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1880</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3f91f18dd14fd7edcc0fd40b58430a40.jpg</string>
+  </Images>
+  <Information>aged 5 months, 85 days Dad of w J Rice &amp; S Rice</Information>
+  <Latitude>45.520687</Latitude>
+  <Longitude>-123.006022</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

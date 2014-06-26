@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779943</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Florence </GivenNames>
+      <MaidenNames>Tongue</MaidenNames>
+      <FamilyNames>Munger</FamilyNames>
+      <BirthYear>1886</BirthYear>
+      <DeathYear>1983</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b9384fb7ff51f93f101547ffe2eb075a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c5e40b9ea5fe0274769b4ba7ed7374c3.jpg</string>
+  </Images>
+  <Latitude>45.520178</Latitude>
+  <Longitude>-123.003795</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

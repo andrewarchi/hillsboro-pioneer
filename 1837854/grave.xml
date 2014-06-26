@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837854</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edw</GivenNames>
+      <FamilyNames>Kentrat</FamilyNames>
+      <BirthDay>6</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1862</BirthYear>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1918</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/249b63154ee954398a4d4e94ea7b914b.jpg</string>
+  </Images>
+  <Latitude>45.52066</Latitude>
+  <Longitude>-123.00663</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

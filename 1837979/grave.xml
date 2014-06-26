@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837979</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Glen Wallace</GivenNames>
+      <FamilyNames>Powers</FamilyNames>
+      <DeathDay>2</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/63f8d06e6194c4b635dfbb54f02262fc.jpg</string>
+  </Images>
+  <Information>Oregon PVT 1 Cl 162 Inf 41 Div</Information>
+  <Latitude>45.520355</Latitude>
+  <Longitude>-123.007329</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

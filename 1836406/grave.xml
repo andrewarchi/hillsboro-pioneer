@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836406</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lettie L</GivenNames>
+      <FamilyNames>Olsen</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <DeathYear>1949</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ffe02bd03a05cf59c09ad237cbb5e550.jpg</string>
+  </Images>
+  <Latitude>45.52063</Latitude>
+  <Longitude>-123.005963</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836134</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Cyrus Eugene</GivenNames>
+      <FamilyNames>Taakersley</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1948</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/505e554961dc8029fc998b829a17e83f.jpg</string>
+  </Images>
+  <Latitude>45.5208</Latitude>
+  <Longitude>-123.00426</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

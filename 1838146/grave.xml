@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838146</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jeneva</GivenNames>
+      <FamilyNames>Brandaw</FamilyNames>
+      <DeathYear>1917</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/224efdb53c3e3da5d801dc74d4c400b4.jpg</string>
+  </Images>
+  <Information>BABY</Information>
+  <Latitude>45.520496</Latitude>
+  <Longitude>-123.004979</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

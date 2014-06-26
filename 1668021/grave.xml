@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668021</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Hattie J Bales</GivenNames>
+      <FamilyNames>Crandall</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1961</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Max</GivenNames>
+      <FamilyNames>Crandall</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1940</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Elizabeth O Shannon</GivenNames>
+      <FamilyNames>Crandall</FamilyNames>
+      <BirthYear>1847</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e4a8918e4ca58c3678f954f54c286b2d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/649cfd6a341d89805739ba83f5a948ba.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/45720b00c54654139a6a5cdd9f4626db.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/dac44a7ec4722c204bc4457346fffdc4.jpg</string>
+  </Images>
+  <Latitude>45.520433</Latitude>
+  <Longitude>-123.00557</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

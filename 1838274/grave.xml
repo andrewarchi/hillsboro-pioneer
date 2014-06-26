@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838274</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Harry J</GivenNames>
+      <FamilyNames>Gee</FamilyNames>
+      <BirthYear>1886</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/97cf645172240d78c93afcf5c8226c7a.jpg</string>
+  </Images>
+  <Latitude>45.520642</Latitude>
+  <Longitude>-123.00672</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

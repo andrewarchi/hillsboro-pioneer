@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836199</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Adelaide</GivenNames>
+      <FamilyNames>Peters</FamilyNames>
+      <BirthYear>1848</BirthYear>
+      <DeathYear>1915</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/51f4e633179b027f77a95bf28bf2c8e9.jpg</string>
+  </Images>
+  <Latitude>45.52076</Latitude>
+  <Longitude>-123.005777</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

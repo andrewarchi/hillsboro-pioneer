@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836429</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edwin R</GivenNames>
+      <FamilyNames>Oakerman</FamilyNames>
+      <BirthYear>1877</BirthYear>
+      <DeathYear>1886</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9b370f7ac1c13fce1485e9b42389855f.jpg</string>
+  </Images>
+  <Latitude>45.52026</Latitude>
+  <Longitude>-123.004697</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

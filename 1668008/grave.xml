@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668008</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Lieut</Prefix>
+      <GivenNames>Alvin M</GivenNames>
+      <FamilyNames>Collins</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/88c0188eecc50c6a1cdd4b3314eef533.jpg</string>
+  </Images>
+  <Information>Co F Minn H. A</Information>
+  <Latitude>45.520517</Latitude>
+  <Longitude>-123.005596</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

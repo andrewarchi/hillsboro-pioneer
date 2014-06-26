@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837263</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William F</GivenNames>
+      <FamilyNames>Schulz</FamilyNames>
+      <BirthDay>20</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1842</BirthYear>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Louisa W</GivenNames>
+      <FamilyNames>Schulz</FamilyNames>
+      <BirthDay>8</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1855</BirthYear>
+      <DeathDay>30</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1c8500fc45a77566c18599aff9d9076a.jpg</string>
+  </Images>
+  <Latitude>45.520768</Latitude>
+  <Longitude>-123.00502</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

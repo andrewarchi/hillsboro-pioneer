@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836942</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Louise S</GivenNames>
+      <FamilyNames>Ginder</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1882</BirthYear>
+      <DeathDay>26</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1960</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>James W</GivenNames>
+      <FamilyNames>Ginder</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1869</BirthYear>
+      <DeathDay>22</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1928</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4112976d7e9681f111416e93789cc22e.jpg</string>
+  </Images>
+  <Latitude>45.520706</Latitude>
+  <Longitude>-123.005288</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

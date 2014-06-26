@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836793</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Margaret M</GivenNames>
+      <MaidenNames>Berrie</MaidenNames>
+      <FamilyNames>White</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1f753f2a31351d7a4333cc72bf096a5e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/eab1d449b5add21e8eba53c2f2725475.jpg</string>
+  </Images>
+  <Information>Beloved Wife of CS White Come unto me and I will give you rest</Information>
+  <Latitude>45.520116</Latitude>
+  <Longitude>-123.004305</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836901</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>William</GivenNames>
+      <FamilyNames>Strickler</FamilyNames>
+      <BirthDay>28</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1840</BirthYear>
+      <DeathDay>3</DeathDay>
+      <DeathMonth>Oct</DeathMonth>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/63160dc5fb8fc21ef55ad151adbcc99c.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/ae02cc4a995263a608de15bb7f671777.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/b57235142983b923ee7172eb3c8cff31.jpg</string>
+  </Images>
+  <Latitude>45.520647</Latitude>
+  <Longitude>-123.004298</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

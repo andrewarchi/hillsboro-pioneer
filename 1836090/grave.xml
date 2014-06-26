@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836090</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>C W</GivenNames>
+      <FamilyNames>Wedberg</FamilyNames>
+      <BirthYear>1849</BirthYear>
+      <DeathDay>1</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f10c53e0f1225d30f1b9724666ab0f50.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/6ec7aad835706403fed41a90ddb2cf65.jpg</string>
+  </Images>
+  <Latitude>45.52035</Latitude>
+  <Longitude>-123.00453</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842828</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Leonidas</GivenNames>
+      <FamilyNames>Patterson</FamilyNames>
+      <BirthDay>25</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1839</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9cf5fa40da2626be6055bfc922e4f46c.jpg</string>
+  </Images>
+  <Latitude>45.520527</Latitude>
+  <Longitude>-123.00607</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

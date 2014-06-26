@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836455</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Amelia Duncan</GivenNames>
+      <FamilyNames>Smith</FamilyNames>
+      <BirthDay>26</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1852</BirthYear>
+      <DeathDay>27</DeathDay>
+      <DeathMonth>Dec</DeathMonth>
+      <DeathYear>1920</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6f314246789e957ddc20b0c10ce034f5.jpg</string>
+  </Images>
+  <Latitude>45.520287</Latitude>
+  <Longitude>-123.005468</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

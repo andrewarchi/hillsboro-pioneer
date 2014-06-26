@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837432</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Jefferson F</GivenNames>
+      <FamilyNames>Goodwin</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1944</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3e350c64446176d6b9058a9307c404df.jpg</string>
+  </Images>
+  <Latitude>45.52044</Latitude>
+  <Longitude>-123.00759</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

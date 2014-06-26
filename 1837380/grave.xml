@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837380</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hugh S</GivenNames>
+      <FamilyNames>Rogers</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1870</BirthYear>
+      <DeathDay>20</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f05a96da2041018db101681d80b23abb.jpg</string>
+  </Images>
+  <Information>CPL 2 Oreg Inf</Information>
+  <Latitude>45.52029</Latitude>
+  <Longitude>-123.004909</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

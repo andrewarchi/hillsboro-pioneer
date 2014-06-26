@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779520</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lyston H</GivenNames>
+      <FamilyNames>Lucas</FamilyNames>
+      <BirthDay>14</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1893</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1901</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/85a3419bce8553f05282959350f3f95d.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b3a2dcc7ac53ca62b3a8491990f7f856.jpg</string>
+  </Images>
+  <Latitude>45.520306</Latitude>
+  <Longitude>-123.004337</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

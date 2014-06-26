@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837359</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John F</GivenNames>
+      <FamilyNames>Bragg</FamilyNames>
+      <BirthYear>1867</BirthYear>
+      <DeathYear>1919</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/70ee79dc8ed4dbf916738c3dbad06420.jpg</string>
+  </Images>
+  <Information>Father</Information>
+  <Latitude>45.520176</Latitude>
+  <Longitude>-123.00762</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

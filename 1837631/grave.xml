@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837631</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Wilbur L</GivenNames>
+      <FamilyNames>New</FamilyNames>
+      <BirthYear>1921</BirthYear>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/58731eed6e3522abede3775f4dce480d.jpg</string>
+  </Images>
+  <Latitude>45.520184</Latitude>
+  <Longitude>-123.0075</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

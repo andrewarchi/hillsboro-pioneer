@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836663</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Louisa A</GivenNames>
+      <FamilyNames>Bailey</FamilyNames>
+      <BirthYear>1881</BirthYear>
+      <DeathYear>1896</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2c442e7197c5ade644bafe66e1e15cea.jpg</string>
+  </Images>
+  <Latitude>45.52036</Latitude>
+  <Longitude>-123.005375</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

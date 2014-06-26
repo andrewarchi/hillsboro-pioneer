@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668009</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Lydia a</GivenNames>
+      <FamilyNames>Collins</FamilyNames>
+      <BirthYear>1834</BirthYear>
+      <DeathDay>3</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1912</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/40acf514079820e087cce8a8426a68cc.jpg</string>
+  </Images>
+  <Latitude>45.520581</Latitude>
+  <Longitude>-123.005587</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

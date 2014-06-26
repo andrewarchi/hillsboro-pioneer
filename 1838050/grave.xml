@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838050</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Clifford</GivenNames>
+      <FamilyNames>Mannen</FamilyNames>
+      <BirthYear>1924</BirthYear>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/669a56a7704dbbd2fcfad5866197f211.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7d301a2778935aeeb2412cc1b18b515a.jpg</string>
+  </Images>
+  <Latitude>45.520447</Latitude>
+  <Longitude>-123.007294</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

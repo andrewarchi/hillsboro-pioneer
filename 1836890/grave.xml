@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836890</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edna M</GivenNames>
+      <FamilyNames>Hains</FamilyNames>
+      <BirthYear>1892</BirthYear>
+      <DeathYear>1992</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Frank A J</GivenNames>
+      <FamilyNames>Hains</FamilyNames>
+      <BirthYear>1886</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <Prefix />
+      <GivenNames>Frank A J</GivenNames>
+      <FamilyNames>Hains</FamilyNames>
+      <Suffix>Jr</Suffix>
+      <BirthYear>1923</BirthYear>
+      <DeathYear>1927</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fcfe76760ce9ce22ebd871675aa5e653.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/8a2d89ffbc7321f6020b8a2e0da29e4f.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6f83d009a63c3607207a7da1631f610e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0112040e20d786289acb56a13b432414.jpg</string>
+  </Images>
+  <Information>Mother Father Son</Information>
+  <Latitude>45.520123</Latitude>
+  <Longitude>-123.006779</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

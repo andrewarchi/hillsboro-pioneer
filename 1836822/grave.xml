@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836822</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Elmer</GivenNames>
+      <FamilyNames>Scott</FamilyNames>
+      <BirthYear>1881</BirthYear>
+      <DeathYear>1936</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Edith May</GivenNames>
+      <FamilyNames>Scott</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathYear>1971</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/03692c3fcfb11dc5fa86d95f8c1c1c48.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/eca7d3000a2f2e81d9fa9caa3559f9e6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/39fca6fd9a5878cfbed97551a95aa22e.jpg</string>
+  </Images>
+  <Latitude>45.520339</Latitude>
+  <Longitude>-123.004305</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

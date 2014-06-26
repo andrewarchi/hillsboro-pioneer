@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842833</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Hyer</GivenNames>
+      <FamilyNames>Jackson</FamilyNames>
+      <BirthDay>3</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1806</BirthYear>
+      <DeathDay>10</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1873</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/73e33fe524a8315fc6d9bf0421bd7a3a.jpg</string>
+  </Images>
+  <Information>A native of Virginia</Information>
+  <Latitude>45.52033</Latitude>
+  <Longitude>-123.00574</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

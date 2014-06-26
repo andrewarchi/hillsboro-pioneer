@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779852</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Rev</Prefix>
+      <GivenNames>William</GivenNames>
+      <FamilyNames>Jolly</FamilyNames>
+      <BirthYear>1813</BirthYear>
+      <DeathYear>1893</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/322afd3c0be516090edb3763f4e86a94.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/13e954bf34cd64b8fdc9d50193df507c.jpg</string>
+  </Images>
+  <Information>Pioneer 1847</Information>
+  <Latitude>45.520399</Latitude>
+  <Longitude>-123.004074</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

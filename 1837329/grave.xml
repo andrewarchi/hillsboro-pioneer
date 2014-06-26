@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837329</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Robert W</GivenNames>
+      <FamilyNames>Clark</FamilyNames>
+      <Suffix>Jr</Suffix>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Jun</BirthMonth>
+      <BirthYear>1953</BirthYear>
+      <DeathDay>18</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1956</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Robert</GivenNames>
+      <FamilyNames>Clark</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Margaret</GivenNames>
+      <FamilyNames>Clark</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Wesley Ivan</GivenNames>
+      <FamilyNames>Clark</FamilyNames>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Jul</DeathMonth>
+      <DeathYear>1947</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/headstones/images/20120825/1837329.jpg</string>
+  </Images>
+  <Information>Son of</Information>
+  <Latitude>45.520148</Latitude>
+  <Longitude>-123.005014</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

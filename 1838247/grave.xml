@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838247</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George H.</GivenNames>
+      <FamilyNames>Carter</FamilyNames>
+      <BirthYear>1872</BirthYear>
+      <DeathYear>1934</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b21e326fd6320aa683ed54d19e55c89b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a39541458295606a28978e35dbb2e043.jpg</string>
+  </Images>
+  <Latitude>45.520462</Latitude>
+  <Longitude>-123.006719</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

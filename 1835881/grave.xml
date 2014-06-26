@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1835881</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Martha R</GivenNames>
+      <MaidenNames>Jolly</MaidenNames>
+      <FamilyNames>Lichtenthaler</FamilyNames>
+      <BirthDay>17</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1854</BirthYear>
+      <DeathDay>19</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1880</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/24e5fd14211d6269889ad95de9056097.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/90556e1b0948876c41a1bf6739e8bfc5.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/ec97d4257a91b2ab6c730c2f0626caa8.jpg</string>
+  </Images>
+  <Information>indecipherable</Information>
+  <Latitude>45.52057</Latitude>
+  <Longitude>-123.00404</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

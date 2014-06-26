@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837029</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Henry A</GivenNames>
+      <FamilyNames>Tews</FamilyNames>
+      <BirthDay>9</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1914</BirthYear>
+      <DeathDay>16</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1989</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Helen W</GivenNames>
+      <FamilyNames>Tews</FamilyNames>
+      <BirthDay>21</BirthDay>
+      <BirthMonth>Dec</BirthMonth>
+      <BirthYear>1914</BirthYear>
+      <DeathDay>13</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1985</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/eb3c10393fab8b2446125d692c13edc7.jpg</string>
+  </Images>
+  <Information>Beloved Dad and Mom</Information>
+  <Latitude>45.520264</Latitude>
+  <Longitude>-123.00787</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

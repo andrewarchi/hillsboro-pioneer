@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836638</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary </GivenNames>
+      <FamilyNames>Chambers</FamilyNames>
+      <BirthDay>11</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1809</BirthYear>
+      <DeathDay>21</DeathDay>
+      <DeathMonth>Mar</DeathMonth>
+      <DeathYear>1890</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1e222e77dcd0de50e94bad85e66e2dc3.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a2d827f8958039e7f067371cea67637e.jpg</string>
+  </Images>
+  <Information>Born in Warren Co, Ky Moved to Oregon 1845</Information>
+  <Latitude>45.520349</Latitude>
+  <Longitude>-123.005321</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

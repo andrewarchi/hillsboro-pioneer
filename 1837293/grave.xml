@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837293</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Martha M</GivenNames>
+      <FamilyNames>Goodwin</FamilyNames>
+      <BirthDay>4</BirthDay>
+      <BirthMonth>Apr</BirthMonth>
+      <BirthYear>1839</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1919</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Liddia Jane</GivenNames>
+      <FamilyNames>Thompson</FamilyNames>
+      <BirthDay>22</BirthDay>
+      <BirthMonth>Mar</BirthMonth>
+      <BirthYear>1866</BirthYear>
+      <DeathDay>9</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1891</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/aaec85548317c6e43eb9b2ced2625d63.jpg</string>
+  </Images>
+  <Information>Mother, Daughter</Information>
+  <Latitude>45.52056</Latitude>
+  <Longitude>-123.00768</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

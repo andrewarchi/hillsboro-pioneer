@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837317</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames> Frederick</GivenNames>
+      <FamilyNames>Goetter</FamilyNames>
+      <BirthYear>1837</BirthYear>
+      <DeathYear>1929</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/94cc1617a1aaf115a2fe1971e28e4fb3.jpg</string>
+  </Images>
+  <Information>Father Rest in Peace</Information>
+  <Latitude>45.520609</Latitude>
+  <Longitude>-123.005244</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

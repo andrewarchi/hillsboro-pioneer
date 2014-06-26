@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838053</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John Lewis</GivenNames>
+      <FamilyNames>Rogers</FamilyNames>
+      <BirthDay>6</BirthDay>
+      <BirthMonth>Jan</BirthMonth>
+      <BirthYear>1925</BirthYear>
+      <DeathDay>28</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/a6c2423a4d97ab8ab76ffa68454e78e3.jpg</string>
+  </Images>
+  <Latitude>45.520259</Latitude>
+  <Longitude>-123.007188</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

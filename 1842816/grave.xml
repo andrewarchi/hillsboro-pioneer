@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1842816</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Harry Palmer</GivenNames>
+      <FamilyNames>Rhoads</FamilyNames>
+      <BirthYear>1899</BirthYear>
+      <DeathYear>1907</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1f1d5805b0a106befb65dc4a0b01ed75.jpg</string>
+  </Images>
+  <Latitude>45.52061</Latitude>
+  <Longitude>-123.005775</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

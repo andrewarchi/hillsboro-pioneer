@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837246</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Dewitt C</GivenNames>
+      <FamilyNames>Cantrall</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1949</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Minnie</GivenNames>
+      <FamilyNames>Cantrall</FamilyNames>
+      <BirthYear>1875</BirthYear>
+      <DeathDay>11</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1968</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e17409e78f3965e1fe9545172f8a4b9b.jpg</string>
+  </Images>
+  <Latitude>45.520892</Latitude>
+  <Longitude>-123.005012</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

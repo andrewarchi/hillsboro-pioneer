@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837739</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Edward W</GivenNames>
+      <FamilyNames>Paine</FamilyNames>
+      <BirthYear>1862</BirthYear>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Sarah E</GivenNames>
+      <FamilyNames>Paine</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1932</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/dc34632df4cb1098dae5851e24073243.jpg</string>
+  </Images>
+  <Information>Father, Mother</Information>
+  <Latitude>45.52018</Latitude>
+  <Longitude>-123.00736</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

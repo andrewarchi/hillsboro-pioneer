@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837978</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Mary B</GivenNames>
+      <FamilyNames>Bottorff</FamilyNames>
+      <BirthYear>1858</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4698ee7405ec377ab5a40af080ca4568.jpg</string>
+  </Images>
+  <Latitude>45.520336</Latitude>
+  <Longitude>-123.00727</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

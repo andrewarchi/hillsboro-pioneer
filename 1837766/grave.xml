@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837766</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John B</GivenNames>
+      <FamilyNames>Dinsmore</FamilyNames>
+      <DeathDay>28</DeathDay>
+      <DeathMonth>Apr</DeathMonth>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6dd70b17fbb4dc168d370418f69efcc1.jpg</string>
+  </Images>
+  <Information>Oregon Lieut. Med. Corps.</Information>
+  <Latitude>45.520638</Latitude>
+  <Longitude>-123.007324</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

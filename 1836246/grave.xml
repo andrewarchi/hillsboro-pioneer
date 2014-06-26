@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836246</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles B</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthYear>1871</BirthYear>
+      <DeathYear>1935</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/032f48cdc2d192bcad94c0d10ce8ef31.jpg</string>
+  </Images>
+  <Latitude>45.520538</Latitude>
+  <Longitude>-123.005844</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

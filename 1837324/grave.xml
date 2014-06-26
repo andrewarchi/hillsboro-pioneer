@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837324</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Julia B</GivenNames>
+      <FamilyNames>Morrill</FamilyNames>
+      <BirthDay>18</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1861</BirthYear>
+      <DeathDay>14</DeathDay>
+      <DeathMonth>Aug</DeathMonth>
+      <DeathYear>1937</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/47015905358477b660fda56b73f02812.jpg</string>
+  </Images>
+  <Latitude>45.520253</Latitude>
+  <Longitude>-123.004976</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837337</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Laura F</GivenNames>
+      <FamilyNames>Glascoe</FamilyNames>
+      <BirthYear>1892</BirthYear>
+      <DeathYear>1914</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/41d990844b179415f37165e4831f4660.jpg</string>
+  </Images>
+  <Latitude>45.520226</Latitude>
+  <Longitude>-123.00769</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

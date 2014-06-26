@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837274</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <Prefix>Mother</Prefix>
+      <GivenNames>Margaretha</GivenNames>
+      <FamilyNames>Amacher</FamilyNames>
+      <BirthDay>25</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1830</BirthYear>
+      <DeathDay>2</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1910</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/4084c7db63e4554a1be3a09bb802bb46.jpg</string>
+  </Images>
+  <Latitude>45.52064</Latitude>
+  <Longitude>-123.005023</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

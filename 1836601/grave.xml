@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836601</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>John A</GivenNames>
+      <FamilyNames>Moore</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1840</BirthYear>
+      <DeathDay>5</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1922</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/fe924a85c553a52f418574299016e329.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/82bab5146a3069094bd14e1acbd68a8a.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cb5e02e1a4cf31d815ad79f528dafecc.jpg</string>
+  </Images>
+  <Latitude>45.520526</Latitude>
+  <Longitude>-123.007637</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

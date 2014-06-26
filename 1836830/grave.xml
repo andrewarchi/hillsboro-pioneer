@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836830</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Earl L</GivenNames>
+      <FamilyNames>Hobbs</FamilyNames>
+      <BirthYear>1890</BirthYear>
+      <DeathYear>1963</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/3d29987d5a166d84d20ecbb1ce6d50ba.jpg</string>
+  </Images>
+  <Latitude>45.52029</Latitude>
+  <Longitude>-123.005271</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

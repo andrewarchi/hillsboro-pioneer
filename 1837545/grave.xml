@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837545</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Nathan A</GivenNames>
+      <FamilyNames>Barrett</FamilyNames>
+      <BirthDay>12</BirthDay>
+      <BirthMonth>May</BirthMonth>
+      <BirthYear>1857</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Jun</DeathMonth>
+      <DeathYear>1924</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f46ce4e88f0a56857097f8da77d9245e.jpg</string>
+  </Images>
+  <Latitude>45.520337</Latitude>
+  <Longitude>-123.005107</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

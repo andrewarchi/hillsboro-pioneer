@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837348</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Fred</GivenNames>
+      <FamilyNames>Bretthauer</FamilyNames>
+      <Suffix>Sr</Suffix>
+      <BirthYear>1880</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/1f3df5c2dc156657dc666094f62fa603.jpg</string>
+  </Images>
+  <Information>Father</Information>
+  <Latitude>45.520153</Latitude>
+  <Longitude>-123.00763</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836551</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frances Dean</GivenNames>
+      <FamilyNames>Thomas</FamilyNames>
+      <BirthYear>1868</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Frances Jean</GivenNames>
+      <FamilyNames>Thomas</FamilyNames>
+      <BirthYear>1868</BirthYear>
+      <DeathYear>1945</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/6e8c86171e597e7f598dac7b8e568571.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/f0e430e11dc3f27902acbbde474278f6.jpg</string>
+  </Images>
+  <Epitaph>Beloved Friend</Epitaph>
+  <Information>Beloved Friend</Information>
+  <Latitude>45.520548</Latitude>
+  <Longitude>-123.007737</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

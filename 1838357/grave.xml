@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838357</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Samuel J.</GivenNames>
+      <FamilyNames>Galloway</FamilyNames>
+      <BirthYear>1859</BirthYear>
+      <DeathYear>1926</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/c14ec24dc431c28975640034087288b9.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b6a67a2bdf8f326b60d2f2a16b44a4cf.jpg</string>
+  </Images>
+  <Latitude>45.520554</Latitude>
+  <Longitude>-123.004905</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

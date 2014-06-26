@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778610</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Peter H</GivenNames>
+      <FamilyNames>Hagey</FamilyNames>
+      <BirthYear>1829</BirthYear>
+      <DeathYear>1905</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mariam F</GivenNames>
+      <FamilyNames>Hagey</FamilyNames>
+      <BirthYear>1837</BirthYear>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>true</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/2763934e46fee3d090fdb66e4a939e9e.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d74978eb473b5cb3a8207826f47a2443.jpg</string>
+  </Images>
+  <Latitude>45.520185</Latitude>
+  <Longitude>-123.004312</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

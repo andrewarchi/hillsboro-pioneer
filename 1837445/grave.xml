@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837445</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Glenn R</GivenNames>
+      <FamilyNames>Jones</FamilyNames>
+      <BirthYear>1909</BirthYear>
+      <DeathYear>1956</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/46180b1048f5f5e0a628e34d66b2755c.jpg</string>
+  </Images>
+  <Information>Husband &amp; Dad</Information>
+  <Latitude>45.520895</Latitude>
+  <Longitude>-123.004798</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779808</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Ella E</GivenNames>
+      <FamilyNames>Rice</FamilyNames>
+      <BirthYear>1870</BirthYear>
+      <DeathYear>1956</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>John T</GivenNames>
+      <FamilyNames>Rice</FamilyNames>
+      <BirthYear>1864</BirthYear>
+      <DeathYear>1937</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/3d02a73cb9a5181eedd7fdccf62eb776.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/cb1186e2555bcfe4deff9dace2d96ea4.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e8edacb8ecadadd248ced3b46084e696.jpg</string>
+  </Images>
+  <Latitude>45.520474</Latitude>
+  <Longitude>-123.004119</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

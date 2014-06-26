@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1667916</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>George John</GivenNames>
+      <FamilyNames>Augustine</FamilyNames>
+      <BirthYear>1869</BirthYear>
+      <DeathYear>1938</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/ef84b90b7209ec4ffac3b1faff02227f.jpg</string>
+  </Images>
+  <Latitude>45.520728</Latitude>
+  <Longitude>-123.005557</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

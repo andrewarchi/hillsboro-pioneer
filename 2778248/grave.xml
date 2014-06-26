@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2778248</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Frank G </GivenNames>
+      <FamilyNames>Bennett</FamilyNames>
+      <BirthDay>30</BirthDay>
+      <BirthMonth>Nov</BirthMonth>
+      <BirthYear>1915</BirthYear>
+      <DeathDay>29</DeathDay>
+      <DeathMonth>Feb</DeathMonth>
+      <DeathYear>1972</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/48f5dee4b84128f5fb9baaeadf0b75c0.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/324c40f3cf7ff79b9ec18d721912d7e8.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/68a6ab832f8085125a51d8eaa7d9b835.jpg</string>
+  </Images>
+  <Latitude>45.52016</Latitude>
+  <Longitude>-123.004499</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

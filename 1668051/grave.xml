@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1668051</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Christian</GivenNames>
+      <FamilyNames>Vannet</FamilyNames>
+      <BirthDay>29</BirthDay>
+      <BirthMonth>Feb</BirthMonth>
+      <BirthYear>1852</BirthYear>
+      <DeathDay>24</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1928</DeathYear>
+      <MarriageDay>12</MarriageDay>
+      <MarriageMonth>Sep</MarriageMonth>
+      <MarriageYear>1880</MarriageYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Mary Ellen Wingard</GivenNames>
+      <FamilyNames>Vannet</FamilyNames>
+      <BirthDay>10</BirthDay>
+      <BirthMonth>Aug</BirthMonth>
+      <BirthYear>1863</BirthYear>
+      <DeathDay>31</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1933</DeathYear>
+      <MarriageDay>12</MarriageDay>
+      <MarriageMonth>Sep</MarriageMonth>
+      <MarriageYear>1880</MarriageYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/69b1f75d7f241e605b7c64e1b61b26db.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/89134eb043cbd960fa8b40a7ae750e30.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/65f1a18dc69e7dac5715840518b72d6b.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b6c9b8fd97b17f6550ec10bc8127a9a2.jpg</string>
+  </Images>
+  <Latitude>45.520129</Latitude>
+  <Longitude>-123.005551</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

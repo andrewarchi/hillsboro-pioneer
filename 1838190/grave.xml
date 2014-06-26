@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838190</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Fannie F</GivenNames>
+      <FamilyNames>Gailey</FamilyNames>
+      <BirthYear>1868</BirthYear>
+      <DeathYear>1956</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/2ddd94222a372d000d4b89455482203b.jpg</string>
+  </Images>
+  <Latitude>45.520538</Latitude>
+  <Longitude>-123.006561</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

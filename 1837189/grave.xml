@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837189</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Susannah</GivenNames>
+      <FamilyNames>Bridgess</FamilyNames>
+      <BirthDay>19</BirthDay>
+      <BirthMonth>Sep</BirthMonth>
+      <BirthYear>1834</BirthYear>
+      <DeathDay>12</DeathDay>
+      <DeathMonth>Jan</DeathMonth>
+      <DeathYear>1903</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>M M</GivenNames>
+      <FamilyNames>Bridgess</FamilyNames>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/def4d405625f02a463d36521221dca0d.jpg</string>
+  </Images>
+  <Latitude>45.520471</Latitude>
+  <Longitude>-123.005006</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837215</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Alta Lamkin</GivenNames>
+      <FamilyNames>Wall</FamilyNames>
+      <BirthYear>1878</BirthYear>
+      <DeathYear>1961</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/77ed815794f13cd1310aa16b7ec2ca9d.jpg</string>
+  </Images>
+  <Latitude>45.52049</Latitude>
+  <Longitude>-123.00783</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

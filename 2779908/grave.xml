@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779908</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Stella</GivenNames>
+      <FamilyNames>Hoover</FamilyNames>
+      <BirthYear>1872</BirthYear>
+      <DeathYear>1941</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/135f7a28cdccd63f26e4edbebb6aca97.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b32eac0a8f044dbf6c1c0019975ef661.jpg</string>
+  </Images>
+  <Latitude>45.520127</Latitude>
+  <Longitude>-123.004038</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

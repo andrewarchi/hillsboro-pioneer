@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837504</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>David C</GivenNames>
+      <FamilyNames>Pearson</FamilyNames>
+      <BirthYear>1846</BirthYear>
+      <DeathYear>1916</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/dbbe07c9212f072393fd20b78f9ab532.jpg</string>
+  </Images>
+  <Latitude>45.520311</Latitude>
+  <Longitude>-123.00476</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

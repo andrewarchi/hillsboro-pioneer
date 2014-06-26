@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1667915</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Rose</GivenNames>
+      <FamilyNames>Lyon</FamilyNames>
+      <DeathDay>3</DeathDay>
+      <DeathMonth>Nov</DeathMonth>
+      <DeathYear>1948</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/232a76c912b87eba58cb132f4fff9c44.jpg</string>
+  </Images>
+  <Information>Beloved wife of Ray Lyon</Information>
+  <Latitude>45.520744</Latitude>
+  <Longitude>-123.005562</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

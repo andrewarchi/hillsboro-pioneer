@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1836552</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Marion C</GivenNames>
+      <FamilyNames>Sherwood</FamilyNames>
+      <BirthYear>1876</BirthYear>
+      <DeathYear>1956</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ells C</GivenNames>
+      <FamilyNames>Sherwood</FamilyNames>
+      <BirthYear>1872</BirthYear>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>true</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/46cdcb88698bd2f8bc801c4ec9f118ff.jpg</string>
+  </Images>
+  <Latitude>45.52039</Latitude>
+  <Longitude>-123.004599</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

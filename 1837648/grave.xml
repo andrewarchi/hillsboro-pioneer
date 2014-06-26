@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837648</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Charles A</GivenNames>
+      <FamilyNames>Lamkin</FamilyNames>
+      <BirthYear>1882</BirthYear>
+      <DeathYear>1937</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/b15e3c396a015a22b49e0b3f44fbe797.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/d7d39d302a010a9997414450a9d4d689.jpg</string>
+  </Images>
+  <Latitude>45.5201</Latitude>
+  <Longitude>-123.005059</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

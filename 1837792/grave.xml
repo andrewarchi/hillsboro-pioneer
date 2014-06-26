@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1837792</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Marcela</GivenNames>
+      <FamilyNames>Martinez</FamilyNames>
+      <BirthDay>30</BirthDay>
+      <BirthMonth>Oct</BirthMonth>
+      <BirthYear>1920</BirthYear>
+      <DeathDay>6</DeathDay>
+      <DeathMonth>Sep</DeathMonth>
+      <DeathYear>1991</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/e9b6156457ae3226ce61a8f7e72431a3.jpg</string>
+  </Images>
+  <Information>Daughter</Information>
+  <Latitude>45.52075</Latitude>
+  <Longitude>-123.00722</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

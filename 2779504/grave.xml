@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2779504</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Belle Rose</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthYear>1866</BirthYear>
+      <DeathYear>1950</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+    <PersonRecord>
+      <GivenNames>Ernest Clark</GivenNames>
+      <FamilyNames>Brown</FamilyNames>
+      <BirthYear>1861</BirthYear>
+      <DeathYear>1952</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/c/83194/577b65b87c3859d4614175ab3cfd35bb.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/0d7de69bc7d4a2d8af977877be837bf6.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/9ee513ee2564c0634f3b02f23a8f8309.jpg</string>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/079a505641dbcc0d1c2dc214486a9621.jpg</string>
+  </Images>
+  <Latitude>45.520292</Latitude>
+  <Longitude>-123.004342</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>

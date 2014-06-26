@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1838003</Id>
+  <PersonRecords>
+    <PersonRecord>
+      <GivenNames>Roy W</GivenNames>
+      <FamilyNames>Shipley</FamilyNames>
+      <BirthYear>1884</BirthYear>
+      <DeathYear>1958</DeathYear>
+      <IsChanged>false</IsChanged>
+      <IsVerified>true</IsVerified>
+      <IsCityRecordWrong>false</IsCityRecordWrong>
+    </PersonRecord>
+  </PersonRecords>
+  <Images>
+    <string>https://s3.amazonaws.com/bg.ami.com/images/7acd711abd0cf5423d952d87b8f603bf.jpg</string>
+  </Images>
+  <Information>Husband</Information>
+  <Latitude>45.520712</Latitude>
+  <Longitude>-123.007395</Longitude>
+  <IsVerified>true</IsVerified>
+</Grave>
